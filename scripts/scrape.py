@@ -50,7 +50,7 @@ def main():
                     "summary": summary,
                     "source": source,
                     "published_at": published_at.isoformat(),
-                    "category": "AI 新消息"
+                    "category": "1. AI 新消息"
                 })
         except Exception as e:
             print(f"抓取 {source} 失败: {e}")
