@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T02:44:09+00:00",
+  "window": "最近24小时（UTC 过滤）",
+  "items": [],
+  "summary": "最近24小时内未从配置的公开 RSS/论文源取得可确认发布时间的条目。请检查工作流日志和数据源；不会用旧闻填充当日简报。",
+  "notice": "自动采集公开 RSS 与 arXiv feed；目前不接入 X/Reddit 热度指标，也不声称能证明提示词/视频/赚钱案例爆火。各分类按真实抓取结果展示，不足时不会编造。 数据源提示：Anthropic: 404 Client Error: Not Found for url: https://www.anthropic.com/news/rss.xml；arXiv cs.AI: feed empty；arXiv cs.CL: feed empty；arXiv cs.CV: feed empty"
+}
