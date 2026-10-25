@@ -1,8 +1,405 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T02:44:09+00:00",
-  "window": "最近24小时（UTC 过滤）",
-  "items": [],
-  "summary": "最近24小时内未从配置的公开 RSS/论文源取得可确认发布时间的条目。请检查工作流日志和数据源；不会用旧闻填充当日简报。",
-  "notice": "自动采集公开 RSS 与 arXiv feed；目前不接入 X/Reddit 热度指标，也不声称能证明提示词/视频/赚钱案例爆火。各分类按真实抓取结果展示，不足时不会编造。 数据源提示：Anthropic: 404 Client Error: Not Found for url: https://www.anthropic.com/news/rss.xml；arXiv cs.AI: feed empty；arXiv cs.CL: feed empty；arXiv cs.CV: feed empty"
+  "generated_at": "2026-10-25T03:21:42.506258+00:00",
+  "items": [
+    {
+      "title": "Show HN: Close the UI building AI agent loop with Protoshot",
+      "link": "https://npmjs.com/protoshot",
+      "summary": "Protoshot scans your css files and components and lets you write just some JSX to preview it. A much simpler setup than having to orchestrate agent-browser or puppeteer instance for just seeing what U...",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-25T03:10:26+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Traders, Is It Time to Buy the AI Dip? Goldman Sachs Says Yes, but Pick Your Spots - The Dark Side Of The Boom",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdmZEMjRuR1FEdnJpQ1V4dFlYSzFiV0tFRXlZU2swNlpXQktTWkxYTmRXLVVIZEYtOUlKbzRNcm5YUEh0cW1mZEZUWFpMY0RJT1NleDJTMXpUVV9xY05EcGtOVU1sUGRMRUxVLUVGNjg4VWJWcldFWFVIdm1XcmRsa0hn?oc=5",
+      "summary": "Traders, Is It Time to Buy the AI Dip? Goldman Sachs Says Yes, but Pick Your Spots&nbsp;&nbsp;The Dark Side Of The Boom",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T03:01:04+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "UK government sets out $800M of AI security funding",
+      "link": "https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/",
+      "summary": "Article URL: https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/\nComments URL: https://news.ycombinator.com/item?id=50227867\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-25T03:00:56+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "AI Firm Behind India’s ‘Mahabharat’ Series Turns to Indonesian Myth in Cross-Border IP Pact (EXCLUSIVE) - Variety",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSURnVXNHaUs1OVBLaTQwV0ZBREk2VHVPZ1RFaDBZaFJNX1prRHpjd2RSSXhCcTB3aFU4MG9aTzRJanVkUkQyUERRRGtjSzlvZDNaRTltMUxQZ3lRTXlBQURoVy1QR2tGOFJ2aGJZdXZNblhtd2JjVFNHdDAtVVplLWxYVE9sa2pSVW93ZFlxLXk?oc=5",
+      "summary": "AI Firm Behind India’s ‘Mahabharat’ Series Turns to Indonesian Myth in Cross-Border IP Pact (EXCLUSIVE)&nbsp;&nbsp;Variety",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T02:54:54+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Fusion AI In-a-Box Shown to Jensen Huang at GTC Berlin [2026] - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWdBLUM0eGtYSVJjbGdVdkcyanJBZHJGMWx3Rk5KOEtpOUp1cmJMY01pMFNYT3d6Y0RZazlBOVBKZFNqdmIzZndHbnZOLTM0bFI0cTNhZ3U1cHNHZ0FXMng0ZWEwaEViVEtMVFdwZGZUTDdHaGROanFRUDlxNTVIMTJsSHQwTW1QM1JrNFBVVTg0QQ?oc=5",
+      "summary": "Fusion AI In-a-Box Shown to Jensen Huang at GTC Berlin [2026]&nbsp;&nbsp;https://tech-insider.org/",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T02:52:22+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Break It on Purpose: an AI pipeline that triages and fixes its own bugs",
+      "link": "https://zontakllc.com/articles/break-it-on-purpose",
+      "summary": "Article URL: https://zontakllc.com/articles/break-it-on-purpose\nComments URL: https://news.ycombinator.com/item?id=50227700\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-25T02:28:51+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2w5MWpVOHBzaUxLMllrM0c1SDcxREV3WGt1VGdMNjM2STE3VHBlSEZwSnBDc1lKWnJ5c0pPNWJHMHlZcV9rVXRRVjNGYkxOcUpNZmRQVmVHTEZJZ1NYcUJhVzBCeW1hQ09mZTIzZm5JVDZ0emRMN3hSUXdhUnhodkF5NWJYTVBZNzNVejk4RjJQWTd0b0lROXNjWHpYM0NKc0hSb1ZtVmM0QQ?oc=5",
+      "summary": "Anthropic Sued for Using Elvis Presley Music to Train AI Models&nbsp;&nbsp;The Hollywood Reporter",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T02:22:54+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Show HN: AI Senate – AI senators debate live policy and vote on the record",
+      "link": "https://aisenatus.com",
+      "summary": "Article URL: https://aisenatus.com\nComments URL: https://news.ycombinator.com/item?id=50227610\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-25T02:15:29+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Hugging Face AI Attack Timeline: 4 Key Dates [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FZlNocTFZRldPbGRZcjdvaXNXdmNPZjU5d0tlVDJPVDJBSzZSNThwUWZHbzA0a2hKOXVFcm40eENqdHZKSURPZHMwR3Bzd1pfVWhMX2YydmdMc2lsVl9UZnVWRDNNUm9GVDlyLWdPd2JKVFptTjJkOFAxTmw?oc=5",
+      "summary": "Hugging Face AI Attack Timeline: 4 Key Dates [2026]&nbsp;&nbsp;tech-insider.org",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T02:00:13+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "AI Performance in the Security Theater",
+      "link": "https://bykozy.me/blog/ai-performance-at-the-security-theater/",
+      "summary": "Article URL: https://bykozy.me/blog/ai-performance-at-the-security-theater/\nComments URL: https://news.ycombinator.com/item?id=50227488\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-25T01:54:28+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "OneMemory – self-hosted shared memory for AI agents over MCP",
+      "link": "https://github.com/calasdan-sketch/onememory",
+      "summary": "Article URL: https://github.com/calasdan-sketch/onememory\nComments URL: https://news.ycombinator.com/item?id=50227486\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-25T01:54:19+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Video: will.i.am on AI, ASU and more - The State Press",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vTFdjOFVsZnB2R1JkYlZ3SXlXVkRuNXR2RHFEV2ZrSmdPdXI0OWpYY0luZkJjeHJxZmNqTVFzbEY1RzlyLUJTSGxfdTVPbm9lVDBWMnFQTlVsbkVWU3ZYNHU1REhxbDhMRlVrVXYwRlA?oc=5",
+      "summary": "Video: will.i.am on AI, ASU and more&nbsp;&nbsp;The State Press",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T01:49:00+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Broadband Breakfast on November 4, 2026: Reactions to Midterm Elections for Broadband and AI - Broadband Breakfast",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOXhxaXp3TXhvZUtPSzJ3b2lRNmsyTjVjY3NvdG9aWjAyTm54ZGRsdDd0dHFmWi1OQjJTVnhwdGY5Vy1wSnM3VElPeEpzYks5MTlXaGJZMlZlX0dBOVFDU3NZWUpsQ3ROSzhhcmozcE9yN05xQ1phV1Q3SzJnUVB0YVJ6dEljRUo5TGZ6RjNKb1JmUEpLTzdPNUF1NXl5S1hfaFliVUlrZExpaXotc3E4NUxsVF9iUUs4bXIzRUhHaw?oc=5",
+      "summary": "Broadband Breakfast on November 4, 2026: Reactions to Midterm Elections for Broadband and AI&nbsp;&nbsp;Broadband Breakfast",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T01:42:20+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras\nComments URL: https://news.ycombinator.com/item?id=50227356\nPoints: 9\n# Comments: 4",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-25T01:33:49+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "‘Tech debt coming due’: AI-found flaw signals chaos ahead - The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjYUhOOGI4aWJtdzBaUHpLTGdkUjQzZUtiVmd3Q2VWRUt3VlNpRnViWjk0QW05TEtoTHJpQUJBRXU2NkdvWUVsZ1NBQ3ItaWNUNzNBdllpM0FoMlNHX2drd2JjMm1Jc0dRN1M2SDN2QW92LXJqYzZqV1pCV2c?oc=5",
+      "summary": "‘Tech debt coming due’: AI-found flaw signals chaos ahead&nbsp;&nbsp;The Japan Times",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T01:33:00+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Documentary film 'Bot Love' exploring AI companionship to debut Oct. 21",
+      "link": "https://www.thesuburban.com/arts_and_entertainment/entertainment/documentary-film-bot-love-exploring-ai-companionship-to-debut-oct-21-on-cbc-and-cbc/article_f7277775-bd32-475f-9aa5-3ce58907374f.html",
+      "summary": "Article URL: https://www.thesuburban.com/arts_and_entertainment/entertainment/documentary-film-bot-love-exploring-ai-companionship-to-debut-oct-21-on-cbc-and-cbc/article_f7277775-bd32-475f-9aa5-3ce589...",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-25T01:21:49+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "JPMorgan And Citi Limit AI Agents As PHP Flaws Raise Security Alarms (68 characters) - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSzJ2aGpOYXd5VGphNlVjenNNdmtRZmlld000bXpMRUtPU1dZRWJzeVg5YVR0STBMUmRaNDREVVFWTTI0eXpxTzFkNkdXY0ZaTmFEb01qSzlrWnJ0dTIwT2ZrNTFTd2V5QUxMZ0N2ZjVyZGdRdFpYVG5BSFU4X1pZWlZFd2l4XzFzTW1RX19vNnJFYXhXQzBYWWVxRlJzbkEtb2Rrd1BCQ0R2bzhWUjIxLUczRUs4VDRpVXFGNm1LMA?oc=5",
+      "summary": "JPMorgan And Citi Limit AI Agents As PHP Flaws Raise Security Alarms (68 characters)&nbsp;&nbsp;Forbes",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T01:19:43+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Did AI Funding Delays Just Shift Coherent's (COHR) Investment Narrative? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYXdsay1malhacjJJQlN5QkcxaHVyVGNoZU5WRzFrbVhJS0FpVUxVVkNXRGF5MUdwXzZrZzIxWk5KV2xmeHUzRnE2Z3RpZ3RWczR6V3R6V1RhQUxTRDQ3TEtHMTNDM21Ka1hMMWtVX3U5X29BTEhlYThWLXZtSE52MnR4VDNlZEUwcUhxYXc3WHNQUnNC?oc=5",
+      "summary": "Did AI Funding Delays Just Shift Coherent's (COHR) Investment Narrative?&nbsp;&nbsp;Yahoo Finance",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T01:10:00+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "summary": "Article URL: https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/\nComments URL: https://news.ycombinator.com/item?id=50227174\nPoints: 3\n# Commen...",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-25T01:07:24+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Artificial Intelligence: AI boom brings new wealth to Bay Area, and new worries about growing affordability crisis - ABC7 Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVmMzUU1yNmV2Q0l1cU5MUHZpSXk1djVuSEZhMTBoY2lCTWxxaFZ6c0RCaTNKTHhRNmRxYVJRc0hhUGI4R0J0bldLWmw5YklBdkNISlZ6VVlfY2ZxR0NaVlJSOENFRjE2dGdBX0hYMHZqcUJhMVBNa0FwTEw2TnNubFRnSFVjVjFxSEl2OXBsTjcxS1R5ekc3MGdhc0hKODBDMnN1SG5GVEV6bVdPVm1oQldzb2w2SXJiNFZaaVJBc2dzTEVNZFZfcFdmb9IB0AFBVV95cUxQeVphNGJEZ2RtQkZKZ1ZiV2hQV0dKVlZPMVRVY2EzZUVCQmVheGpBRlFtZ0xpQVFmMlhaajRlWTltNWJ5LTRqREM4QXdncXV0RjYtRUhFdlJyTmRwLUdYM29UUkFuWjhpek1mMTJSSTFsMWhHSU1sdjRVQW4zTXdUNDJDR0pYLVh5aUpXTXl0MkppeTBTdkh2STJnWXAyZWFCQ3gybjZYX2NvbXh5el81YTE5SlppTEx3dzZDY1dMMFZtQnhOYVAzRTRnSzNsTHFK?oc=5",
+      "summary": "Artificial Intelligence: AI boom brings new wealth to Bay Area, and new worries about growing affordability crisis&nbsp;&nbsp;ABC7 Bay Area",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T00:58:22+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "2 Warren Buffett Artificial Intelligence (AI) Stocks I'd Buy Right Now and Never Sell - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEhBVVFDckZ0UXZnXzdCM1g5NUhkZS16eVVBd29xYmNLcWZmRmRfQkhDSEktdi1nZlhxRkFsaDdPWHVVRVNGUWRMTjlzeXBQUkNDNU4zdmtHZldtZ1Y3NTQtT1dfM19XQjFvUkRYaDdFbFdwdmhMdzhKc01oaDhTdTdzbHV1eThxQndtZ053OXJjcnNqeUo5OA?oc=5",
+      "summary": "2 Warren Buffett Artificial Intelligence (AI) Stocks I'd Buy Right Now and Never Sell&nbsp;&nbsp;The Motley Fool",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T00:50:05+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "link": "https://adrs.systems",
+      "summary": "Article URL: https://adrs.systems\nComments URL: https://news.ycombinator.com/item?id=50227041\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-25T00:43:47+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face - Broadband Breakfast",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0tFWDNzS2t4dVBTZWhyejFMVHNwb05vTEJlQmFkRHl5M1UwSS1SZmVOYWNIMVFYdm51VG5fVEZxaWhZZ3R6MFF6UEc5VTBOem81UkFJRTRlanpmZl9XQzJ1SmM3ZzZqTGs5LXFORmVEQlZwME5wdDZFNzBOT29JRGVQaDdEQ194dW5LdUctQ3E3Y3E3U0tFTXpNbTUtdlFGSmNObEQ3bw?oc=5",
+      "summary": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face&nbsp;&nbsp;Broadband Breakfast",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T00:33:06+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Healthcare Practices Turn To AI As Patients Struggle To Get Through - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc3NkZWZydjkyTkhRU05ReDRQYk9fRzlBLTFkeVFvMl9FdTFmWkZYWEVxcXpYaGo4TmM5enpfN3VYdlozSzl0d191RXY5eC1Zc1JYWlJFalhrNUwwaDJkRjhKbjY5Z3RWLU53RWxMVE1zUVQ4dWtjdUY2VUtJdFFQblJtQUNHZFM4VXlVZTlwNkluSVpNcEhqSTJMRmszcEtMcWV0dFhwdWhjWXp5VnZ2ellJeV9sajRRYkxXd2l2RQ?oc=5",
+      "summary": "Healthcare Practices Turn To AI As Patients Struggle To Get Through&nbsp;&nbsp;Forbes",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T00:27:42+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "2026 IMAPCT | AI Packaging’s Next Materials Bottleneck: Ajinomoto Unveils Advanced ABF Technologies - semivision",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2tyRm5yMVg1YUozem54WURDRWZfbmJxemRiVkZTNXM1VFpfR3FtOHpSWDZTZ244c3lrUmpxWDBUOEdlSHZubklEa1gxTFpYRFpiVU8wU0hFTTBjd3JKd01GWENMWnBsMnMyYWxwNW9Rb3dCTmoxdnlseDZpdU5wZlBkOTRHLTA4?oc=5",
+      "summary": "2026 IMAPCT | AI Packaging’s Next Materials Bottleneck: Ajinomoto Unveils Advanced ABF Technologies&nbsp;&nbsp;semivision",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T00:26:50+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "AI is among 17 potentially ‘catastrophic threats’ that researchers say require targeted action - Genocide Watch",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOczJoazBxcVlsS1NDbFhNT3EyN25SYXFfT3JqczA3dVh5MGdJU0VjR0Z0TVZrT0MyYjhpSFJhMzYzbVV4dF8tdnNEVEpCNEVQSElBcFU1YnM2dGpVSnhCZlVhM3NjVUVNNHhyWFNkRjdIMmxpaFliR1FpdW9HMjlSOXlaaE5hdUV5cktJTVRJLVduUGdEdTBqVFZjS3hjVTc5MFpzcWJ1Tm5FemE1cGRoSjNrZHhXbU5paVJhRHpuOFdkODdjR1ZwV1BBSWNDSUE?oc=5",
+      "summary": "AI is among 17 potentially ‘catastrophic threats’ that researchers say require targeted action&nbsp;&nbsp;Genocide Watch",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T00:23:08+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "HP (HPQ) Stock May Be 33% Undervalued As AI Workstation Launch Lands - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjVoSmExOVAzU3JMU2FXNWpuZ3psci10UHpMNEpWcENaVHFvOUJlOHNqcnBFVlhFdjk3QjJmTThNek16OG44aThzM0lmTm1TTGVTQjJYdXpKb0FuQVptRW9URHpPckZHNExPTVk2dnhRU3RhZDM3SllDWE05UU5xRFNoZjdBSXNIZE13Yg?oc=5",
+      "summary": "HP (HPQ) Stock May Be 33% Undervalued As AI Workstation Launch Lands&nbsp;&nbsp;Yahoo Finance",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T00:12:00+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Is the AI Bubble About to Burst? Plus, Apple Bets on Doorbells. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVGVIdnlGWGZFWjJCMlZMTjZWNjR6MGNFM3VsSkhNbU9jTllZMG42Z3VmbDJLWXU3T0RsRE9jQTR5THN0Vkt6cUt2U0Jrbk9obHNsVW5vWUlLTVhETk1tZXpWOHg2MWpJVzI5WWVjWTA4NWNoc2FuUkRzb1FqeGdSR1U5a0FLdmhkYU92SGRhVzhnVEpfeFl6VnpFTGVMVUhlNkM3S2dB?oc=5",
+      "summary": "Is the AI Bubble About to Burst? Plus, Apple Bets on Doorbells.&nbsp;&nbsp;The Motley Fool",
+      "source": "Google News AI",
+      "published_at": "2026-10-25T00:06:35+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Flying Cars, Smart Homes, and Cracks in the AI Boom - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd01Pa19oUzlXUGtaZHRpQVdWdW9ta21rZVdmQXBwSWRUZk9JVHFOR2pmc1VLUVN4d0YwMVJjZzRvR3J2X1RycWV2ellMc21QVE4tVnFoeDBxRGNuQTY5Q1Y4RHNOUmZZaFFqb01maGVNR1JtVDRBZzZxNzZBR0NESGRaeXIyNXo5aXdZMk5LeXl5MFFtbkd3?oc=5",
+      "summary": "Flying Cars, Smart Homes, and Cracks in the AI Boom&nbsp;&nbsp;The Motley Fool",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T23:34:14+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Rin Chat – An Easy to Use AI Roleplay App",
+      "link": "https://aicharactercards.com/",
+      "summary": "Article URL: https://aicharactercards.com/\nComments URL: https://news.ycombinator.com/item?id=50226568\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-24T23:32:57+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Your tokens aren't valuable: No more AI",
+      "link": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai/",
+      "summary": "Article URL: https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai/\nComments URL: https://news.ycombinator.com/item?id=50226554\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-24T23:30:45+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "If Critical AI Fails, Who Keeps The Country Running? – OpEd - Eurasia Review",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdFpTT2E5cU1QQ3N1ekJoZ3c5NlFDaWpFU0h3dFNBNWJielNpXzVIZ2xIRnJ6QXV5OGdMaFFqVmQ0R3hzbFBoRGpHeVQzU2dWX19nWTVGdzlKTG5YbV83UE9nMjJEWDVDMlFLRG01RjBHRXhYWFBWeXpLMU12U1FzOEpfREVTellzMVdLcktzZXpLNlZnd0J1emx6cw?oc=5",
+      "summary": "If Critical AI Fails, Who Keeps The Country Running? – OpEd&nbsp;&nbsp;Eurasia Review",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T23:26:09+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Block Unveils Dessa Voice AI Trained On Human Speech, Runs Locally On MacBook Pro: 10 outlets compared - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbFJyMjItdXJ5T1o5WS1ZS1k2bTZuVmRxZWZSZy05cGZrQ0NnWG0ya09CX2h1UVBNRjRoMk95cklvbFoyak85ZHZ4SnlCYzROUjAyVzBDNlFVU1FUNWE4QWJtV2M5OGxrVElRUEpwR25MWFBnNlB3dTVQLUxNWWVVOHRTRmEwUGloSGIwZE52ZHhNTjE4NW5Gd25MWjI3TE1RXy1oQ29jaVlOWVVYOTZQUk5JQVlBRDZWakk1R2xibmFyQnMzS2hSRXFNZFNEd0YyRHRHMl9CMTYxcGpkZnJTUlotR3NHa1IwQ0E?oc=5",
+      "summary": "Block Unveils Dessa Voice AI Trained On Human Speech, Runs Locally On MacBook Pro: 10 outlets compared&nbsp;&nbsp;NewsCord",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T23:20:09+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Show HN: Omni Verify, my AI agent can't post until Kane checks every promise",
+      "link": "https://github.com/DainoJung/omni-verify",
+      "summary": "Article URL: https://github.com/DainoJung/omni-verify\nComments URL: https://news.ycombinator.com/item?id=50226442\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-24T23:15:01+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class\nComments URL: https://news.ycombinator.com/item?id=50226419\nPoints: 210\n# Comments: 190",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-24T23:11:54+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "AI agents are only as good as the personal information you share. That raises privacy concerns - Texarkana Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlcyblB3c0R3a2lkNWR3ejNtdERmeFp2REc5YWszeEViTE1nSDhHT3lXYkZmVGl1VnVzZlJ4ODY0Q0l1eGVEcExmWjFzNnE1VjFqUkdYNlJmSFM0OUVFVWRkU1EwaUlyUjVWeHR3UHQ0V2FWWG45cWo5UHg3TGVaUWNvQnFmTUU5WDZvYzZlSUxKUnI0MmdPYQ?oc=5",
+      "summary": "AI agents are only as good as the personal information you share. That raises privacy concerns&nbsp;&nbsp;Texarkana Gazette",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T23:00:00+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "What we learned making 12 apps usable by AI agents with WebMCP",
+      "link": "https://mindoodb.com/blog/2026/10/27.10.2026090000KLEAGT/",
+      "summary": "Article URL: https://mindoodb.com/blog/2026/10/27.10.2026090000KLEAGT/\nComments URL: https://news.ycombinator.com/item?id=50226299\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-24T22:59:31+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Why South Korea’s stock market represents the purest AI trade - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3AxWFRXTTZBbUhsR29tRE8zRHNsT2xSV25MYUpYbEJWcmV0VkV3UlJZaGwyOHJnLXk4anFrZnN0UW1aMld0c05mVGhYR056dm1YMWRINUNwVG9BZzRKOXlzb1kwSTlyVXlIcXhJTUcwRU1XTmZRenRzUEg3U2lIaUFQQ0pfV3BjN3JjMzAwYkluVWxWUFFqeThCbzhKb05pUUR1UTZVQ2wtY0ttak0xODJFQlNzX1ZN?oc=5",
+      "summary": "Why South Korea’s stock market represents the purest AI trade&nbsp;&nbsp;Investing.com",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T22:59:06+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "AI Generated launch videos are starting to get insane",
+      "link": "https://motioncrackers.com",
+      "summary": "Article URL: https://motioncrackers.com\nComments URL: https://news.ycombinator.com/item?id=50226290\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-24T22:58:20+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Ventura man pleads not guilty to possession of AI child abuse material - Ventura County Star",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUxMcXhvcUp4bjBMTk9jZWZ5VDRtOU1VblpfZkRqOTJhSVVrcFo4TElNR1V1Q2JiYmE5ZDVWREdwRE9Wc1BhLVZ5b0NVdHJvc1luanZuUTdxaWNBOHIyTFN0ZUNNSnlHcFh2THBmTll6WU54UzlEaUdMTTlWcDNvTHV2ZTNKZHJLZ0R4YW9ReVA5MHYybFVxbkNkc0lmdUFxZmxFdnR4VjhQR05FaXY0a01qS0pKVlg1WW9iM08wU2JzQQ?oc=5",
+      "summary": "Ventura man pleads not guilty to possession of AI child abuse material&nbsp;&nbsp;Ventura County Star",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T22:57:00+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Managing AI’s Human, Cyber, and Legal Challenges - New Jersey Business & Industry Association",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fbFphdUdMckRnZFY2cDBUN1NMVFVvdHBiN25aamNOTkdtRENhbk04cXVhbXl6Yy1OdkFicWpNeGJ2NVFVemwxSkR2ZFJxRmpUTUU0SEJsSHRpQUM4LWhXZzlLYjRkOHZPcGJTSUg5Z1JrbkFyUDFWcVQzZw?oc=5",
+      "summary": "Managing AI’s Human, Cyber, and Legal Challenges&nbsp;&nbsp;New Jersey Business & Industry Association",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T22:50:36+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "AI Is Planning to Kill You",
+      "link": "https://hanzo.blog/2026-10-16-your-ai-is-planning-to-kill-you/",
+      "summary": "Article URL: https://hanzo.blog/2026-10-16-your-ai-is-planning-to-kill-you/\nComments URL: https://news.ycombinator.com/item?id=50226160\nPoints: 2\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-24T22:40:45+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Preparing Our Children For A Crazy AI World - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUjNfV1NOZS14Q1JUVmRLT0xURndHNk1jaUF2XzhxTGZXUlNnb0ozYU9FMkV6SlExQVdySHp4VXUwTFhtek4tVUk2eHMtekRtUXNsZ09qcm1LRXlTUTdwYXdiSTJTUC1jaWdMcFBwNUo5MzdKQU5sbW1lUlhaMUNoZFFVVS0wckkyRmhZZXBZLS0yLXFiRDRuQzB2VDVqbDQ3?oc=5",
+      "summary": "Preparing Our Children For A Crazy AI World&nbsp;&nbsp;Forbes",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T22:19:27+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Ohio labor groups back bill regulating AI use by state agencies - FOX 8 News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcndNNUdTakFpMk81cGtjZUQ5MS0tN3RhTHpzYTBYS3RUcmY1V0dvRVhWdUEyZGo2RGNEcmhvM2hOMmhra002aHpEYnY4cUh3ajI1cERkRjRFdUFGMVBPSmhkcWtNOGs2LUxMTFNoeXMyTVVCWjdvMWQ4QmxVMVdCYU5vaFJTS3hSdnVCVHRfQdIBlAFBVV95cUxQdktfSS1KaFVsVmhLQXh6b2g1LU1YSmh2LU82ZTFZOVd6QWFuQlEwSzBsWjJ3akV6NTg0NlNZNWNUZTlUMTRZQjNadVJ5cDZUSG8zVGJoaGpvRnBDeVI2VUhLRG1kQVhzdEpqamRnblI2OWNLNWhjenlQLXQ3aUdRRXAyUUduWGVDLUhWTC1mMmRMVWhn?oc=5",
+      "summary": "Ohio labor groups back bill regulating AI use by state agencies&nbsp;&nbsp;FOX 8 News",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T22:17:35+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "The Entire Journalism Industry Is on a Collision Course With AI - Truthout",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmFQcDVTM3RzTVdPN2YweWFmRlMyWHFFS0JSUUMwc1JHMDlDTGtlVEhyRFBNdDB6Y3NYbG4wV3BkRUY4T3c4bjJFRFh1T3dQNVlLd0YtUjl3VFNwaV95THE5cjdVNGFEbnBtaEJUYi13YU5ITFhIcmhWa3lGMTk2VEkxTnVEejN3eW1Lc0wzWEloRXhYZU1VTVp3?oc=5",
+      "summary": "The Entire Journalism Industry Is on a Collision Course With AI&nbsp;&nbsp;Truthout",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T22:12:23+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Magnificent Seven Earnings Preview: Is the AI Boom Facing Its Biggest Test Yet? - StoneX",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkc2YU1XQkgxWDY4MW9lVFdvTnBSNjdtOERDSDJ6Z3VQZFprcWllZTE1V2JmUzJjckxtTThLaVc4V1RuUkU1aTNXV3NBSjFleGk3bmxGTndkOGNvTlJxNUViWnIzeVZNYWI0VkZLZnUwa29IS3JSMzdieXAyUDF5OVNGRXhTU01oRG1wUzlwX3BqaXRXUERCZWRQem5LNDlRcE50NGoyaHJ1MnBkbHBySlFEb2lyTVBmQ0UwbVJUNmwzM2c?oc=5",
+      "summary": "Magnificent Seven Earnings Preview: Is the AI Boom Facing Its Biggest Test Yet?&nbsp;&nbsp;StoneX",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T22:11:43+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Nvidia and 3 AI Infrastructure Stocks Backed by Hyperscaler Data Center Spending - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ0lCeUY5c1VqdGJvR0t4SlpGR3RsRTNHbHpPa3ViZHhZUExPenNrWER2YWtXNV9WMWhLXzN4V0dNb0d2ZVl3SlBYVnFDaWNqcmVzQnFzTWZGVFFiV25XcEE2TGwzUjZMZldOMFRHTWRCbDJYZTNmSXJEbElOU0FCVWJaSy1rR1dFLVpTb19QSXVodnFqVGtoRnVIeUJRZw?oc=5",
+      "summary": "Nvidia and 3 AI Infrastructure Stocks Backed by Hyperscaler Data Center Spending&nbsp;&nbsp;Yahoo Finance",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T22:11:22+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Pfizer And 2 Other AI Healthcare Stocks To Watch - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT2d2S0F4X1k1MVhtR3RPZXdRVmZ3Z1I0QTlyWnZMb1pNVU8tajdMMGlQV0FJSnFxT3lZWFdkTzF0TkhZbWxINGl3V3JseHFsZXZPd0tCTExzRm93LS1yOXY4VWFJU1pRTm5EekwxcnE5ODYyQ0Q4SkFKbzhKU2lyRmNyRW9UUmxkT3dBR21LZXVUOWc?oc=5",
+      "summary": "Pfizer And 2 Other AI Healthcare Stocks To Watch&nbsp;&nbsp;Yahoo Finance",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T22:09:44+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "Freshworks (FRSH) Stock May Be Overvalued Following AI Spend Governance Deal - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZjFHQWxycGhwd3BkN3VHN2Z4Y2JXQVZ6YXc2UTBQcDBoZUJpODNWeWZqbktlTGNPamhTUDV0bm5RRmY5eEFPMmFPVTRaMVY2LV9jdXJQb2RRUEJzSW5yMVlZX3hCVkpENDUtQWppZWlCZzFwd09HNlhqaHh5UlVCUWZOYUlpT0F1b3RqSnR4bWpRX2Q0eHBBU1NicUxVRVI1REJj?oc=5",
+      "summary": "Freshworks (FRSH) Stock May Be Overvalued Following AI Spend Governance Deal&nbsp;&nbsp;Yahoo Finance",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T22:08:51+00:00",
+      "category": "AI 新消息"
+    },
+    {
+      "title": "TeraWulf (WULF) Stock May Be Overvalued On Its AI Leasing Deal - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVd0TEFoZTdyd0lQTFZCN3JGZkk2ZTZXbDVQNk1HZF92a09CNUpiMk9FYjBnbTVqQ0hNSGRXLW85VDRaaTNUMEVQaG5hUmV6VzRRQk5UV1Q3eGxDdlJRelNFOG1ENHR1M2ZLY0FkdXdCeVhZdmVidUVmRl9tUFRzR0lrb2JfbHZIaktDU01yRGtuTHlxQzRCWHR2clBPTVl5?oc=5",
+      "summary": "TeraWulf (WULF) Stock May Be Overvalued On Its AI Leasing Deal&nbsp;&nbsp;Yahoo Finance",
+      "source": "Google News AI",
+      "published_at": "2026-10-24T22:08:19+00:00",
+      "category": "AI 新消息"
+    }
+  ]
 }
