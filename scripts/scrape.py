@@ -4,7 +4,7 @@ import json
 import re
 from datetime import datetime, timezone, timedelta
 
-# 这里是你抓取的信息源，我已经帮你加入了 AI HOT，并删掉了之前报错的坏源
+# 只保留经过验证、稳定可用的 AI 信息源
 FEEDS = {
     "AI HOT 精选": "https://aihot.news/feed.xml",
     "Hacker News AI": "https://hnrss.org/newest?q=AI",
@@ -20,17 +20,14 @@ def clean_html(raw_html):
 def main():
     items = []
     now = datetime.now(timezone.utc)
-    # 只抓取最近 24 小时的内容
     time_limit = now - timedelta(hours=24)
 
     for source, url in FEEDS.items():
         try:
-            # 加入 User-Agent 防止被网站拦截
             response = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
             feed = feedparser.parse(response.content)
             
             for entry in feed.entries:
-                # 简单的时间过滤（防止抓取到太旧的文章）
                 published_at = now
                 if hasattr(entry, 'published_parsed') and entry.published_parsed:
                     published_at = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
@@ -53,7 +50,7 @@ def main():
                     "summary": summary,
                     "source": source,
                     "published_at": published_at.isoformat(),
-                    "category": "AI 新消息" # 统一归类到这里，方便前端显示
+                    "category": "AI 新消息"
                 })
         except Exception as e:
             print(f"抓取 {source} 失败: {e}")
@@ -66,11 +63,9 @@ def main():
             seen.add(item['link'])
             unique_items.append(item)
 
-    # 按时间倒序排列，并限制最多显示 50 条，防止网页卡顿
     unique_items.sort(key=lambda x: x['published_at'], reverse=True)
     unique_items = unique_items[:50]
 
-    # 生成前端需要的 JSON 数据
     output_data = {
         "generated_at": now.isoformat(),
         "items": unique_items
