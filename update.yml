@@ -1,0 +1,31 @@
+name: Update AI Daily Brief
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 0,4,8,12,16,20 * * *"
+permissions:
+  contents: write
+concurrency:
+  group: update-ai-brief
+  cancel-in-progress: true
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install feedparser requests
+      - name: Collect latest AI information
+        run: python scripts/scrape.py
+      - name: Commit generated brief
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json daily-brief.md
+          git diff --cached --quiet || git commit -m "Update AI daily brief"
+          git push
