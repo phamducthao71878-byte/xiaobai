@@ -1,404 +1,404 @@
 {
-  "generated_at": "2026-10-29T03:18:47.256939+00:00",
+  "generated_at": "2026-10-30T03:20:54.903286+00:00",
   "items": [
     {
-      "title": "AI startup hacked Anthropic, gains access to employee details, internal messages",
-      "link": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages",
-      "summary": "Article URL: https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages\nComments URL: https://news.ycombinator.com/...",
+      "title": "Google DeepMind 发布《The Economics of Intelligence》：经济转型取决于智能体协调而非单模型变强",
+      "link": "https://aihot.news/items/eyd1nnwnvwo4scx07qhsvwszb",
+      "summary": "Google DeepMind 发布论文《The Economics of Intelligence》，由 Alex Imas、Andrew Koh 与 Shane Legg 合著，探讨 AGI 如何以及何时改变经济。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/eyd1nnwnvwo4scx07qhsvwszb",
+      "source": "AI HOT 全部",
+      "published_at": "2026-10-30T03:04:32+00:00",
+      "category": "7. AI 论文与研究"
+    },
+    {
+      "title": "Ambition in the Age of AI",
+      "link": "https://aumitleon.dev/ambition-in-the-age-of-ai",
+      "summary": "Article URL: https://aumitleon.dev/ambition-in-the-age-of-ai\nComments URL: https://news.ycombinator.com/item?id=50299390\nPoints: 1\n# Comments: 0",
       "source": "Hacker News AI",
-      "published_at": "2026-10-29T03:06:03+00:00",
+      "published_at": "2026-10-30T03:00:27+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "LibTV 开源破亿 AI 短片工程画布，作者实测拆解一人剧组工作流",
-      "link": "https://aihot.news/items/hfaqzbh6g8ni1qwpz6pxm0klz",
-      "summary": "LibTV（liblib.tv）公开了《非妖哉》等破亿 AI 短剧的完整工程画布，把爆款作品的提示词、分镜串联和角色一致性做法摊开展示。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/hfaqzbh6g8ni1qwpz6pxm0klz",
+      "title": "Foxconn Ecosystem Enabling Token Factory For AI In Spotlight At Hon Hai Tech Day 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZzFjbF9zWjdDQUxkeXgyOTI3enJlSEdVREJNWTk0X2szeC1DQnBCc2NzNUx0eFp0WnVQazRObzJFXzZZQW9ORndBdDFuTU9xd0NtdVNYRXVpaDJicVdEdDk5bHNoUmh6OHJYWkpodmQ1Tnhmc2lWck45b25kT1lOdUFMQV8xZmRQMkExV1JaVVVFZlNwQnQyN3ZIQW5uY2hESnFiUGtlOA?oc=5",
+      "summary": "Foxconn Ecosystem Enabling Token Factory For AI In Spotlight At Hon Hai Tech Day 2026&nbsp;&nbsp;Yahoo Finance",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T03:00:00+00:00",
+      "category": "11. AI 垂直领域行业"
+    },
+    {
+      "title": "Permission management lets monday.com's AI teams move faster - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2dYbllfY1h2VF92QUlVTDdZTExKMzJsdk9xc29hWDVXaVpDVmNocmZJbkYyMHdFNGREaWxOZnFpckNIa2NGZGpXWEJsSHU3UFVvNW11U1ctbGJLNGtDOEtORk14ektXSVpPM1NHRmhybXB6djFBOU1WczVyclVXWXJwNGhrV2xhWGdYcV9mTDBVMV95RmVRREM5MEJTcFZwZ05XZzM5Zw?oc=5",
+      "summary": "Permission management lets monday.com's AI teams move faster&nbsp;&nbsp;SiliconANGLE",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T02:59:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Tech firms take fresh hit as earnings misses fan AI fears - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjhfS3BPUFJvbUxwMktmb2RtTEtVV1l3ajRReFJXZDFsRnhkdV9uMFdPZF8yNXpjOXpRS1BWMmYweV9ERU5HdWtQSUpsM3ppeHZ6UDZUd3pRVEkzQzdoX09UZFBTaWxTUlkyeHhCY2VtRXlxeURLU2dReERrZUZQTEV0dm5FQzlJMnRPMkVJR0pVaVJqZGtwNQ?oc=5",
+      "summary": "Tech firms take fresh hit as earnings misses fan AI fears&nbsp;&nbsp;Yahoo Finance",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T02:49:00+00:00",
+      "category": "11. AI 垂直领域行业"
+    },
+    {
+      "title": "The hard problem of AI therapy",
+      "link": "https://www.theseedsofscience.pub/p/the-hard-problem-of-ai-therapy",
+      "summary": "Article URL: https://www.theseedsofscience.pub/p/the-hard-problem-of-ai-therapy\nComments URL: https://news.ycombinator.com/item?id=50299275\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-30T02:45:50+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Google stock's historically bad day raises fears of AI bubble popping - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMjg1ckNTT3R0aUxzR05RZEN2LUZYempyTkl6UW5aVUJZbjdxODAtb19za0NCdnd0ZnNVRHJMSV8yUmdDWkkwUTAtc2hmdjVPZjAyTzQ3cEhaQUFyNmJ1YkhDNG04Wl9LdWI1TVZwa3l1T0pQMmtUbXNzSnhxOWlCQmRPNGFnaFBDLTlrbzFkVTBNdFJzQWFlSjhOR1g5WUlJUi1JWFRyNlpFekNTZjMxVjln?oc=5",
+      "summary": "Google stock's historically bad day raises fears of AI bubble popping&nbsp;&nbsp;NBC News",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T02:44:16+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Scaling agentic AI with confidence - CIO",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOUJjTWVONUc4LURJdFZsYzNIYWxoaUdUd0JMdlNwNVdMb0d3UjdPOEUwdDdDckxhVUdlaXdyY0E4Y2ZWaDEzaGQzVFBKMERyMmx2eHo4Qmo0LXpLaVNtNXhQak5kazRxODVUdGpTM0lTeHBMVk9wa21VVUJkelUxTw?oc=5",
+      "summary": "Scaling agentic AI with confidence&nbsp;&nbsp;CIO",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T02:43:07+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Asian trading is mixed as worries about AI-related issues grow - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZVFZTnowZzFfU1ZUOGxzbFFWSXR2WjVOX2JTZmk4VzRERjV1Yy1kdnNNZWg4b0lhd21INjdsbXJWdmFmRWJ0NWxtcmlUUF9IdG1CXzZMSl8tSHp3LVJfeFZNZW50M2ZPQXo0UmhXX2YyYkhFYWhBNi1kVmFjanBSMmtEMmZPYUJqNU4yS1h6TEYyWGd0b05ManN4WFM5c3NPbVZaLQ?oc=5",
+      "summary": "Asian trading is mixed as worries about AI-related issues grow&nbsp;&nbsp;Yahoo Finance",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T02:34:00+00:00",
+      "category": "11. AI 垂直领域行业"
+    },
+    {
+      "title": "Fayetteville School Board members review potential updated AI policy at October board meeting - Northwest Arkansas Democrat-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHRUZ212V1NfSHY5VkVQYVhfcjlZaHVKSFBHMlhDNGZBelF6VmlOd0IzTTdyOFNGdUdYNkc2YU5IRmh2X2xIWkdoR2YwYzY3cnJtRlRsUTJmWURVaWhfc1NucWZJVjVpZVNQMGMxeHd3LUx6R0I0cGtZdnBlSUhsQzFZTGdpd3BHemVnUQ?oc=5",
+      "summary": "Fayetteville School Board members review potential updated AI policy at October board meeting&nbsp;&nbsp;Northwest Arkansas Democrat-Gazette",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T02:30:00+00:00",
+      "category": "9. AI 政策与法规"
+    },
+    {
+      "title": "AI rebounding will cost more: how employers can avoid it - Human Resources Director",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONzN5MkpkLUZESWlqOEkzalNGdm5QQ2NKeFd6S1JlOHNLREpmV3NaekZrSWdUaUY2RDMxekNobGhIVzBmeU1hcmVPRFNralF0TWpXMEJ5THFzaHBqTXRmRU5sVFoxd1lPZVpIWG56a0d4THJTd2lOT2tFdnBRMWRtUkw1U1Mtc21XNl9jTHFubko0SDhhZWJXd25fekpoNWpiVUF0TjREcC1fSDY1TG9tNkpyakV2SXFEM0Jhd1pn?oc=5",
+      "summary": "AI rebounding will cost more: how employers can avoid it&nbsp;&nbsp;Human Resources Director",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T02:26:10+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "No risk of overcapacity yet as large part of AI demand still unrealized: Foxconn Chairman - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN0ZJR2RqYzRBY0ZmRG1XQXQ2MmZVaUdHeDREdkZKRXRGb05ONVpKS1V2TDMzc0FSQm9ETE5WYlE1YmYyUWRXY3RQNUtzZ2ZORjg2NDlhN0k5ZG11dFlNMnYxYk5idndXanVzSmpjOV9Wa18wNWc1bjJDYlBBa04xSmJ5ME0zazVkSnAySjlhTjhZSVZwU0tkSU8ycEVfUEdzVFNseVdtUmt2ZGtUUTBpVnpB?oc=5",
+      "summary": "No risk of overcapacity yet as large part of AI demand still unrealized: Foxconn Chairman&nbsp;&nbsp;CNBC",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T02:21:07+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Japan's Nikkei slumps 3% as tech stocks tumble on AI worries - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQU9uNjhpN1dHMHNxdDR0SlBWa1VGV0Q5MkxrVWxKYWk0YWhtd2ZBZFM4dkYwaFNocVBfYmR2czM3VU9aUlV5SVMwRGtOWUJicTV4VFlZODRZRC1IMUw2aFZyYzcxUWpjWFNJbWY0YWFyaHJaRloxM1BWTlZzc1NzRkoyUm45aVNBM1hNODNWbkY4ZmpreWVmMXc4b2FGbkc5NzdWQkwwaWVCYm8?oc=5",
+      "summary": "Japan's Nikkei slumps 3% as tech stocks tumble on AI worries&nbsp;&nbsp;Reuters",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T02:20:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "OpenAI 更新模型规范，将忠于人类意图列为核心准则",
+      "link": "https://aihot.news/items/qo07rshiyc55rfxdfwqlo6v1i",
+      "summary": "OpenAI 更新其模型规范（Model Spec）文档，将框架重构为五项准则：忠于人类意图、降低伤害、诚实透明、保障人的自主选择权、审慎尽责，其中忠于人类意图是整套框架的基础，要求模型理解用户、开发者及 OpenAI 本身的意图而非机械执行指令。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/qo07rshiyc55rfxdfwqlo6v1i",
       "source": "AI HOT 全部",
-      "published_at": "2026-10-29T03:06:00+00:00",
-      "category": "3. 热门提示词"
-    },
-    {
-      "title": "Samsung keeps shattering profit records as AI boom lifts chip demand - WTOP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXRhaHdtVGlCWmtfLUkyRWVtQ1F4SFlBeC05bmFrMGJpcEl0R3pVTGNXUUY4QnhPV2ZVNkxCUjFiaGNUci1aS1liVTZ0d3VVRkQ0eGx2OTk1WHVYT3RvYmNmWFRUQmNVaXQ1akVFZnhMUW5LSGF1Vk9MM0wzc2tLZDBBSXBsTHVHWndlUS0wbnNBMERMS3pZeTRtcWZQNTNIT1hqRkZ3?oc=5",
-      "summary": "Samsung keeps shattering profit records as AI boom lifts chip demand&nbsp;&nbsp;WTOP News",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T03:02:39+00:00",
-      "category": "5. AI 赚钱案例"
-    },
-    {
-      "title": "Madison area businesses report increased AI use, up 4% from 2025 - The Badger Herald",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjk3NFJXVHZkYllTNThaVUZCZW1lSlVqZjJUd2p5T05rcWg1eHNScFNWeWh3MnR1WHJpNWk1VXNRRUpKU3BIV1JFSVd4ejlmc29mUWJQanNVbDNOYlBnRHB2d2hjV2t4YUV5ellHZ1haMmpudTVDNnlQSGtPOUc2NmxweFduR3RyY29TYUZOTGFlZUZaU2lsZnY2MWRVX3AwM1U4c0Zqcmo2Qlc5NUJUODhR?oc=5",
-      "summary": "Madison area businesses report increased AI use, up 4% from 2025&nbsp;&nbsp;The Badger Herald",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T03:00:35+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "As an SU pre-med student, I hope AI can help doctors without replacing them - The Daily Orange",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczNIbE9BajFaeHhmSWd6VkhIQkpDYVhTZk1BWDBjaFllMExLSG1pR1dBV0RWZGdPVkFiRkIzUUlVTVZLLTZHdUhjbXFpT1NmaHd5MzllaWlONXpCbzFrX0FzQlAzVDZXZmRKeWlhY3ZwVWUtRi1SZ2JMTUs3TWh1YXFJb2FhMF9ZR1lyci15ZWdMazhlc1p4ZkdRM29LMS15emlaRXF1UGt3U0k?oc=5",
-      "summary": "As an SU pre-med student, I hope AI can help doctors without replacing them&nbsp;&nbsp;The Daily Orange",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T02:57:24+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "OpenClaw 四位开发者入选 Linux 基金会百强贡献者",
-      "link": "https://aihot.news/items/scxfh69kihlnxevn2ctg9y3wi",
-      "summary": "四位 OpenClaw 开发者入选 @linuxfoundation 的 Top 100 贡献者榜单：\n\n#1 @steipete\n#7 @vincent_koc\n#33 @obviyus\n#57 @dallinfinite\n\n一年内 569,649 次贡献，占 Top 100 总量的 13.8%。\n\n感谢开源社区。\n\nhttps://insights.linuxfoundation.org/le...",
-      "source": "AI HOT 全部",
-      "published_at": "2026-10-29T02:48:17+00:00",
+      "published_at": "2026-10-30T02:16:46+00:00",
       "category": "8. AI 编程与开发"
     },
     {
-      "title": "Come Back and Back AI",
-      "link": "https://comebackandback.com/",
-      "summary": "Article URL: https://comebackandback.com/\nComments URL: https://news.ycombinator.com/item?id=50283984\nPoints: 1\n# Comments: 0",
-      "source": "Hacker News AI",
-      "published_at": "2026-10-29T02:45:14+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "The Quiet Part – a lesson on AI and jobs, built and narrated by AI",
-      "link": "https://thequietpart.ai/?src=hn",
-      "summary": "Article URL: https://thequietpart.ai/?src=hn\nComments URL: https://news.ycombinator.com/item?id=50283966\nPoints: 2\n# Comments: 0",
-      "source": "Hacker News AI",
-      "published_at": "2026-10-29T02:42:54+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "AI Reconstructed Nearly 99% of Georgia Ballots—Could Election Privacy Be at Risk? - AZ Family",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGxBV3lNUEdzNk1VNW9UcDZLVU9vZEdDRk1vdzd6eUZFaC1ORmxHQjR6SGZkcVF4c2EzcnBpRjJEWDNncVh1NWZRVk9PaUtjcDV6SFkzRjFiVmtDTjRQdnA1RDIwQ2lGU3dycDBuQWJYUEhZblpHM0FTX2hTTnRaV19Oc2dBR3ltRVFqNndFVHVKcHE4YkE3YzJ6Y252TEJCVXJMY1dxYkJWM0thaVJUdzE3X0llQQ?oc=5",
-      "summary": "AI Reconstructed Nearly 99% of Georgia Ballots—Could Election Privacy Be at Risk?&nbsp;&nbsp;AZ Family",
+      "title": "AI safety depends on government capacity. Washington is weakening it. - Federal News Network",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTl3elNOWktROVVxTExXZnFlVWp3NVQ4cUFfQW9UZVR6Y0hqOWU2c1JGSkF0OUc4SUtxaTBXQmlKOUN0LXJRZUpxcE1fUFVRUEFvTWVEbGpsMEVBenlJa0ZybUg2VnZNSGs4V2tTY1dib0o2cUhadnF6VkJmNVlfMFhEbUhwdWtQYVdHdTl6LTQycHBmNEFNSGFYeFRmN0pSZnIwVDdaSU9sZ01YWTlXMTBMLTdLQXBadVE?oc=5",
+      "summary": "AI safety depends on government capacity. Washington is weakening it.&nbsp;&nbsp;Federal News Network",
       "source": "Google News AI",
-      "published_at": "2026-10-29T02:42:04+00:00",
+      "published_at": "2026-10-30T02:15:47+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "AI pilot programs in NYC face protests as education advocates raise alarms - PIX11",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWE2aFhHTFRHREhhVWt3cEhGSDcxYkhtMkN5UktXVE9tTVoyMlFPLTRpbHBZODJQS3l6LTVLX0dOYkIzdVpqNWppRHdZaHpELW5EQlItWWw0UzAwZW9rYW9CYjBlelIwQmxHNlFWcklHMUlnUGpYLXFLQ0pHSDRaWnZnNC10QjdHOFNSZTExcU42SXRXbDQ4cm5FT3N0aVZwMUFOdmJ1OXAteVBlVnfSAbMBQVVfeXFMUHJhYkJpQkNPc1VQQkpBVHVZTUdSNjdkSDZIS3J6b1lhVzNCQXlDUmFnQXpSTWFkTi1tbW1tOHBVbVBtZGNkMHpDZW1uMlVMV0x5a2hUdkpMT3hTemhtRW9OV3M4V0ZBWGl6TjFjZjNMR3pZRGV0b2tTR3FXZzhlcEFTSDFsNnAyQjRCdzBtMUpnOG4wR3dTZjRJQzVMRy1nMVB6RFkzMHBGS2Z2dVRiZEZGRDA?oc=5",
-      "summary": "AI pilot programs in NYC face protests as education advocates raise alarms&nbsp;&nbsp;PIX11",
+      "title": "Utopai X 登顶 AA 图生视频榜第二",
+      "link": "https://aihot.news/items/huttiq5j0db8s7pq31w97snny",
+      "summary": "Utopai Studios 基于 MiniMax H3 后训练的 Utopai X 在 AA-Video-I2V v2.1 榜单排名第二，仅次于 Dreamina Seedance 2.5，是唯一同时进入 AA-Video-T2V v2.1 与 AA-Video-I2V v2.1 前二的模型。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/huttiq5...",
+      "source": "AI HOT 全部",
+      "published_at": "2026-10-30T02:13:45+00:00",
+      "category": "6. 热门 AI 视频"
+    },
+    {
+      "title": "How I Built the Most AI-Pilled Company in the World",
+      "link": "https://x.com/jsnnsa/status/2115623382721126826?a=fjiH4cVowfsIKfO0urI&s=46",
+      "summary": "Article URL: https://x.com/jsnnsa/status/2115623382721126826?a=fjiH4cVowfsIKfO0urI&amp;s=46\nComments URL: https://news.ycombinator.com/item?id=50299051\nPoints: 1\n# Comments: 1",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-30T02:12:57+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Artificial Analysis 推出 HLE-Diamond 榜单，Gemini 4 Carbon (high) 以 69% 居首",
+      "link": "https://aihot.news/items/ftns9tvgp0a2dmb840s0tac6v",
+      "summary": "Artificial Analysis 推出 HLE-Diamond 榜单，对 CAIS 和 Scale AI 清理精炼后的 1000 题 Humanity&apos;s Last Exam 版本做独立评测，纳入 Artificial Analysis Intelligence Index v5。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/ftns9t...",
+      "source": "AI HOT 全部",
+      "published_at": "2026-10-30T02:09:18+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "New AI tool helps scientists identify bacteria hidden in soil - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13NTZfc1dFM2N4QndqdEVjREZKaGYxMFdqUWg4NUhkc2Q4Q0dibE1BS3hWZVpaamlZWHVKdWNkdy1xWlcwOGw1V2xUTmdrTXpkd3FJRHlIT1NyLV9iZUhYMGphSU1waUpucGdyZW9pNktHSE9YSWQzOA?oc=5",
+      "summary": "New AI tool helps scientists identify bacteria hidden in soil&nbsp;&nbsp;Phys.org",
       "source": "Google News AI",
-      "published_at": "2026-10-29T02:40:22+00:00",
+      "published_at": "2026-10-30T02:00:02+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "Google eng is sure AI will destroy humanity he's stopped saving for retirement",
+      "link": "https://finance.yahoo.com/technology/ai/articles/former-google-engineer-sure-ai-103000827.html",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/former-google-engineer-sure-ai-103000827.html\nComments URL: https://news.ycombinator.com/item?id=50298949\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-30T01:56:00+00:00",
       "category": "11. AI 垂直领域行业"
     },
     {
-      "title": "Senior official at Dartmouth College resigns over AI use - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjRaamEzWUdEYkJDRTN3LXpvTmVEdHJHVjlZTTFZVTFBRHIxRHRqQUpLRmk2Qk0waHVNcDlMczYzMnowZVYyRXd5SVpudWZjU1pnR3Q4NnU3Z1B6ME9FT1dMYjJ1MWk5VFRINGZMR3ZQcGNINUFSSTlyVlBheEpzV240U2YwWXQ1MFk2RUhLemRnTFRKbUNDYXA5T3prTTJoTjRCZTNZZ25mdw?oc=5",
-      "summary": "Senior official at Dartmouth College resigns over AI use&nbsp;&nbsp;The Washington Post",
+      "title": "Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHRlb2xFdjF1SUl3NUktRkR1WEpsOVktNG9kRlhNQWhVZm0wMGdPdlYzYUpxQVdTV3FnVkF4ekhmOUYyX3R1d1JQTmlGRGdrYVB6LTlWNTA4YXIzb1lOMDF0QW4zb25aaVNkRE5RaWlEQUZteXZMWnVmcGVTU19yVFlBY1FZZFIyWHRaYUhZbERiOHZvdXFhNUtIakZ5UmFjVy1vVzVjZmwzX0NKTHNXWWZFZ2M1bGlIVXNuZ3hn?oc=5",
+      "summary": "Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar&nbsp;&nbsp;Reuters",
       "source": "Google News AI",
-      "published_at": "2026-10-29T02:39:17+00:00",
+      "published_at": "2026-10-30T01:48:00+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "Agentic CI/CD with Azure Cosmos DB: Isolated Envs for a Swarm of AI Agents",
-      "link": "https://devblogs.microsoft.com/cosmosdb/agentic-ci-cd-with-azure-cosmos-db-isolated-environments-for-a-swarm-of-ai-agents/",
-      "summary": "Article URL: https://devblogs.microsoft.com/cosmosdb/agentic-ci-cd-with-azure-cosmos-db-isolated-environments-for-a-swarm-of-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=50283935\nPoin...",
-      "source": "Hacker News AI",
-      "published_at": "2026-10-29T02:38:08+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Cash is king as investors draw new battle lines in AI spending boom - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHJUcDUtMFB1blJJdkltTlNDUldRenJBaGhsM3BPelUxcC1mMnJYa0RvczA2N2ZmejQtUEZUeDlSazd1VWhtSnRKNXNPS0w2RVVfcEZyNG43VlZwSE1MNjBoSzJ1XzlkWHdyX3ZrMmtXbU5ZZkptNm5rSzBrWmpFUU10SnRudm9oeHJIV1REY2QyckxTaGUxcDhLMA?oc=5",
-      "summary": "Cash is king as investors draw new battle lines in AI spending boom&nbsp;&nbsp;Yahoo Finance",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T02:33:00+00:00",
-      "category": "11. AI 垂直领域行业"
-    },
-    {
-      "title": "Castle Walls review – Prime’s first fully AI-generated show is here, and it’s a Vaseline-smeared mess - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQazljWmozRUpuNGRjVUM5cWd6NDJLVGF0eVlEWHk3OGFxRTdLaTV2V1hRN3A3MkoyblRXZDg3aG9zMHhxT2ZEWkx5UkFEaXJndEFWOGxzYzg1eG12VWwyQ3VhcFA1RU94cTMxbjFIcVhwbnpGTEFjdkpKOVZkSjI3ckEyTGZtMC1QYUZkSGFyT1oySnlhX1htOFMxQnVETlYxUHQyNUlwcWY1Q0JzT2Y2SA?oc=5",
-      "summary": "Castle Walls review – Prime’s first fully AI-generated show is here, and it’s a Vaseline-smeared mess&nbsp;&nbsp;The Guardian",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T02:32:05+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Cash is king as investors draw new battle lines in AI spending boom - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnRkb1hlemJ1dC1UWVotYWtHNW9rVlhfc1otUFZOTmlBUlVLbTlNSWNtUks0WEpYMnpVLXZJLWRLNldGRGRNRXB0OHpfeGJwRmRhcjgyaC1pMHVvWTA3dzAxekZ4Xy0xN3NVQU9URjhJTXVZLXFXQXpvWFo3UE5aWGhjNElxLWJtcVVsWFI5N0hBV0VrM0NCQzdlYkdNUHMwTXpkNG02bEY0QQ?oc=5",
-      "summary": "Cash is king as investors draw new battle lines in AI spending boom&nbsp;&nbsp;Reuters",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T02:31:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "ForgeKernel 登顶 NVIDIA SOL Bench FIB 赛道",
-      "link": "https://aihot.news/items/xyfhdo71llvzhnrg12827zjzi",
-      "summary": "ForgeKernel 已登顶 NVIDIA SOL Bench 的 FIB 赛道以及华为 CANNBench。目前，ForgeKernel 的目标是在 DeepSeek 最复杂的算子之一上超越顶尖人类专家。\nhttps://x.com/i/broadcasts/2LPbqbgpZXaogj\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/xyfhdo71l...",
+      "title": "Gemini 4 两款模型 FrontierCode 评测成绩",
+      "link": "https://aihot.news/items/w0bwsd1izavsodrwj9yhxj25z",
+      "summary": "我们在 FrontierCode 2.0 上评估了 Gemini 4 Carbon 和 Gemini 4 Argon，这是我们的编程基准，衡量模型超越规格要求的能力。\n\nGemini 4 Carbon 得分接近 SOTA，为 40%，每任务成本 $4.04，落后于 Claude Opus 5.5、GPT-6 Astra 和 Claude Sonnet 5.5。\n\nGemini 4 Argon 得分...",
       "source": "AI HOT 全部",
-      "published_at": "2026-10-29T02:28:59+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "面壁智能 MiniCPM-OCR 登陆更多芯片平台",
-      "link": "https://aihot.news/items/c5a6oo6dvxr2dggoq0ebpr3us",
-      "summary": "非常感谢 FlagOS 团队！💙 很高兴能一起将 MiniCPM-OCR 带到更多芯片平台。迫不及待想看到社区会构建出什么！🚀\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/c5a6oo6dvxr2dggoq0ebpr3us",
-      "source": "AI HOT 全部",
-      "published_at": "2026-10-29T02:22:46+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "A Safer Internet, Thanks to AI - National Review",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qNGRCR01mTGZCZmlwSWVaOG9Pcy1lbVp3VW0wUkZ6UlZSQVhpMExrX0xRX2NPekRpRE1uR2diaC0xMWJ1NFYzamtGa09OQm91ZlowcEdqV011d0xsZjZJN0RWTGM5c0RrWXRiSjRSNG9OREQ2c0x30gF8QVVfeXFMUGdvOHBzZm55cFpVSEwxS3pvUHo5U2JacVpud0U5T0ZSMlNUYWRCZFhmRDRYUUJ3TzJBTHFOT0RydEc2R1l0bmNXbjlHWWRzbkdtV0pkUDcxNUNNNG9iQXhqWFJpclAwOUYwSV9HRllDTlFaNFlEZ1ZWTlkwMw?oc=5",
-      "summary": "A Safer Internet, Thanks to AI&nbsp;&nbsp;National Review",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T02:22:30+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Samsung confirms record-breaking operating profit on soaring AI memory chip demand - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbjY2bzJuNWxWYWRZZzJuc2RjYXAzdEpQYlNFTmxOeVpUY1FQZ0JWeklHSTZJc1pyc1hDUUxfR3FONGdrSDV6X1lqaFZ5VmdOWjN2d0JoWHdQT1dqOWFuQ1hOYmVmSWJKYUxiWTVtY0JMWkYwSVZkTXNSaWh1X2NqOWc0ZlZvaERTdFlnNVVGUHpDeWd3ZGYwSUZKa1NvSGZfTVRHR0JqNTZISmU2WG83cWFQTWFHSm9XU1Ew?oc=5",
-      "summary": "Samsung confirms record-breaking operating profit on soaring AI memory chip demand&nbsp;&nbsp;SiliconANGLE",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T02:21:00+00:00",
-      "category": "5. AI 赚钱案例"
-    },
-    {
-      "title": "In the AI Era: Can We Preserve Humanity In Healthcare? - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVJDLXM0VDJvakVnSzhnR3lIRGlDNDRuQzBfdkRTUF80LUlNMndaMlhIWmg0S0RiY0c2Wk02ZndVX0NXMndWb3ZNaGtxQmstbzdCWWFUNHI5YktPaEtCZkUzM1pXODlfc250M0kwZGNXelptd0tBc0ZVY21GVW9KZkJyMHBDVkllX0w2Y2VuNjZNcmtKNVBfUi1MaHpXcUFibWZwYkJubWxub1JVaUdvXw?oc=5",
-      "summary": "In the AI Era: Can We Preserve Humanity In Healthcare?&nbsp;&nbsp;Forbes",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T02:19:10+00:00",
-      "category": "11. AI 垂直领域行业"
-    },
-    {
-      "title": "I built a Chrome extension that shows you a web page the way AI crawlers see it",
-      "link": "https://lumi-geo.pages.dev/",
-      "summary": "Article URL: https://lumi-geo.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50283790\nPoints: 2\n# Comments: 0",
-      "source": "Hacker News AI",
-      "published_at": "2026-10-29T02:18:56+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "韩国芯片创企 FuriosaAI 完成 6.2 亿美元 D 轮融资，估值增至 29 亿美元",
-      "link": "https://aihot.news/items/mw9d4cuduegmymhuzenfaz0lf",
-      "summary": "据彭博社报道，韩国 AI 芯片初创公司 FuriosaAI 完成 6.2 亿美元 D 轮融资，估值增至 29 亿美元，接近上一轮 7.35 亿美元估值的 4 倍，投资方包括 Infinitum Partners、韩国国民成长基金等。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/mw9d4cuduegmymhuzenfaz0lf",
-      "source": "AI HOT 全部",
-      "published_at": "2026-10-29T02:18:47+00:00",
-      "category": "5. AI 赚钱案例"
-    },
-    {
-      "title": "腾讯混元 Hy4、Hy4 flash 即将发布，首次引入视觉理解",
-      "link": "https://aihot.news/items/nbbhsgm9vpgyuk3fs9hjz576f",
-      "summary": "腾讯在腾讯全球数字生态大会上宣布 Hy4 即将发布，相比 Hy4 preview 全面大幅提升，强化长程与真实生产力任务能力，显著提升思维链效率，并首次引入视觉理解。Hy4 flash 也将在近期发布，定位极致性价比的实用模型，继承 Hy4 的视觉、Agent 等能力。此前 8 月 28 日发布的 Hy4 preview 总参数 770B、激活参数 49B、上下文长度 1M。\n🔗 阅读原文\nvia...",
-      "source": "AI HOT 全部",
-      "published_at": "2026-10-29T02:18:32+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Opinion | The U.S. is winning the AI race but missing an important strategy - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc2E5S0JnUm5qX3VSSWdGQlU5U3ZnZDdqMk1hM0xhSmM5YktCT0pueS04bkszbUoydFVaRU9ZT2wyWEJ3dnppM0pCbENDX3l2TUU2NGpCcnVfRVA3YWVzREVodU9vbjJxQWxXYURXNjdYMnYxa1FoaEYxaXJpeXIwX0NSaEVLNVprTWFER2pUOTVJUjBfQ3VESGdHTQ?oc=5",
-      "summary": "Opinion | The U.S. is winning the AI race but missing an important strategy&nbsp;&nbsp;The Washington Post",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T02:13:36+00:00",
-      "category": "10. AI 观点与争议"
-    },
-    {
-      "title": "The Fed’s AI Puzzle: Will High Rates Slow the Boom? - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1ZMQXk2eUlQTVZkd1RXUDVkbFg3Z2tUVjR2dklsLXQ3YkYxNVNWbGM4TFU5am9rdUhwSGxrVnk2bjF1RzVJbG5hMGtjVjlReEwwMmJKN05fUmprYW9yNWt2QTg4dTlycEVjbktmVzVJQ0kwd013UGF0em84MTBrbXhjbS1qZnRyNjB1c2Fwck56M3VDMFU1dzRXaDFDaVdzNXRV?oc=5",
-      "summary": "The Fed’s AI Puzzle: Will High Rates Slow the Boom?&nbsp;&nbsp;WSJ",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T02:12:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5",
-      "summary": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports&nbsp;&nbsp;Reuters",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T02:11:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Why every health care AI company must face Epic - STAT",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0p3M2k3aEU2aTZwd3NTU2ZjUFhtUDlkNVZCWnZMVG1LSFhmS1ByZlhTNlFYakhZLVc0azdkOXpsaHNrUnBhckVYTUhyVWFJbUl0QkFyeGxIclBXRm9YNnZ0SHI0Z25yd1BKd2d1ZU5sMjRYd2lsbzRJS1RFT0pSUlo4N0hxZk5uV1Q1clQ5TGZqY2JC?oc=5",
-      "summary": "Why every health care AI company must face Epic&nbsp;&nbsp;STAT",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T02:06:16+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "千问上线「学习档案」：串联拍题、批改、错题本生成学情报告",
-      "link": "https://aihot.news/items/ereu8nzvsm4n2pmfi76v1erld",
-      "summary": "千问上线「学习档案」，可把用户在千问的拍题上传、作业批改、错题本等学习记录串联起来，生成个人专属学情报告。案例中，初三学生小林复盘过去3个月记录，发现数学整体正确率63.4%，但完全平方公式、一元二次方程判别式等知识点的18道题全部答错，千问据此自动生成覆盖五大薄弱知识点的15道专属练习题。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/ereu8nzvs...",
-      "source": "AI HOT 全部",
-      "published_at": "2026-10-29T02:05:37+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)",
-      "link": "https://ai-agent-antivirus.space/",
-      "summary": "Article URL: https://ai-agent-antivirus.space/\nComments URL: https://news.ycombinator.com/item?id=50283625\nPoints: 4\n# Comments: 1",
-      "source": "Hacker News AI",
-      "published_at": "2026-10-29T01:56:16+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Pflugerville City Council passes SAFE Act to regulate AI, surveillance - FOX 7 Austin",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZGNocDI0R09Hc0M1S0dZclNxVHVmXzZqa2E3MHN6Rmp4WUF6MWxER2VlMGI3c2dsbWlGMGJIZm1kcDFFUE5IcXpQREJxOXdGRm83VHBKM244STNwMTh3RXVPWUxFUk91cm1mV0gwMjlqY0c3XzlldUZ5UkNPdWdub1c5OWZfdXBYV3VBRFM5MkhEdjZIMUxWS2w1LWtTM0E?oc=5",
-      "summary": "Pflugerville City Council passes SAFE Act to regulate AI, surveillance&nbsp;&nbsp;FOX 7 Austin",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T01:54:09+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "ChatGPT 支持短信联系你的 dot",
-      "link": "https://aihot.news/items/ac4wovgrgyllbc7nitwn04z39",
-      "summary": "第 24 天/ 像给任何人发短信一样给你的 dot 发消息。分享/转发东西变得超级简单，可以给它留语音消息，甚至可以发挥创意用“Hey Siri，给 Iggy 发短信说 &lt;填入疯狂请求&gt;”，然后坐等就好。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/ac4wovgrgyllbc7nitwn04z39",
-      "source": "AI HOT 全部",
-      "published_at": "2026-10-29T01:49:26+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Why Wouldn’t Google Tell Me Who Won the 2020 Election? - The Atlantic",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXNPdXRQU25raWUyajg0X2pkaGN2MTBzTDdsVTVTa293d04tR2NKWkZqX3F5cWMxc0hFcUxPZzM1R1d3UXpYLTNhOGl3LUxzMzNYUHFCQW1Nd1VzRUlXUjBUYkJCYlVHSXdYRWd4c0hkUXM0Z0s0czgtenBJb2l1SDc5U3QyMkFjV0o0d0hURDBQVTRlbWc?oc=5",
-      "summary": "Why Wouldn’t Google Tell Me Who Won the 2020 Election?&nbsp;&nbsp;The Atlantic",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T01:44:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Samsung posts record quarterly profit as AI-driven chip demand surges - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTNSMjcyYnItR1RyY1BlZjl2S2dtb0tRdHFRTFRzOVUyb2pjbHBhbHQ5VmxzVXN0WGlqYVpZdUwyTzk2QzhNYzE4THhSdWczMzhtbnd4RlJxSUVVb2twVVJnLTBldXZabW9IcUNsV1pvNWFObUpaa2w0QjdMVk9nRWl3UkdROHI2VUIwMl9QY1J4eHhIR09mZ3JUaF9jUEpuczFJ?oc=5",
-      "summary": "Samsung posts record quarterly profit as AI-driven chip demand surges&nbsp;&nbsp;Yahoo Finance",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T01:40:00+00:00",
-      "category": "5. AI 赚钱案例"
-    },
-    {
-      "title": "Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGJsVE5PellOMG00OVVLbi1tLVFydl8ya3FJVXNadWo5NThCMFZocnFmUVBZZEVlTkJUNlJwYXFvWUtLRjdPNTJsT2lQZlZjWXc3SWY5QXpPWU5KQUJuQjdlOE5PTWFBbU9CeWV3WUVrWHJPMXZqVEVLU044OVpMVGJOelE4VkR6NkJsUzNjQmdfdUtKaW5aRHg3UzZoclFrWnVLRldHejhnWmstaTRhV3Z4MmUxQQ?oc=5",
-      "summary": "Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope&nbsp;&nbsp;Bloomberg",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T01:33:00+00:00",
-      "category": "5. AI 赚钱案例"
-    },
-    {
-      "title": "Opera adds local AI to its browsers",
-      "link": "https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/",
-      "summary": "Article URL: https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/\nComments URL: https://news.ycombinator.com/item?id=50283391\nPoints: 1\n# Comment...",
-      "source": "Hacker News AI",
-      "published_at": "2026-10-29T01:30:06+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "'Black Swan' Author Nassim Taleb Says AI Will Trigger a ‘Collapse in Hiring’ Before Mass Layoffs: ‘Existing Jobs Are Sticky’ - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEtuN2R3OGJWbmk0aDd6cG1sYTluSXFURWR2dUZFU3kyazV1aEx3UkJNMnhZaG93THA5OEpQamZQcmoxNURRVXhNbDZKWVFjTTg5c2ZzWHJkUjk3NFdSSDkyMXVfbkFVR1RTeG02OFBfZGVnU0JUX1VlanBXYkNlemZ6a3VhZUloYlVyV1B6TlRFOEY2LVBuY1F3?oc=5",
-      "summary": "'Black Swan' Author Nassim Taleb Says AI Will Trigger a ‘Collapse in Hiring’ Before Mass Layoffs: ‘Existing Jobs Are Sticky’&nbsp;&nbsp;Yahoo Finance",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T01:30:00+00:00",
-      "category": "11. AI 垂直领域行业"
-    },
-    {
-      "title": "Microsoft Sees Enterprise AI Adoption Accelerate as Copilot Usage Grows - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUFaTjhaOE9WNnFHelV1RmhxcTlVZnRZb21YNE5pSl95U2dGMDdQYjdnS3lMSWo5WFpPcWIyQk05VjBWMFRuNldwUm9rQXlCTlgwZlBnU0VUMk1KNXp1OHhiRnY5N3VmQXFpREc1cC1EWUhKeTlyVEJRTGMtOFBlSC1vYV9nWW8xaXNtbFI4dzllcEFUdnlPOXJab3ZwUUxkcW5yV2RUQi1DWVhoM3c?oc=5",
-      "summary": "Microsoft Sees Enterprise AI Adoption Accelerate as Copilot Usage Grows&nbsp;&nbsp;PYMNTS.com",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T01:29:30+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "AI: What We Don’t Know We Don’t Know - Falls Church News-Press Online",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aY2R2ZkZoXzZ0WkxDUXpCWDdUV19kMXYtcFdGMm11NFo3bjcwbnVXbDEzZWx0cmtXVG1RQ1h0ZDN4RVBJUV9OZFhCcmZ2RVVVOGFKT3I2UGJ2eHlYdk5FNm5NYWtrbjBzNTdUbE83Q1Vxd2Zy?oc=5",
-      "summary": "AI: What We Don’t Know We Don’t Know&nbsp;&nbsp;Falls Church News-Press Online",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T01:22:06+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "2 Warren Buffett Artificial Intelligence (AI) Stocks That Could Soar Even if the Stock Market Crashes in 2027 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTlyUzdEd1pxNHJTdXpkZTZWVi1LMEVKT3RGd2VuUVNJdFFOaHI5cW1nWGU3eXVXX3VyanV1OERJdDRjdDdZNVd0Ykh0MG9vZTJDUjZQYVNNRGoxT3o0OGlSS3JfbUxSUnBsYlhqUUxwbU9yZ2FHZDVjc3VvTEJ3RXRXTzFuaU4tMkEwSGdXUlRiZDZFWWlNeTVWSFU4TUNpTnVHUEtTcHg?oc=5",
-      "summary": "2 Warren Buffett Artificial Intelligence (AI) Stocks That Could Soar Even if the Stock Market Crashes in 2027&nbsp;&nbsp;Yahoo Finance",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T01:20:00+00:00",
-      "category": "11. AI 垂直领域行业"
-    },
-    {
-      "title": "Claude Code CLI 恢复 ultrathink",
-      "link": "https://aihot.news/items/rmoip040puarxmykygotag5mf",
-      "summary": "ultrathink 在 CC CLI 里回来了。\n\n我们之前把它关掉了一段时间，因为它有点怪，可能也让人困惑。\n\n但我喜欢怪的东西，而且我不觉得它有那么令人困惑。\n\n我大多在 medium 档跑 Opus 5.5。不过有些回合，我想给它多加一点料。ultrathink！\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/rmoip040puarxmykygo...",
-      "source": "AI HOT 全部",
-      "published_at": "2026-10-29T01:19:18+00:00",
+      "published_at": "2026-10-30T01:45:06+00:00",
       "category": "8. AI 编程与开发"
     },
     {
-      "title": "首批风云卫星极端天气 AI 模型发布，台风智能云图解译模型 27 秒生成解译文本",
-      "link": "https://aihot.news/items/hxrc17hmgniqx07b4uk4bclmn",
-      "summary": "10 月 29 日，首批风云气象卫星极端天气人工智能模型在 2026 年风云卫星用户大会上正式发布。台风智能云图解译模型覆盖 7 类台风特征、融合 20 余种卫星实况产品，每 15 分钟解译一次，27 秒即可生成台风位置、结构、强度及演变趋势的解译文本；强对流短临预警模型利用风云四号卫星过去两小时观测，将预警时间提前至四小时。\n🔗 阅读原文\nvia AIHOT · https://aihot.ne...",
+      "title": "AI tool reads abdominal ultrasounds and accelerates emergency diagnoses - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRExzRTd3MzNnWEVGQkp6aGs0UEZTcW5TNWV4VE5FVTlWRW10UTIwcHNBNHB6MFZ5MFJSVmxJWEZSaXB6UkVkM0RjZXpTcFEyNjhSM0thdXdwem1aa3FvUGlJVUxMSUU2SVBuTzA3NThVaWUxd1l6X3FleGRjb1QwVmh0NmpBbzd1ZzNCZVZaRWhaZFFua1ZkVFlHVHJIRk5jeTk2OTREX1ZpUlEwMkpuN1VHTGtwS3BPU1Vj?oc=5",
+      "summary": "AI tool reads abdominal ultrasounds and accelerates emergency diagnoses&nbsp;&nbsp;News-Medical",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T01:45:00+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "京东JoyAI-VL-Interaction模型加持，Rokid乐奇第二代AI眼镜开售",
+      "link": "https://aihot.news/items/strkya8aicjzaf5ukvsf6xxjt",
+      "summary": "搭载JoyInside、由京东JoyAI-VL-Interaction模型提供技术支持的Rokid乐奇第二代AI眼镜于10月27日在京东开售，可实现主动提醒、超常记忆与实时环境讲解。该模型2026年6月全栈开源，能持续处理实时视频流并自主判断何时回应；在58组真人盲评中，对比豆包、Gemini视频通话助手的总体胜率分别为77.6%和87.9%。\n🔗 阅读原文\nvia AIHOT · https:/...",
       "source": "AI HOT 全部",
-      "published_at": "2026-10-29T01:16:43+00:00",
+      "published_at": "2026-10-30T01:43:51+00:00",
+      "category": "6. 热门 AI 视频"
+    },
+    {
+      "title": "Big Tech’s $750 Billion AI Bet Collides With Slowing Core Growth - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVkwxOE5CWnFlYlZmb25XSjRDMDhHbkJBUnpVb1pkV2N6QkR5cmk5RVFEeVV3Z3NBcS1LV0RBMWNmNE5nNmNzdWM5YUFYM29ScjBvVk1FT0E2M2ZBT1JhXzJyUXNOYUY0aHdrcGJ2TEZYX2lxcWctUTBXN1cxUjhWNzJzZ0JIS25ILWFpekdnS210M1ZOX19MQlg3UGpVcUdYclJXa0RuWXVzRldGQXhva2pOSjc?oc=5",
+      "summary": "Big Tech’s $750 Billion AI Bet Collides With Slowing Core Growth&nbsp;&nbsp;Bloomberg",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T01:43:00+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "IREN (IREN) Secures $363 Million Against GPUs And AI Contracts - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRTBBdzVPcF9yTS0yMi14ZU90c1hOcS1zTEliSXVKY09LLW85ajhNRy1PSUh1RXBxNXNKaXJjN0FfZDRLcGk3SjhlaGNSektZbGw5WFpNSmhiQ2dtWWtucjRDeTFNSEJiMTFUMWMwMjVEeHd0c0UtME5nVUUyY1JYYkEyRmUzd0NOODZSSS1PellneHZHMmdTRw?oc=5",
-      "summary": "IREN (IREN) Secures $363 Million Against GPUs And AI Contracts&nbsp;&nbsp;Yahoo Finance",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T01:15:00+00:00",
-      "category": "11. AI 垂直领域行业"
-    },
-    {
-      "title": "Google struggling to make AI Mode searches pay - The Register",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNmdGQUFteGp2M1ZnSG9RbmxrS0pwX3U0aWVOUDVkeGpLcVloN256b09uTVZVR1hqdnV4UU9iNlVDR0Z2QkhSanJJcHNicUtha0J4MHU5WlU4X3ZVbEpmV0hUUmJBVHJURUVWaWRueXBHb3VwU19SUmk5VklELU53X0dvelpCb2FyNlRjemFGOGxqUFpOM0xpZTJPb0VKRlRRRW10Rnd3?oc=5",
-      "summary": "Google struggling to make AI Mode searches pay&nbsp;&nbsp;The Register",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T01:12:24+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Microsoft 发布 GitHub Copilot Fusion，编码基准得分接近 Claude Code 且成本约为一半",
-      "link": "https://aihot.news/items/bsatd6fnskh33aiw4y0cg2cb1",
-      "summary": "Microsoft 发布 GitHub Copilot Fusion，可在 Claude 与 GPT 模型之间路由编码任务。在 Artificial Analysis 的 Coding Agent Index 上，其 Max 设置得 60 分，略低于 Claude Code 的 62 分，每任务成本 $5.59 对 $11.42，token 用量约 7.2M，约为 Claude Code 的一半。...",
+      "title": "谷歌 Gemini 上线聊天内文件编辑功能，支持 PDF、文档、表格等格式",
+      "link": "https://aihot.news/items/rwqrlsxm5lttcv5fhzhmb8aza",
+      "summary": "谷歌 Gemini 从 10 月 30 日起向所有用户开放文件编辑功能，可在聊天中直接生成、预览并修改 PDF、谷歌文档、表格、幻灯片、Markdown、TXT 及代码文件。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/rwqrlsxm5lttcv5fhzhmb8aza",
       "source": "AI HOT 全部",
-      "published_at": "2026-10-29T01:10:38+00:00",
+      "published_at": "2026-10-30T01:41:27+00:00",
       "category": "8. AI 编程与开发"
     },
     {
-      "title": "OpenAI’s Astra Model Becomes Top Distillation Target for China’s AI Labs - The Information",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1AtYlMxWEZUSDhweUUydXZtVTZPaXRHTkdzREh1aVJycUIwdTZubDlnRmdyUVpycEhoSHVkelZjV0RqV3puWWxKQ3BicU04V2s5V0NYZ0ZXVEhoOVoyWXlKSkRoYUxzTGNTUE0tSVJtV0ZQamVBTG5vdktDZ01qNHVPa0JYMlE5ckp4N2czS01NVTR2S0M1MVphUXBWcWp3T2NwSmhpdnBCUQ?oc=5",
-      "summary": "OpenAI’s Astra Model Becomes Top Distillation Target for China’s AI Labs&nbsp;&nbsp;The Information",
+      "title": "AI architecture startup Dream launches with $17M in funding - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDFWUGJYRktibXNENXVyRmNpdlpScVg5T0dWM1U5a3Z3VWVIamN0SmRQRXdMZDY2Q1cxdFh4ekZVLVN2TjE2Y1dYazJmejkwME1FZWFHb0ZwQ0NpVE1oOGZqdGdMWWNldnNveGdkNWRTZEY2VG9aMEJ2bkZETWtUdGp5SjVVRldtUXBkeWVsX2ZWS2UtbjNZdXVfcw?oc=5",
+      "summary": "AI architecture startup Dream launches with $17M in funding&nbsp;&nbsp;SiliconANGLE",
       "source": "Google News AI",
-      "published_at": "2026-10-29T01:00:00+00:00",
+      "published_at": "2026-10-30T01:41:00+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "Could AI give Colorado more warning before damaging hailstorms? - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdzJhVHg5RVFqWHIwMDBQajdveUMyODI4eXRDcE1WemdrbmRpVDFwaDJBMXhGbm5IcjdtUzFDY0hERTdaQXY0bnFCc21kZnRKTzJOMTdUaDYyZWM0bjBvZmtTandyeTF1ZDlMTDBYRjRDSjhidXVKYzA5bFRYa0E4UTRyZWpLMlNKZzJiYVc2bXBNeFJKN0pnUG80OWs3eVBh?oc=5",
-      "summary": "Could AI give Colorado more warning before damaging hailstorms?&nbsp;&nbsp;CBS News",
+      "title": "Watch Odd Lots: What Wall Street Really Thinks About the AI Trade Now - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWE1JcjV0NHlXWVJtM1hCS3VtMncxbGhCXzlkLWxTZGk2NExLZEwyMUN1bDNjemhTTDJSOFF4WktWNVRCdmNGS0xDZVZJX25nSElVWDdRUmJnQ2JzdHNkUWZLNnd2bXM4ejdFWW5YMGtnRXc4WS1LSFFSdUlHaUwwX3hHVTNsTHU4WkVXeTFtVXhXT3h4dUo2Wm5ONTJpZFFTMWV1X25QM25CV0FhUmZDQw?oc=5",
+      "summary": "Watch Odd Lots: What Wall Street Really Thinks About the AI Trade Now&nbsp;&nbsp;Bloomberg",
       "source": "Google News AI",
-      "published_at": "2026-10-29T00:59:56+00:00",
+      "published_at": "2026-10-30T01:39:29+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanRhTXNhc0dhVWVuU1R2czVZME9uX1AwRUQ4TUhNWFNlUWllOWFpd3F0Y3NrNlVWTnNkOG1ManI5a2lEUU9rcERuOTZqNUtZampraXdIZkhyY01nWVRUSkgwVnc1WTZWbnp1RzlLbGw5T2Z1clFYNlFYT2d2THdmYjlNUFZTZ9IBiwFBVV95cUxPMlJfRno2MkJZOUJpRElyemhVOUpIZWpEbGJyaTBuSTZYODdTd1A3a0k3RDZZY1RMZ21sWG1UWDRUSXdNc2tMenZMR3pSWjRlS0pDa0tCMGlaeHNZbEtDcUFoWFVXUXAwZ2hpdVJOd0JhWkhqNDRPNGpvaFFYcXJHb0NBNjFxSFFQd1NB?oc=5",
-      "summary": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips&nbsp;&nbsp;CNBC",
+      "title": "Indian AI Firm Seeks $3 Billion Financing for Nvidia Chips Order - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUFmRDZKMmVkTFRiWFAwblF2OHhuU0pWeFRWbmlKYlRqUVA5ZjZBbmlXZTVGUnB5WnJKX0Q4R19QaElCMW45VlZaaG1QSWo0Wml0X1BPM21EcDhCd1pKMUlHYmdONFNoN0ZQelh1WjhkTGw2TTJNbFA3S01Ebk53dDBVWDRlaElUMExMeF9qR3oxRUdjbDgwcWVfVVdvZGF2ejVaLVhEaXV3RGVBZjJNRktqLXQ?oc=5",
+      "summary": "Indian AI Firm Seeks $3 Billion Financing for Nvidia Chips Order&nbsp;&nbsp;Bloomberg",
       "source": "Google News AI",
-      "published_at": "2026-10-29T00:57:00+00:00",
-      "category": "5. AI 赚钱案例"
-    },
-    {
-      "title": "Samsung posts record profit in Q3 on AI chip boom - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JmLWlsUUNaZ2g5VnF1TU1IZU5rWDV6T1ZLdXJBdmJrVnpHanBobFBiWjNkaXJGMjE1MUlqMlVrOGJOaHVrU18yVkRBWFVoOENmVjhqYVA3Vy1EdkdXTDN1REJPQWpVdFp5MFdlMzFhMXhEVUdBQS01STRwTW41R2RKWWloUHBhYUNVY2tyR19Geld5RHc?oc=5",
-      "summary": "Samsung posts record profit in Q3 on AI chip boom&nbsp;&nbsp;Reuters",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T00:56:00+00:00",
-      "category": "5. AI 赚钱案例"
-    },
-    {
-      "title": "Alphabet, Microsoft earnings reveal surging AI demand as spending soars - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczBCR3lMOUs2T2htM19DTlFzak8tVGNlTWZtUXpVU1ZDN05VMzBJOVU5bW9PV1lFOHRIYnR3SmhtV2tvUHQ2dWs3SEVBOEU4LUhjOFQyNHlFeV9HSVNCWW5STWtCdkJOc3d2VzNGMndvNUhMbERiempLNEhhZFRuWllWYkJxTndrM0FQYndUUkVEYzRsVjFSRWplYWpxUmFDTGFrQXhTd3FvZ9IBrwFBVV95cUxPMUtPOHJ1NUdHS3lXb3M1MVVBZklOanF6aFY2WkVCUE9pR0N3Z05ZOU01T3R5LUpFejJEUGVjQ3g1YjNBSEhqXzBxanphYXRHeVR0MzR1MTg2LXNlMzBNOFduaG9ZVGozeDRlSFFERUpEU1BERTY3ejJ2MWJaVDZPRUhpSkh5cXd1b2RJWmZudnJTRW5yRll1Qm81TTgyLXMtbUtqQ1RZZjFncEI0dmg0?oc=5",
-      "summary": "Alphabet, Microsoft earnings reveal surging AI demand as spending soars&nbsp;&nbsp;Fox Business",
-      "source": "Google News AI",
-      "published_at": "2026-10-29T00:45:00+00:00",
+      "published_at": "2026-10-30T01:34:00+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "How this private school in Palo Alto uses AI to support students - NBC Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeW5yc0tjS2V0b2xEVl9BejlFdGxkSjRNblIycmtUX29TV0M2MlZLcFI3ejNSVk1CcU5mYzFCZE03eFNCT3dlaTNnY2JpRVJkajQtNGxrbkU0d1hmLW5XQldSalpJT2haVUV5VDA1cy0zTUVSY0t5bW1jREdFZFpWX1NscGtDMVUyd2fSAZIBQVVfeXFMTkVpZGxEWU1wcUctRm82b3R4czJUdGx5a1hueUx5Tmc5Sng3bWgxZl9tZFdHa0RoZmFfUEFWWUM1SzdaR0gtTHdkUDVVNkRLWE9pVzFxQnhLYkZjUlF1WWdPQzl6bUQtdTRhZV8zZUNwYzR0dGxrTkxVZjFqQjNPUHVTSEp4ODBPMGlVSExELWpNaUE?oc=5",
-      "summary": "How this private school in Palo Alto uses AI to support students&nbsp;&nbsp;NBC Bay Area",
+      "title": "Is AI changing what gives our lives meaning? - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVDZvWk93LU5XNlVDa2lmZWp0UVdrYWNLXy1ERzZITmlvS0ZzdVRYb19XU0FTVEtzMnRScVIzWHdId3FnaUxtQ3dQRk1vTnBrX0I1T2lFUjFnM3dhbjQtT1FLaV9Rd3E0RnlDZ3FxS1FtLTVHbk9XS3E0TUVDVGJpcUhCU3ZBQ1NCUHlUVXZRcmxMNlJNRWc?oc=5",
+      "summary": "Is AI changing what gives our lives meaning?&nbsp;&nbsp;News-Medical",
       "source": "Google News AI",
-      "published_at": "2026-10-29T00:43:17+00:00",
+      "published_at": "2026-10-30T01:32:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1hMOFZzQ0lFZmg4ci0xdnpsVkJsU1hmVW5zSjltYWs2OXBWNHpUV2Q2OHVZLWFqQUNxTVo3a0IzdkM4UU40WDZKTDFWNUJLODNlaFFLMVNyWWpKLU5EcFFGMUlyRFdqcUpORzJrQ3NRVTg0TnVPRTN0XzQ2ZWZxUlM1bmZTUWs?oc=5",
+      "summary": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.&nbsp;&nbsp;The New York Times",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T01:30:27+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Anthropic S-1 披露：三分之二以上算力用于研发，服务客户仅占约四分之一",
+      "link": "https://aihot.news/items/ix29bodadp5bou498z79oflc2",
+      "summary": "Rohan Paul 引用 Anthropic S-1 指出，至少三分之二的芯片开支用于模型训练、研发和 Claude 内部使用，而非服务客户。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/ix29bodadp5bou498z79oflc2",
+      "source": "AI HOT 全部",
+      "published_at": "2026-10-30T01:28:37+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb1lzTjVsN3g5RUh3WVlCWnp5eW1XTWU3Sl9PbHBTMWhmLS1lcElXZk1KNk5kck5DRWpHNHRfckU2VVdqRnYzd1U2QmVJYXBtSVIxdnZPal9lTVkyVkJtY3NLY1VjSGVDY3pkX1JjRnp4eDVxN2IzcS1YSExHM2h0aW5HQlBPbWJiTlN3T2Z5dmd4NTVB?oc=5",
+      "summary": "Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets&nbsp;&nbsp;Yahoo Finance",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T01:28:00+00:00",
+      "category": "11. AI 垂直领域行业"
+    },
+    {
+      "title": "人文主义者在职场获得宗教豁免可拒绝使用 AI",
+      "link": "https://aihot.news/items/ivklkg0niqroecsrkv4j2xv5g",
+      "summary": "肯塔基大学行政人员、非有神论的人文主义者 David Durman 获得 AHA 支持，成为首位取得职场豁免、可拒绝使用 AI 的人文主义者。他此前受一神普救派软件工程师 Erin Maus 获得类似保护的报道启发，认为依赖 AI 会削弱人的道德判断与批判性思维；肯塔基大学表示在员工可完成本职核心工作的前提下提供了该便利。\n🔗 阅读原文\nvia AIHOT · https://aihot.news...",
+      "source": "AI HOT 全部",
+      "published_at": "2026-10-30T01:20:48+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR09ta0VrVm9BU0pBdzhiYmlWcFFudmlKeGlnNDh0TUU1dTZvMjBQM29mbDVXQnU0ZE5neE9DSG42VkttQU9kejRfYVEtYUhxOGo0Sk5aMU85SVB2aDdkVUlpazliazA2OEdIbV9aNGtWQWc5QWlnM1FyeU9DblFIYUZTMDBXUDQ3OV9LajUxRmVpUnZwSVc0RkVHbGhaUFZWREFpWGhLZ3llQzhMeEtKX01SYXhLbGplZHM4?oc=5",
+      "summary": "You don’t need to believe in a god to get a religious exemption from using AI at work&nbsp;&nbsp;TechCrunch",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T01:20:48+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Nvidia's web of AI bets: smart strategy or bubble risk? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVBIMExPVnlkbU84WXJrbmk3dmZPMGtGQW4zclpIekNOdDRxTTRMX3FfMGRqZXg0cFNsbWVtUEJjY3J2MjU2RGZ2aFpjVllLN0YzR1c5Z1pUZ09zOHdvLXhLSnMybnZtQV9HTTJPMnE0aWFKT01EaV9jX2NJbmQ4LWdvQlZuUlRsTmZGdU9vRmVxTnoyamxndXh3?oc=5",
+      "summary": "Nvidia's web of AI bets: smart strategy or bubble risk?&nbsp;&nbsp;Yahoo Finance",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T01:17:00+00:00",
+      "category": "11. AI 垂直领域行业"
+    },
+    {
+      "title": "The AI Data Center Explained – From Electricity to ChatGPT [video]",
+      "link": "https://www.youtube.com/watch?v=ckoi0RTEgcY",
+      "summary": "Article URL: https://www.youtube.com/watch?v=ckoi0RTEgcY\nComments URL: https://news.ycombinator.com/item?id=50298692\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-30T01:15:43+00:00",
+      "category": "6. 热门 AI 视频"
+    },
+    {
+      "title": "All the latest updates on AI data centers - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0UxRGMyQ3VLZ1hCY2U3dVVzZnYyX1FZSGJ6OElGOFZ3amc1NnY2Z3Fhb2NIcUp4UFNQNTBQZ3RPa2RiaGEtYWROcHpadFpCV244Nng2VDZuOTBMZDNwdHR3ajl4RXhSSEFjSUZQMVlFd25GSXNZWHZxaVpJYXN0VFJSYUtwcWpOc1huZENJSTRjTlJtTUN3RXh4WFgxRkhOZnBLNVFwSHc?oc=5",
+      "summary": "All the latest updates on AI data centers&nbsp;&nbsp;The Verge",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T01:12:37+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Mistral AI 开放 Mistral Large 4 模型权重：1T 总参数，编码智能体省 Token 47%",
+      "link": "https://aihot.news/items/jp9ot6s32ux739qzz6pebo4n8",
+      "summary": "Mistral AI 于 10 月 29 日开放 Mistral Large 4（代号 le Chonk）模型权重，该模型为 1 万亿总参数、490 亿激活参数的原生多模态模型，在欧洲自有数据中心用 3,800 块 NVIDIA Grace Blackwell GPU 从零训练。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/jp9ot6s32ux739q...",
+      "source": "AI HOT 全部",
+      "published_at": "2026-10-30T01:09:09+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Artificial Analysis 发布 Search Index 评测搜索 API 表现",
+      "link": "https://aihot.news/items/l7swu0exvs1k1km2k19rrao19",
+      "summary": "Artificial Analysis 推出 Search Index，在 1700 个任务和 BrowseComp、DeepSearchQA、AA-Omniscience 三个搜索基准上，用同一基础模型和测试框架衡量各 Search API 的性能、成本与延迟。目前 Exa (auto) 和 Perplexity (medium) 领先，最好成绩为 80 分。开发者可借此为智能体选择搜索工具。\n...",
+      "source": "AI HOT 全部",
+      "published_at": "2026-10-30T00:54:18+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "Granola 新增免费不限量语音输入功能",
+      "link": "https://aihot.news/items/ofkd1lau1hn77mn93kbjnf9q8",
+      "summary": "Granola 宣布新增语音输入功能，不限字数且免费，可在任意应用中代替用户打字，与其既有的会议笔记功能互补。引用转发的记者 Alex Heath 表示自己整天在 Mac 上使用该语音输入，称不再需要另装听写应用。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/ofkd1lau1hn77mn93kbjnf9q8",
+      "source": "AI HOT 全部",
+      "published_at": "2026-10-30T00:53:51+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
+      "link": "https://aihot.news/items/kzenjo9w2bfhpsr0ub1gr95xj",
+      "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items...",
+      "source": "AI HOT 精选",
+      "published_at": "2026-10-30T00:51:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "UNR conference examines the role of AI in cybersecurity - KOLO | 8 News Now",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMjQwcUV2bU42QkhlWDVtdDd0TlVycmpYX2pnNGtBcHJ0akYxcXNoY1o0RzRndVpHY1RsSVFqTG9BRFUxZE9VX2U4c2ZrdTA3MW51Y1NzQXF3cVREdnNwN1BKbk1FWW5nREdGbDdqeUVGQ0E5emg1cWktWUU0Z2RMd2ptb3Z6M1HSAZsBQVVfeXFMTWYtaTQ0Yk9EVS1BdnFtbkRWcVVLNWpoSDcwLU0zNmkxd1p1RWJSVWpZc3RfZkgxU0xpTmlQcWVwYVJ2Qm9FbDVuRHJaVFFyMnR2dUxhY3VSNTdPTFdiWjV1MGZiVnIxRmVJWW5Sbl9jUFUyZFBYTDFxcTNNNUZNMzNMaVF0NVBmN3piZUdtblNSU0w0UDFSSXBIZ00?oc=5",
+      "summary": "UNR conference examines the role of AI in cybersecurity&nbsp;&nbsp;KOLO | 8 News Now",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T00:50:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "How to Ace Interviews and Meetings with AI Assistance",
+      "link": "https://sanityos.com/blog/ai-meeting-interview-assistant",
+      "summary": "Article URL: https://sanityos.com/blog/ai-meeting-interview-assistant\nComments URL: https://news.ycombinator.com/item?id=50298463\nPoints: 2\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-30T00:45:56+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hSGRFRkVaWUNYZDQ0MC14QVh6c2ZLUjdjbkpNWDV1X0RfZGRFSm1ON3ltUXByMFM0a0tlWkFPY1BDUzhpS1piMFJnR0dUMXBEUlJ5X29hT3dRQWE5UFBrU2tpV2NfY0pqOHJySE80MHBlVnlKbFoxbnRnZ9IBgAFBVV95cUxQUXFfSW5CQVJfdHFVSkpaTVpNUnFuZHcwUkx4MEN2SFE1Q0VjRE10bG83Z0NEeXdJOW5wZ1drdDVOSnlFY3RkbnAzb3AzY0ppYm9qMGtqNFVSU1VjeHY1clB2X3ZKUkJjSG8tX1lHQWVqTGo4al9SeXo3d3NEV1ZQZQ?oc=5",
+      "summary": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout&nbsp;&nbsp;CNBC",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T00:38:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "OpenAI 取消 Pro 200 砍半计划，ChatGPT Pro 及 Business Premium 用量额度翻倍",
+      "link": "https://aihot.news/items/t0x0u6c04lthvuf8wuyxi6xyg",
+      "summary": "OpenAI 于 10 月 29 日宣布立即上调 ChatGPT Pro 及 Business Premium 订阅中 Work 与 Codex 的用量额度，Pro 100、Pro 200、Pro 500 额度直接翻倍，并明确不降低用量限制。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/t0x0u6c04lthvuf8wuyxi6xyg",
+      "source": "AI HOT 全部",
+      "published_at": "2026-10-30T00:34:52+00:00",
+      "category": "8. AI 编程与开发"
+    },
+    {
+      "title": "DeepSeek被网友玩成蓝色大肥鱼：从鲸鱼娘二创到QQ养鱼与B站鱼灾",
+      "link": "https://aihot.news/items/hsw2qqszq6h05chrl67bvm4nc",
+      "summary": "作者记录了DeepSeek因Logo鲸鱼被网友称作蓝色大肥鱼并二创出鲸鱼娘拟人角色的现象。玩家借助DeepSeek Harness客户端和桌宠、QQ机器人等插件把模型接进QQ聊天列表甚至发布空间，随后大量鲸鱼娘涌入B站评论区酿成所谓鱼灾，还有人类反串冒充AI。作者借庄子濠梁之辩收尾，认为所谓鱼之乐其实折射的是人之乐。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/it...",
+      "source": "AI HOT 全部",
+      "published_at": "2026-10-30T00:26:00+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "Shunning AI data centers will cost the US far more than embracing them. Just look at the UK. - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0RxYnQ5ZDRuVkEyYlRhTVdqS3Bmb0Rqa1RoSEtRcHdmT25CLURGeHJoTllvV25WQmVDNFhIdmRhRlhjbGoza2VaZDZDWnBEakktZ2I0VHFXZUJHS3NHSE84bHhJQlJjeHROT3JpekJmOVE2UEdfT2FPdzRsRmJLckFET1Bmc2xLa1BWZWp0S250UWNhTThHM0hPU1gzNkVia0xJcWkydmdQVTQxTmlMZExaWjY3NEtNOUdSZVRwSWVPWGRRemhhZg?oc=5",
+      "summary": "Shunning AI data centers will cost the US far more than embracing them. Just look at the UK.&nbsp;&nbsp;New York Post",
+      "source": "Google News AI",
+      "published_at": "2026-10-30T00:26:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "GitHub trending projects with bilingual AI reviews and MCP access",
+      "link": "https://hotrepo.ai",
+      "summary": "Article URL: https://hotrepo.ai\nComments URL: https://news.ycombinator.com/item?id=50298275\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-10-30T00:25:34+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Gemini 4 Carbon 以 59 分登顶 Artificial Analysis 智能指数",
+      "link": "https://aihot.news/items/w8mgec3plmnhihuoraivpdr87",
+      "summary": "Rohan Paul 转述 Google 的 Gemini 4 Carbon 以 59 分登上 Artificial Analysis Intelligence Index 第一名，比 Claude Opus 5.5（58）高 1 分，比 GPT-6 Astra（57）高 2 分。Artificial Analysis 发现 Carbon 在 9 项评测中赢了 4 项（HLE-Diamond、Te...",
+      "source": "AI HOT 全部",
+      "published_at": "2026-10-30T00:24:36+00:00",
       "category": "1. AI 新消息"
     }
   ]
