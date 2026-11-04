@@ -1,404 +1,404 @@
 {
-  "generated_at": "2026-11-03T04:26:47.696327+00:00",
+  "generated_at": "2026-11-04T03:45:04.161810+00:00",
   "items": [
     {
-      "title": "AI advisors debate your business decision in Claude Code",
-      "link": "https://github.com/nateherkai/roast-room",
-      "summary": "Article URL: https://github.com/nateherkai/roast-room\nComments URL: https://news.ycombinator.com/item?id=50347969\nPoints: 2\n# Comments: 0",
-      "source": "Hacker News AI",
-      "published_at": "2026-11-03T04:12:40+00:00",
-      "category": "8. AI 编程与开发"
+      "title": "太空数据中心散热方案：铝制辐射器与AI1卫星设计",
+      "link": "https://aihot.news/items/bquvu2qgo1ka61j0lvm9s6wnn",
+      "summary": "结合马斯克回复与AI1卫星公开设计，太空散热方案采用大型铝制展开结构配氨两相循环，铝制散热器朝向深空可达约1300 W/m²，AI1设计用约1400 W/m²。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/bquvu2qgo1ka61j0lvm9s6wnn",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-04T03:27:39+00:00",
+      "category": "1. AI 新消息"
     },
     {
-      "title": "DeepSeek Harness 养鱼教程：用大肥鱼人设接入 QQ、微信、飞书并开抖音直播",
-      "link": "https://aihot.news/items/gyhwrh8h1isbelpbk8czgvynd",
-      "summary": "作者分享亲手用 DeepSeek Harness（DeepSeek 官方 Agent 产品）在 QQ、微信、飞书里养出会聊天的大肥鱼的完整教程。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/gyhwrh8h1isbelpbk8czgvynd",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T04:12:14+00:00",
+      "title": "Opinion | What the U.S. can learn from Malaysia’s embrace of data centers - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTkpaRkJGd2l4YU9mejZ6NGVVT0Q4WWthTF9SRzBhaV9Mbi1wTEpyVVZxLU05WjNucHhhOF8ycGloSHQ5RVFndEJVNXJDVDhEYzNzWl9TWHZMejBtamkwaFpCUk1vMS1oNDFUZ3hRa1VfQTJobUU2TDdCNGY2alhwYm54NDlRZWNnYkNJZUxB?oc=5",
+      "summary": "Opinion | What the U.S. can learn from Malaysia’s embrace of data centers&nbsp;&nbsp;The Washington Post",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T03:20:29+00:00",
+      "category": "10. AI 观点与争议"
+    },
+    {
+      "title": "Q&A: Can AI-Driven OCT Reduce Breast-Conserving Surgery Reoperations? - Physicians Weekly",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2VZajJyamc1ajB3a3BEeEdsU3Z2UWZvNkh2TWxkNHNDb2JCMHhJQWNFODAzaGdJcTY5b1RxR053U0I1NXpmZHRDcTQ3bFZsOElYMDhZNnFCMEhXS3pDb1FQaHNtZ3RDVU5rUm5iQWFNQlBIVnFzSGdYd1BCM09WeUhsdHRLNG5XUmlOQTR5RVhIZy1jRng2UWNZeS13elJtTXNxTG5hbw?oc=5",
+      "summary": "Q&amp;A: Can AI-Driven OCT Reduce Breast-Conserving Surgery Reoperations?&nbsp;&nbsp;Physicians Weekly",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T03:16:08+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Livermore district working group aims to develop guidelines for AI - Livermore Vine",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVEwtemRlX09CSE1Ec3ZmN215NTNXd21wNi1sZXRGZF9ZbGVKQTdTMXBuVGZzQnZIank0anVmc3JMeDF2WGF4SkI1V2daSXpERE9KajJrTnhaLVZ5NmtxXzdWb2x4Y2FuOG5LbUdSbDJsdVl5VzJwU1BzajBkWGRyMzZVMWtqQkhZN2swalBpcW9iXzFNZ0FuTlBKRTFhVWt0UmdsOUZHSm02cjJnRHZMWkhqYXRDdm4wT0E?oc=5",
+      "summary": "Livermore district working group aims to develop guidelines for AI&nbsp;&nbsp;Livermore Vine",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T02:58:52+00:00",
       "category": "4. 大神热门教程"
     },
     {
-      "title": "As Voters Head to the Polls, Cornell Research Shows AI Chatbots Can Change Minds - The Cornell Daily Sun",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeERTdW9OV0E2eUhfYUE1eVY5aG9LSEhNcmxOT2R2eWpQdjVEMTYzUXpmVkJRU0RVcXJRdXdxeTBlOVVhaUdsaHNFSUVqR1FDV0JiRy0tcl9POWRlUFZZaWozSDU1VE1QeEtoczdXd3VBVDc3Y3hXOHB6Yl9FeGJkV0lKc3hEV2ZZZDRWTlpJUTJlMDg3MFRqZ3FmQWVjT1VDYjNOYW10cFlpRGZ3THZ5VFAxbkQtb1pYaW9FUzJabw?oc=5",
-      "summary": "As Voters Head to the Polls, Cornell Research Shows AI Chatbots Can Change Minds&nbsp;&nbsp;The Cornell Daily Sun",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T04:09:34+00:00",
-      "category": "7. AI 论文与研究"
-    },
-    {
-      "title": "AI deep fake used in North Carolina state house race candidate says - WAVY.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVGUxc0Z3bGhUdEs5ZkhDc3M2Y3dnY3NTMWE5cVdVeUZVR2dXRlFPNFJKSkpLZWVVRG9pR3pXWnlNZ2FpN21fbUp1dXM4S0hiVzVRUFJ2V3FZY0x3WWt5YmJJSG51Z2g1SUtINnhGa3V1MDJOZHJuTERFanVTS25ib1dGczNxMHVZcm1UVmdoUVh4NXplRUFsazZn0gGfAUFVX3lxTE9iM29ENHhkVnZSQVR5azNabkM3MFNpQWJqVnZuWDEtTU5rdW5mdzNTZnFLbGNxNW44TWNTVGJyZ3M2NTJwbUtoMXpNNW9xUzFWeGU0dHk0eHhXOU44bjYySklJdU5BM0NaM0V2Qm8xUjZINkJHc1dvbnZOX0l6c3dhUWtURmd2dURFUXhwVFEwUGg2MFlUMjFCbmJXbkRtZw?oc=5",
-      "summary": "AI deep fake used in North Carolina state house race candidate says&nbsp;&nbsp;WAVY.com",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T04:08:51+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "White House refuses to disclose how it vets AI security threats - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORzVaRWF3M05XNENCeWdkX1lJWGRjck8yWGh5SkZuR2N0WlFpYldkMXZCU2pXNWJ4WXgwQWl1aEJwYzhGbUJidkxic3lHQWtHMzFyUGtSTE1CamhlV19nQW5QUEtWUG13ZGFBZ0xaSDBjVjBlbGFSUzZocEdvZnRuWDhSbHBaN3lnUlNLZmNWTGh4ekRoTG5RVUpfamRQZ25nejJvVm9TQ0R1dE9lbWFScU5jWFg?oc=5",
-      "summary": "White House refuses to disclose how it vets AI security threats&nbsp;&nbsp;The Washington Post",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T03:59:57+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "商汤发布日日新 SenseNova 6.8 Flash 正式版，支持动态 PPT 与 Blender 3D 创作",
-      "link": "https://aihot.news/items/x22008qgtcya66mxp4ygrrwhm",
-      "summary": "商汤科技 11 月 2 日晚发布日日新 SenseNova 6.8 Flash 正式版，重点升级办公协作与设计生成能力，支持长期记忆、跨会话任务协作。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/x22008qgtcya66mxp4ygrrwhm",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T03:59:48+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Code-First Internal Tools vs. Low-Code in the Age of AI",
-      "link": "https://openrun.dev/blog/code-first-internal-tools/",
-      "summary": "Article URL: https://openrun.dev/blog/code-first-internal-tools/\nComments URL: https://news.ycombinator.com/item?id=50347878\nPoints: 1\n# Comments: 0",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c\nComments URL: https://news.ycombinator.com/item?id=50361033\nPoints: 1\n# Co...",
       "source": "Hacker News AI",
-      "published_at": "2026-11-03T03:59:46+00:00",
-      "category": "2. 热门 AI 工具"
-    },
-    {
-      "title": "男子用 AI 伪造签名盗用大模型算力薅 400 多万账号，被判刑三年缓刑三年",
-      "link": "https://aihot.news/items/jg7n0bay59km51gdq4rbcl5bx",
-      "summary": "上海首例利用 AI 伪造签名、盗用大模型算力案宣判，徐汇区法院以非法获取计算机信息系统数据罪判处宗某某有期徒刑三年，缓刑三年，并处罚金四万元。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/jg7n0bay59km51gdq4rbcl5bx",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T03:50:38+00:00",
+      "published_at": "2026-11-04T02:58:13+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "Open AI lawsuit claims of child exploitation continues - NBC Montana",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZFE2ZUpiSUpwMDBSZ0sxMEJJZmFFLVNHTFRNR3NRUGhKdUItc3V1NWFvQWIzN1hXMnF3N3NRbjFVTFZfbW4xTHNyOFlYbkdMMnU4a3JLQ1NvNE9ZN2VfcGx4NlBLOEwzYVF5U0Y4dVlfaXdiS3Q3WmhzU0ctUnZNaWtnV3N2ay1aTHFSY3JMaUFSQQ?oc=5",
-      "summary": "Open AI lawsuit claims of child exploitation continues&nbsp;&nbsp;NBC Montana",
+      "title": "In an AI world, cybersecurity requires human judgment - Miami’s Community News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHRGWVVrY0thVnZKakJoS2lVZ1FhT0c3Q3pxNER3VHR0MjhTRGZEaWFBVGhTekZXa2h3ak9xM0Z5MVAyVk9hRUN2NnVTdzlkWFFMUzgwQW5KZm1TZWVyeXIyVnYwdkhXb0J2RmROTUJtdmFrUGJibU5qR3R1QVdzWUM1WW83T0J1RlVmdG03Z0YxS1Z2MnBpb0QyRzhJMjIzRUE?oc=5",
+      "summary": "In an AI world, cybersecurity requires human judgment&nbsp;&nbsp;Miami’s Community News",
       "source": "Google News AI",
-      "published_at": "2026-11-03T03:49:39+00:00",
-      "category": "9. AI 政策与法规"
-    },
-    {
-      "title": "Grok Bot 代打电话咨询车险",
-      "link": "https://aihot.news/items/feqn02uw7eokjsbvz4vgkvuhe",
-      "summary": "Grok @Bot\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/feqn02uw7eokjsbvz4vgkvuhe",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T03:48:10+00:00",
+      "published_at": "2026-11-04T02:56:36+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "MVP for a WW2 FPS Written by AI",
-      "link": "https://hng-production-47bb.up.railway.app/",
-      "summary": "Article URL: https://hng-production-47bb.up.railway.app/\nComments URL: https://news.ycombinator.com/item?id=50347796\nPoints: 1\n# Comments: 0",
-      "source": "Hacker News AI",
-      "published_at": "2026-11-03T03:45:22+00:00",
-      "category": "2. 热门 AI 工具"
-    },
-    {
-      "title": "Show HN: CheapGPT – a free local AI assistant powered by Chrome's Gemini Nano",
-      "link": "https://www.predatorray.me/CheapGPT/",
-      "summary": "Article URL: https://www.predatorray.me/CheapGPT/\nComments URL: https://news.ycombinator.com/item?id=50347777\nPoints: 2\n# Comments: 1",
-      "source": "Hacker News AI",
-      "published_at": "2026-11-03T03:42:52+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNXUyV3ZPekVJUTBkRFBYQnJvcFhKNW5kemh6bU16ZTI3bUZBY1d3ajBma05laVhmaWo0VnJMZUxQSzZNam5ia3VYenJBRGt0MlV0a3kzeFdvamdjd0FpdW41TkdocVNQUWFPN3lUejB2c056VVVULXJQRkIzdm0waXlZTUV6TWRzUnZRTFRCeGt2WGVySV9RaDIxaUNxaU40UlVxU29aMTg0VnZPR0Z2UXB5YnVwR25BT3NBRnNVVklCRXJNbEE?oc=5",
-      "summary": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses&nbsp;&nbsp;TechCrunch",
+      "title": "‘Slopaganda’ and Voting Advice: How AI is Shaping the Midterms - New York City News Service",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDhBR19JRk5jNmI4Z1FlWERZMFZudzZfTmhsb25weTIwQzF5ZVR1aTI3ZW12eHU3MFpZNnZraFUyZkQ5a0ZvSElLUkhWX3U3QVJYVXZLcm5QQk02bVd4VC1HbEg2QlV2ejRiZWhBa0liNGktdGFDRjV4c1V2MkRyeWx2eDZUTWpzSnhvWkNxUWsyNE1FR0Q0QzhhTzRUTEYyREVsMzBmc1k?oc=5",
+      "summary": "‘Slopaganda’ and Voting Advice: How AI is Shaping the Midterms&nbsp;&nbsp;New York City News Service",
       "source": "Google News AI",
-      "published_at": "2026-11-03T03:30:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "国家发改委：强化 AI 就业替代风险监测预警，做好兜底性社会保障",
-      "link": "https://aihot.news/items/oznkag0ygrn4ml0qck1owe5de",
-      "summary": "国家发改委在奋进十五五系列新闻发布会上表示，将强化对人工智能就业替代风险的监测预警，加强社保体系与就业结构、工作方式变革的衔接，做好兜底性、普惠性社会保障，并针对算法歧视、深度伪造、隐私泄露增强溯源追踪能力。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/oznkag0ygrn4ml0qck1owe5de",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T03:23:36+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Jenn Geetter discusses AI legal liability risks for health systems with Modern Healthcare - McDermott Will & Schulte",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDMyeE1qUDFFZm5pVDdQOXF5SDFkWUZYUEdFQXYtaUdEMlNMYjhCellfdmFHZDRmWnRfSlRFTWRzT2dfdHBGYktxOFk3MGVxQzE5NWtOb3UwSzVMSmlZQXUxUFhweFVxZzlvcE9ROWVMNWtRRDlqN1UtOVk0V0hETFhwamN2ZnJXZWhmZ2NDTDR1REZxa1o1ZWtPQWlrbHJtS0ZmTGdXNGlHeGRHYmlaTTl4T28xLWkxT0FxUjVrNDI1Zw?oc=5",
-      "summary": "Jenn Geetter discusses AI legal liability risks for health systems with Modern Healthcare&nbsp;&nbsp;McDermott Will & Schulte",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T03:20:08+00:00",
-      "category": "11. AI 垂直领域行业"
-    },
-    {
-      "title": "3 AI Stocks With Earnings Growth Over 27% - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTW10em9qazRPOUtJNTJjZUJ5d1VYclJycks1b3k3aUtHSXJDZ1VPdV9xdHUyVzMzc3RMN0VNM2lWeFVoNDd1emFjeGRsZEZySW5TMmJzQmpQaG94LVZQVWtiMGI5N2psSnFaNy1xR2tXVXIyWTZod2VaREJQSVF4N2lucUM0Z185Y1FEVXhYTm1kUzdvdEhR?oc=5",
-      "summary": "3 AI Stocks With Earnings Growth Over 27%&nbsp;&nbsp;Yahoo Finance",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T03:20:00+00:00",
-      "category": "11. AI 垂直领域行业"
-    },
-    {
-      "title": "Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube",
-      "link": "https://ownhackertube.cc/",
-      "summary": "Article URL: https://ownhackertube.cc/\nComments URL: https://news.ycombinator.com/item?id=50347574\nPoints: 3\n# Comments: 0",
-      "source": "Hacker News AI",
-      "published_at": "2026-11-03T03:14:06+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Goldman’s Solomon Sees ‘Very Robust’ Demand for AI Deals - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXpSbU5wYlJzLTU5NVdOSXl4emg0LXVheWphTmN0eU9rWDZrTjhFZy1LWGRpUjY0OC1rTjY3Mlc3WUNXMV8wWWprRC04TllEV2YxSVBtM0JUOExCWnlWRkY0UHlMX3NrVTFaSjBqaVNxNVN5MlJHc1dRMFhqVlRvMHBGQjNOYnk5UFRYMHNhMmdXdHNfNkExUEYxQ1JuU3dwWWRnNnp5OWE?oc=5",
-      "summary": "Goldman’s Solomon Sees ‘Very Robust’ Demand for AI Deals&nbsp;&nbsp;Bloomberg.com",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T03:13:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "高通 AI Hub 面向中国开发者开放",
-      "link": "https://aihot.news/items/g60ofdjs6bas0p11rzg79gxm4",
-      "summary": "高通宣布高通 AI Hub 现已面向中国开发者开放，用于加速终端侧生成式 AI 和智能体 AI 开发。平台集成 Models、Workbench、Apps 及 GenieX 端侧推理框架，其中 Models 提供超过 230 个持续扩展的预优化模型库，Workbench 支持在云托管真机上做模型调优。中国版还通过官网、高通终端云中国设备农场和开发者论坛提供资源支持。\n🔗 阅读原文\nvia AIHO...",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T03:12:52+00:00",
-      "category": "2. 热门 AI 工具"
-    },
-    {
-      "title": "Claude's new rules against game cloning won't stop the AI copying boom",
-      "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/\nComments URL: https://news.ycombinator.com/item?id=50347512\nPoints: 4\n# Comments: ...",
-      "source": "Hacker News AI",
-      "published_at": "2026-11-03T03:05:58+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Meta MSL 漏洞赏金计划：单个报告最高 30 万美元，提示词注入最高 13 万美元",
-      "link": "https://aihot.news/items/y1z11sq0dp2jadzszn0iq9bq4",
-      "summary": "Meta MSL 工程副总裁 David Singleton 表示 Meta 的漏洞赏金计划长期开放，单个报告最高 30 万美元，其中针对单用户的提示词注入最高 13 万美元，并称这数倍于其他主要 AI 实验室公布的最高额。赏金若捐赠给慈善机构，Meta 将加倍支付，入口为 http://bugbounty.meta.com。\n🔗 阅读原文\nvia AIHOT · https://aihot.ne...",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T02:59:18+00:00",
-      "category": "3. 热门提示词"
-    },
-    {
-      "title": "Meta 修复 Muse 智能体多项安全漏洞",
-      "link": "https://aihot.news/items/z60lt060zv1lxgfj2oi0tmo5c",
-      "summary": "此后我们已修复并支付赏金的一些发现：\n• 一个网页模仿 Muse 自身的浏览工具，诱使智能体执行本应被阻止的操作\n• 某些邮件格式绕过了我们的一次性验证码脱敏处理\n• 一个恶意 Android 应用可通过未经验证的链接获取凭据\n• Mac 应用的自动更新程序可能被能访问该机器的攻击者滥用来提升权限\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/z60lt0...",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T02:59:17+00:00",
-      "category": "2. 热门 AI 工具"
-    },
-    {
-      "title": "Meta 向 Muse 漏洞赏金支付超百万美元",
-      "link": "https://aihot.news/items/rmky7yrgovfe219w96mcsa4lo",
-      "summary": "我们已通过 @muse 漏洞赏金计划支付了超过 100 万美元。其中包括向一位安全研究员支付的 30 万美元，他发现了我们在 Muse 中见过的最严重的漏洞。https://muse.ai/blog/securing-muse\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/rmky7yrgovfe219w96mcsa4lo",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T02:59:16+00:00",
-      "category": "7. AI 论文与研究"
-    },
-    {
-      "title": "State Street CEO Says It’s ‘Hard to See’ AI as a Bubble Yet - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNTVXYS1qbkVXZzJnclZXWkF0U0o0OXh4RFJfSlhyRGNPSHhMOXhRZ2U5TXJheWliQlJhZE05bjdVcXFCTzNJLWJtSzBWclNKUkUwSnROSkY3b3Y1bDdheFBtYl9RY0ZiNFExamdqTE9XbFVIWWNHY183VUVfaHVZYnhmSzRKckpzYlM0UjIyUzhFUnRnTlRJSFJvWTVEcTE1RVhRemJaQWJQbVBi?oc=5",
-      "summary": "State Street CEO Says It’s ‘Hard to See’ AI as a Bubble Yet&nbsp;&nbsp;Bloomberg.com",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T02:58:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "美国前陆军部长德里斯科尔加入 OpenAI，出任国家安全与现代化事务高级顾问",
-      "link": "https://aihot.news/items/fr1xbh2yjwim412feid5gir8u",
-      "summary": "OpenAI 于当地时间 11 月 2 日宣布聘请美国前陆军部长丹尼尔·德里斯科尔担任国家安全与现代化事务高级顾问，协助推动 AI 在国家安全和网络安全领域的应用。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/fr1xbh2yjwim412feid5gir8u",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T02:57:51+00:00",
-      "category": "2. 热门 AI 工具"
-    },
-    {
-      "title": "Psycholinguistics Reveals That AI-Generated Responses Are Getting Progressively Harder For Humans To Read And Understand - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMG9rNWJQNEkzWWlKdDNlTGhodDhYZ214T2pVSkFnLXpmMzlqLWxjUjBjMnhqdkRiWVhrV0NBQ2M4LWg4aGtOalV1OUtWYkVONk1NdFVQaDFNYWxsUDZJWmpkdy1HTDhadVI2aU1nR01qR1JmMHktSzNVNk9TNjhZRkN0NTRIbUdvdG5wUXBEMU40UWM0X1gtZTkxYTdVeDZsRkNvQ2MwdGtRQ2ZINGVFbk5XVGZVOHhPaFpFNlhYeEZBMGdxOE0xSWtRclR0d2JWcDluT3o1bllSYVBXUDNHQ0xvN1B0emZScUR3RTVQemFsOEZ4RjdYcGV4anFMY2liVWc?oc=5",
-      "summary": "Psycholinguistics Reveals That AI-Generated Responses Are Getting Progressively Harder For Humans To Read And Understand&nbsp;&nbsp;Forbes",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T02:55:07+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Stocks mostly down as AI concerns top plunge in oil prices - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUE1tNzlfeUhTaGExV2pybWtVakVVUUExd1FCOVFicnlfLXBFbHFUUmdCMlZiajh5aU5wYWtYdmNrVXlCUTVNU0FyQXF1anl0ZVdhcGZNc1pmZXB3Q3JuTHJ0aU5yMGtWY1JVNEpBOHVtdVBXTGNyRUplNTM1TnRqa3lyaTNhNUhaVGoySkdHa2E4TlgtcnFzMC1hWQ?oc=5",
-      "summary": "Stocks mostly down as AI concerns top plunge in oil prices&nbsp;&nbsp;Yahoo Finance",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T02:55:00+00:00",
-      "category": "11. AI 垂直领域行业"
-    },
-    {
-      "title": "Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1czb0ZkMWd3UVdFOV9OQXlKQ01WamJqZ1N3UThFTVpRelVBX0kxbnNZU2U4b2pvSUNPWnRRYll2NVpXRHdIMktRbkRzZXVUS3YtLWJYbi1RdXFrNk1veGhfMFVsckVqZEF2TDVlaVY3V2RBSW1Eek9kZThKR2FQb2dPQWxraGFKbllXY3gzVE45b2p0S0NrRTlTMnBpWjNKdEpJeFkwdktDeW9MR2h6TnFB?oc=5",
-      "summary": "Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff&nbsp;&nbsp;Bloomberg.com",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T02:55:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "OpenAI 聘请前陆军部长 Dan Driscoll 出任国家安全现代化高级顾问",
-      "link": "https://aihot.news/items/ada337salotba17w3pgy2k4rr",
-      "summary": "OpenAI 新设国家安全现代化高级顾问职位，聘请前陆军部长 Dan Driscoll 出任。他将与高级管理层及外部伙伴合作，就先进 AI 如何加强国家安全与网络安全提供建议，重点面向美国盟友推动负责任使用，并帮助内部团队理解全球国家安全机构的实际需求。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/ada337salotba17w3pgy2k4rr",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T02:52:56+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Enterprise architecture: Dell and Microsoft power AI at scale - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0JFRGJMTGpzdTdmN0M2cmNJVDJtWXp4My1DSXNlVExCb1RWcWVXbmZBWTNfdXd3Vk5OUExKbVRWM05pNU5SWjZ2YnV6WHlua3NJYXg4aHVtRHQyTHFOU0tzRUUzLUhuMFJnTEV4NXNHSU1XSkRpLXpnR0VIZkZ3T3ptT2JrTjFMSVFoV08zcl9FcjJEY0oxT0xnZGlEVjdQZGVZYzZESDQ?oc=5",
-      "summary": "Enterprise architecture: Dell and Microsoft power AI at scale&nbsp;&nbsp;SiliconANGLE",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T02:52:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Show HN: PhoneUse – Phones for AI Agents",
-      "link": "https://www.phoneuse.com/",
-      "summary": "Article URL: https://www.phoneuse.com/\nComments URL: https://news.ycombinator.com/item?id=50347408\nPoints: 3\n# Comments: 0",
-      "source": "Hacker News AI",
-      "published_at": "2026-11-03T02:50:40+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Threat actors are adapting to the economics of AI - Cybersecurity Insiders",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT01lN3RTM25GRjd3NU9hdmxqUlJzdmtlZTZSM0JDZURjLTB1ajRpanBzZk9lRGlOT3VaVDhDeTZ3ejhGU0JBZmxObTQyb1pJVzRwSXhtOXNEb19aRS1tazZmZ1RGZXZhYmtGQ1pmVk9oYVdEUFdsb3d5N1ByT1htYzNPY1dHdWpQTjdrY2syNHZOVHc?oc=5",
-      "summary": "Threat actors are adapting to the economics of AI&nbsp;&nbsp;Cybersecurity Insiders",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T02:49:57+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Variational AI Enters Collaboration with Merck to Apply Generative AI to Drug Discovery - BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnFvNERVM3JNU1FGYVVUOERFSEZTZXVJLV9iMjRLbERtcmprTGQ4cEZtWmhPZU9DN0REaUxld1ZNeGl4OUVBRzZJN25lcjJyN0E1ZWtGVFNWZF92MmIxd1UxVl9MVFJJalRIbG9tbEdPc21WR3ZDQjdZTVVHS216S1F6aU9DZHRwUS1YT3N2XzRSNTh5VGZkOUprMWRBSHVwUDBmV3hBLWZvQ3lPVFZjamZaT3lXSV8tRjRfOWlnV0diOXowbmc?oc=5",
-      "summary": "Variational AI Enters Collaboration with Merck to Apply Generative AI to Drug Discovery&nbsp;&nbsp;BioSpace",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T02:46:01+00:00",
-      "category": "2. 热门 AI 工具"
-    },
-    {
-      "title": "Meshy N1 Texture 上线网页端与 API，速度较 Meshy 7 提升 3 倍",
-      "link": "https://aihot.news/items/tgucijats169nu5xy56q0zj1v",
-      "summary": "Meshy 发布 N1 Texture 纹理生成功能，已在 Meshy 网页应用和 API 上线。新版本大幅减少接缝和投影伪影，速度比 Meshy 7 纹理生成快 3 倍、约 20 秒完成，支持 2K 干净的 base color，面向风格化游戏资产制作。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/tgucijats169nu5xy56q0zj1v",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T02:38:43+00:00",
-      "category": "2. 热门 AI 工具"
-    },
-    {
-      "title": "Luma 推出 Expression Sheet 角色表情表",
-      "link": "https://aihot.news/items/vj161nhmrb22aj6hz2cjt2t01",
-      "summary": "她的戏路很宽。\n\nExpression Sheet 让你在确定方向之前，先推敲角色的表演。\n\n现已在 Luma 上线 - https://tinyurl.com/56aaa8t2\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/vj161nhmrb22aj6hz2cjt2t01",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T02:37:16+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Google 与香港大学发布 VeriCUA 论文：用机器状态验证计算机智能体的任务完成声明",
-      "link": "https://aihot.news/items/f0d79mzoi5jts1b160o38ht0m",
-      "summary": "Google 与香港大学的 VeriCUA 论文主张计算机使用智能体自己报告的“任务完成”不能作为证据，应检查保存的文件和应用数据。VeriCUA 先探索应用构建需求清单，再运行屏幕或代码检查逐项核实；在 ScienceBoard 上误报率为 5.4%，低于 VLM 评审的 24.8% 和生成脚本校验器的 21.7%，并在 3 个在线环境中拒绝约 80% 的虚假完成报告。\n🔗 阅读原文\nvia A...",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T02:37:01+00:00",
-      "category": "2. 热门 AI 工具"
-    },
-    {
-      "title": "Wearable devices and AI provide early warning signs of hypertensive crises - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1F5bVEwR3lqRVhZTTFfUTlKcGF0WkUweExQNEFoaC1sNUl2c2FfT2pVV0hqNDZQbnZYVlNrdmNTREVhaFhQRmsxeTJlQW1fM2tfRkpwS01xM2tiY3E1cEI0dWdXQ1VjRVNwZTlUNWFWcmlqTzBwRWRJZjdTcHljQVFvX2Izc3RNdGtkc2FjNERMM1pwb0NlRUppdHpaQ0wxTm4yeG5fMUUzSVhPUFlKYk1vdEN2aThTekpIV0ZtMA?oc=5",
-      "summary": "Wearable devices and AI provide early warning signs of hypertensive crises&nbsp;&nbsp;News-Medical",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T02:37:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "An AI visibility checker that runs in the browser",
-      "link": "https://lumi-geo.pages.dev/",
-      "summary": "Article URL: https://lumi-geo.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50347261\nPoints: 1\n# Comments: 0",
-      "source": "Hacker News AI",
-      "published_at": "2026-11-03T02:32:02+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "OpenAI 上调漏洞赏金奖励",
-      "link": "https://aihot.news/items/hdlxfpeb0a4wgioz422fj5cci",
-      "summary": "更新后的漏洞赏金奖励同样适用于待发放赏金的报告。\n\n对于过去 30 天内发放的赏金，如果该发现符合新标准下的更高金额，我们将补发差额。\n\n了解更多关于该计划的信息：https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties/\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/hdl...",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T02:29:36+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "OpenAI 启动内部安全冲刺并提高漏洞赏金",
-      "link": "https://aihot.news/items/m38pfvafn4v4fl5hnnb29gmcy",
-      "summary": "OpenAI 计划开展下一轮内部安全冲刺，并与 Cathedral Systems 合作，由后者研究人员用 OpenAI 模型配合其团队挑战自身防御。OpenAI 同时提高漏洞赏金，关键发现的奖励提升逾 4 倍，杰出发现最高可达 172,000 美元（含奖金）。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/m38pfvafn4v4fl5hnnb29gmc...",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T02:29:35+00:00",
-      "category": "7. AI 论文与研究"
-    },
-    {
-      "title": "AI investment is becoming overly concentrated, Chinese official says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS1NiaC1pcnFMbDRfV0N3WTU2SXM0YlVCRkx0ZEo0d0pib2NjYk4yUGdXTGg2ZUl2emstQ1BxMjFaTC1BWVJ5bnpuR2dnVTlPenNWbXRxN09hNTJudXBlMVNtMmhSRVdyNnZMU1hFRmt1WjN4VzR4SS1DcUJ4YmR3N2tHdldlUl9vTXA2SVo1Nk9vVWNnMndmZVNDTkxFZW1NV1FpdVBtZGxmZ0MzdV9MUU9SRkw1ZDhjU3NxVw?oc=5",
-      "summary": "AI investment is becoming overly concentrated, Chinese official says&nbsp;&nbsp;Reuters",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T02:28:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Inside OpenAI’s ‘election war room’ and AI's impact on the midterms - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY2s4VjlvM1lYYk9sanZEYkVaN0pUTFJ1Y1Q0U2E0UzZWQXo4QWFDcmJaNEpIQkV1cXFnZTBDYjlTWmllRklTVFNpVW1jenFMRGdJQ0JOTm4wU3FjYWNodnRnbm4wVGh4VFh6cTYyTUJjbldtdm8xT1FUNW4yOVBxRk1GcGJGOVNJUzhldExZR3VyYnMxay1nYU44QUlkV3Y2SjJuSkdhREYwSE0x?oc=5",
-      "summary": "Inside OpenAI’s ‘election war room’ and AI's impact on the midterms&nbsp;&nbsp;NBC News",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T02:26:24+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "月之暗面分享 Kimi Code Desktop 三组进阶用法",
-      "link": "https://aihot.news/items/o1v6ps17hljagh9xoubpw7abn",
-      "summary": "Kimi Code Desktop 发布一个多月后，月之暗面结合社区使用经验整理出 3 组用法。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/o1v6ps17hljagh9xoubpw7abn",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-03T02:24:00+00:00",
+      "published_at": "2026-11-04T02:54:22+00:00",
       "category": "8. AI 编程与开发"
     },
     {
-      "title": "Is Suno the Music Industry’s Biggest Nightmare — or Greatest Hope? - Billboard",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zVTJkLW1QMFB6OWk1TVNKYThVNTVtblpNMlBhVnVweU42VjZ6b1JkczdFR1BYWHVXZVQ3bUtRZkRsWFBHcG84ZTR6RV9yWmVMdXlDMDhxdGtYVGcxMTVoWXluREVNNEc5ald5UnFILXZDdw?oc=5",
-      "summary": "Is Suno the Music Industry’s Biggest Nightmare — or Greatest Hope?&nbsp;&nbsp;Billboard",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T02:15:57+00:00",
-      "category": "1. AI 新消息"
+      "title": "I Built an AI That Works Through the Apocalypse – Will Prowse [video]",
+      "link": "https://www.youtube.com/watch?v=E2N7IsZ_Xio",
+      "summary": "Article URL: https://www.youtube.com/watch?v=E2N7IsZ_Xio\nComments URL: https://news.ycombinator.com/item?id=50361005\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-04T02:53:14+00:00",
+      "category": "6. 热门 AI 视频"
     },
     {
-      "title": "Apple Forecasts Slower Services Growth as AI Costs Rise - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQU01QUtvVGloSERRZVVaeERCTWcxbXc0QlIzU3duVmFka2pVZ1RqWGplZzBTTHZwOHZqZlZNWjFnOFZyalZkZ0N5TXBTcmhHbkw2WHdNbExNNEQyVXh2a0NEdmxzaWltWGFqSDBub25jTzhkSnA3QjN6QjZWajBuTHlQQlZ5Ul9VdG5iYnhDOENjLThNTFlhUA?oc=5",
-      "summary": "Apple Forecasts Slower Services Growth as AI Costs Rise&nbsp;&nbsp;PYMNTS.com",
+      "title": "AMD’s AI Boom Puts It On Track To Outsell Intel For The First Time – Analysts See More Room To Grow - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbENTZEtqblB0VE1MOUJWbmprcllrd0ZCNUtEcC0tdHFGUHVDaVBWNmpRM2NnUjVGajl1M3Bpd1N5ZF9KU0UyUDVQMFF2SjdTTWtZbWkzVGxPQ0xxSlNFMW12bEFMRnByT0QtNk9pWU1TcUlZQTVJSi1iQWhEVHN3amtRU1lQcVdZQjc1SDNmMjE?oc=5",
+      "summary": "AMD’s AI Boom Puts It On Track To Outsell Intel For The First Time – Analysts See More Room To Grow&nbsp;&nbsp;Yahoo Finance",
       "source": "Google News AI",
-      "published_at": "2026-11-03T02:15:22+00:00",
-      "category": "2. 热门 AI 工具"
-    },
-    {
-      "title": "Why AMD Stock Is In Focus Before Q3 Earnings And AI Partnership Updates - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFZqQnJQc2E5bXlQbldmdWlHd1h5S3BhclFTYmNfNm1NQ0J5bmdfYkpEZXZ2dWZFX25NSW1vMEtUT2ZFQnd3N3d5SEw2SDRLTWp2QmM1czRxT09tVjdENldBY1hqcXdLLV9oVF9wWWZUS2Jvc1JkVnVOZEtzdzVBV2N3R0lCZEdXeTZhRXZmTk0?oc=5",
-      "summary": "Why AMD Stock Is In Focus Before Q3 Earnings And AI Partnership Updates&nbsp;&nbsp;Yahoo Finance",
-      "source": "Google News AI",
-      "published_at": "2026-11-03T02:15:00+00:00",
+      "published_at": "2026-11-04T02:44:01+00:00",
       "category": "11. AI 垂直领域行业"
     },
     {
-      "title": "Big ticket tech deals needed to keep pace with AI growth boom, financial leaders say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2xHcnFKSzZIWm80UDJnQWMzYkctWHVoZk1GTTVDbHMxRTFJd0xNaldGNFNMMG1KelBpSUYzU1EwOU83Zk90YnFnSGtDQ2FXVlMtcUl6TFV2LUZCeTByOUFGZGN0UktWWjh4MHNndTdnTnBod1oySTY3OUFmRnNpSkFuQlNUZnV0SUFibVl5VGYxQjkzUlNWMTJZaUY5OFJBY0R2VDZjS1FObEhXX3VsM2NBTUY0WkVaOWlLbmkxVkRXc2hjeEg4Sw?oc=5",
-      "summary": "Big ticket tech deals needed to keep pace with AI growth boom, financial leaders say&nbsp;&nbsp;Reuters",
+      "title": "Booking Holdings puts numbers behind AI assistant performance - PhocusWire",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Zc0JKZWdJdXNYNXRmOWNZSFB3MTk4NHJNTU12LWtLZlNONmxUN1RLcjVnX2pxazVDTXU1aHk1Rk1mamFHNDNjWlpWV0tSQlJqSnFkZDRjaGMzNk5EZ0wyZ2JKUWZJazlHX1BKck5EOWRodkN4aDlIeV84a0wwdw?oc=5",
+      "summary": "Booking Holdings puts numbers behind AI assistant performance&nbsp;&nbsp;PhocusWire",
       "source": "Google News AI",
-      "published_at": "2026-11-03T02:14:00+00:00",
+      "published_at": "2026-11-04T02:38:28+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "VCs bet $30M on Larridin’s ability to help enterprises demonstrate AI’s value for money - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPREdqdFg0cjVGSUV2YWpRd19qeUZsT2FNMnN2WTZzRmk0ZC1zWGVDbFhVOEhTWTlYeHVEVWQyQVRlRDNfNmFMeGJhcUYyUHpaVUxVS2s1QV8tODFIQkNvUmdDTngtS1RTS2toOXhFRjVvRktRbWRKUU9saVQ0Q0czWGxzNlhNRVVITUlQa1BmYkQxYS1WUFdQZ1l5THlCTktUdTFmX19tTnZlUmQzWnlFTFo3dWZONzJzMjNpSWVn?oc=5",
-      "summary": "VCs bet $30M on Larridin’s ability to help enterprises demonstrate AI’s value for money&nbsp;&nbsp;SiliconANGLE",
+      "title": "Study reveals widespread abuse involving non-consensual AI-generated intimate images - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYlJnWUFILWQtVkx6c0QxRl8zWGhSVTROZWQ5OG5yb1oxMXZ3NkRYajRVRUdmSUgzNjM2eXExUkJVWDR2dWxSX3dRM3AyajBQQXdaTjB3dl9aZUVpanZSNmhGMTVodjFDamNMMDY2dzZRQ25IRkdsTmhZcXlvaDFMeXMzTG5vOExSazZOeVppbkVHX0kwYzVVOHoxX3hPTGlDXzczOEM1VzFLYXBUbjlKTlhja1MwbTFfbUR1TTY4WFdlUlhYT0FvcGtiblI?oc=5",
+      "summary": "Study reveals widespread abuse involving non-consensual AI-generated intimate images&nbsp;&nbsp;News-Medical",
       "source": "Google News AI",
-      "published_at": "2026-11-03T02:12:00+00:00",
+      "published_at": "2026-11-04T02:37:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "As AI Develops Like Other Tech Concepts, That’s Bad For The Big Names - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT1EzZjNXVTNqR0tmTVowSEpCelJncjcyTzNhTjZ0RnJUZmV3XzhkTjhsM3lpdFZJcFpBc3g0VHRNdllTWlYweHFjSkhoYy1UMFFaMXFhWVFmSDRtVjF4MDRjRDEwUVE4OUM1Ylk0aUxGc2NhZzYzRWdyMVFXSzk4R090bEJQTlZzU0JPdm5BdkVHWkFNNjNQSjlIN0NoeFNoRDJUNDZzMmdkNGFVYnB3RkgxY2ZVQmlkbldQTw?oc=5",
+      "summary": "As AI Develops Like Other Tech Concepts, That’s Bad For The Big Names&nbsp;&nbsp;Forbes",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T02:35:52+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "\"AI is a finisher.\" One mathematician's reasons for hope after AI's new dawn. - Axios",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yN0RyaXQzcUVYNW0xc2lSNm4tcENKd2dvSi1WMzZ4STdPT1hONGdqLVA0V0p6NFlXY0VGWXlRUERzUTkwQmhnVzN6dFFRWWpDaXFnNExiYlA0Sk9MdV9OcXFmMm9Ub2loWExjWHl3?oc=5",
+      "summary": "\"AI is a finisher.\" One mathematician's reasons for hope after AI's new dawn.&nbsp;&nbsp;Axios",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T02:29:09+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Supermicro and Arista Networks crush expectations as AI infrastructure wins again - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0VuMzU3VGlReVV6WTdnbno4MmJQUkVzdTRPX0FlY00wSllSYVBPMjE3ZHpJcFBqYVlqSEQ4V1JQNFpwaFh2VDNfMk1RSFhIdXhWNDBrZVdTYWdwc01tUlNNaDd1Mk5sWFpvM1NJTG5DekFHajNEc3ctUzhjM0pyeUJWbmVaV1M0cHVKREZMM2VOcVpweG5XTUJKbDdVVWw0MnJUZXlEVU9uVUhTZ2R3djN2M0ZUVkJvX3hfc2drRWZDREFqMnNBRG5vRQ?oc=5",
+      "summary": "Supermicro and Arista Networks crush expectations as AI infrastructure wins again&nbsp;&nbsp;SiliconANGLE",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T02:27:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Ask HN: AI Side/personal projects to improve hireability?",
+      "link": "https://news.ycombinator.com/item?id=50360823",
+      "summary": "Hey, wondering if anyone has ideas about what are good personal/side projects to do that could help improve hiring chances, get more interviews and do better in them. Curious about either infra relate...",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-04T02:24:06+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results - Virginia Business",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcDNFX0RQcERRenlUZjJuYk1KSFpyUGZ5cmVLSjBhemdYR1dHV0xDbjg1eFFCNXFndzA4S0VQOTFfd3RoRGNHY1BOUFlwRjk4QkZObUNoLV84T3hyZmw4NGVnb2ZnR1lRN2dYVU1FU3lyamdPNDRxYVRJTEdwazVpTzIxbw?oc=5",
+      "summary": "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results&nbsp;&nbsp;Virginia Business",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T02:21:56+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Luma 推出 Character Sheet 功能，保持角色在多视角生成中的一致性",
+      "link": "https://aihot.news/items/a3lloz4olz661t7fc1hfbiefu",
+      "summary": "Luma AI 介绍 Character Sheet 功能：该功能可将用户提供的参考图整理成一张一致的角色设定表，供后续持续使用，避免在生成下一个视角时角色形象发生变化。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/a3lloz4olz661t7fc1hfbiefu",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-04T02:08:59+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren’t Buying It. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNek9QMkZhM3RqT2tlNWZraXFsM05WSE1FVl9rZ2xzcmc0bktZcE1KODl0bjhic2VIaVM1VF85TzBvTGJJdUZhYXFzUzEwVE1pWW1rSG14b1hPdFFuM0dTRUlMYW1GZFNKeHl3OWQ5T1RlbTQ1am9lMzNSME81ang2Tms2V0FLdGttWUs4RmlhWGNXVHdIQ3htVjNUX1ZoODFRTmVzN0Y4YXZqU2RHMXFEOHpn?oc=5",
+      "summary": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren’t Buying It.&nbsp;&nbsp;WSJ",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T02:00:11+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "All the latest updates on AI data centers - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0UxRGMyQ3VLZ1hCY2U3dVVzZnYyX1FZSGJ6OElGOFZ3amc1NnY2Z3Fhb2NIcUp4UFNQNTBQZ3RPa2RiaGEtYWROcHpadFpCV244Nng2VDZuOTBMZDNwdHR3ajl4RXhSSEFjSUZQMVlFd25GSXNZWHZxaVpJYXN0VFJSYUtwcWpOc1huZENJSTRjTlJtTUN3RXh4WFgxRkhOZnBLNVFwSHc?oc=5",
+      "summary": "All the latest updates on AI data centers&nbsp;&nbsp;The Verge",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T01:56:24+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "一个 Agent 控制所有应用的实操技巧：Grok Bot 搭配开源 agent-desktop",
+      "link": "https://aihot.news/items/byp29moi9tfvxlep53tsjakhm",
+      "summary": "作者分享了用 Grok Bot 搭配 vercel 开源的 agent-desktop 实现一个 Agent 控制本机其他 Agent 和应用的方法。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/byp29moi9tfvxlep53tsjakhm",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-04T01:46:00+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "Graduates are managing AI – but are they learning much else?",
+      "link": "https://www.bbc.com/news/articles/c820vz6wyp65o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c820vz6wyp65o\nComments URL: https://news.ycombinator.com/item?id=50360592\nPoints: 4\n# Comments: 2",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-04T01:44:03+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "AMD beats expectations as agentic AI sparks its data center revenue growth engines - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdEVUNUYxSHgxLXBYNDNGTkJKQVJlUFVLOV83ZkRjanVIS3NEaW9sV2gwQk5QZDRneUxTUzM0cm4xZmlUSEVMRnpXRlRWanRqWFc3LXBuM1o5VnBMRm45ZDZlYkNHN0lfMktTRkQwUkJUdjRZQVVfRVNrMnJPWEM3dk1KTmgxZjMzQl9NRHItamRyc2hjRGhESGxUU3dsX3AzeUxKdUcwSEpFRUljLUI1RVV1OVNVZXlEMVpV?oc=5",
+      "summary": "AMD beats expectations as agentic AI sparks its data center revenue growth engines&nbsp;&nbsp;SiliconANGLE",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T01:43:00+00:00",
       "category": "5. AI 赚钱案例"
     },
     {
-      "title": "xAI 工程师称对抗式审查浪费 token",
-      "link": "https://aihot.news/items/gwnoxow7r0y1f3bbppvtum3vc",
-      "summary": "可能是个暴论，但我现在认为对抗式审查基本是在浪费 token。把这些 token 用在实证结合形式化验证上要好得多。我已经更新了 pstack，减少使用 interrogate 技能，最终我可能会把它完全移除。\n\n我发现抽象的代码审查价值很小，智能体往往只会陷入吹毛求疵和 YAGNI 之中。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/gwnoxow7r...",
+      "title": "University of Toledo to launch online master’s degree in data science and AI in spring 2027 - WTVG",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFQtbnNUTGpwenFwUXkyOVBwTFR5SVBIdkVwSDhUem1OaGFoUkoxMWJlMEs1SFZnRUl3bFdxeHE0NlFXN2o4VDFhdFZjTHRubllPMmk3MGtveFhRaFN4SktEWVpNYzhGTnU3M0hLRVpQVkhSbm9EalBDb05rWk1zcGtxYXptQ1ZSSFlfQUtodFdYbjlEUjVOYmlMTXVBWVBpMXZxczMwOE0tRWJu?oc=5",
+      "summary": "University of Toledo to launch online master’s degree in data science and AI in spring 2027&nbsp;&nbsp;WTVG",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T01:43:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "OpenAI 反对人类被 AI 边缘化",
+      "link": "https://aihot.news/items/crbpi7d36v9t11at11ubdjgg6",
+      "summary": "人应当始终掌控未来。\n\nOpenAI 反对这样一种观念：即认为让人类退居到只做“AI 系统认为值得在人类身上奖励的事情”的角色是可以接受的。\n\n人类不应把未来的控制权让渡给超级智能，这一要求最终应当约束 AI 的进展。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/crbpi7d36v9t11at11ubdjgg6",
       "source": "AI HOT 全部",
-      "published_at": "2026-11-03T02:04:00+00:00",
+      "published_at": "2026-11-04T01:40:12+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "MiniCPM-OCR 集成进 Nock",
+      "link": "https://aihot.news/items/vithh6hp3gff23r7sk57rk2o1",
+      "summary": "很高兴看到 MiniCPM-OCR 集成进 Nock！💙 感谢分享成功案例和困难案例。这种真实世界的反馈非常宝贵！🙌\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/vithh6hp3gff23r7sk57rk2o1",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-04T01:39:12+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "面壁点赞MiniCPM-V端侧热量提醒器",
+      "link": "https://aihot.news/items/jpoekrexiw63i010exe1zbdd9",
+      "summary": "太喜欢这个 MiniCPM-V 的创意用法了！💙📱 把端侧视觉和 ESP32 结合起来做一个实用的日常工具，这想法太酷了。感谢分享并开源！🙌\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/jpoekrexiw63i010exe1zbdd9",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-04T01:38:23+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "面壁智能祝贺MLX-VLM与MLX-Audio迁入新组织",
+      "link": "https://aihot.news/items/li125korefu4vc0qkvflqrrhx",
+      "summary": "热烈祝贺你和团队！🎉💙 很高兴能与你们合作。期待MLX-VLM和MLX-Audio接下来的发展！🚀\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/li125korefu4vc0qkvflqrrhx",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-04T01:36:34+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Opinion: Who wrote UA’s AI plan? A chatbot did. - Anchorage Daily News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRnVxTEtpTUZXM0hhYjA1LTFMdGdLZDhzVWQ1bi1yNW1nY0dqU3hLNnJuQWlEQzdyNW04b0I2Tk9uRjZfQjJxZ3ZaS0pwVkdXN0l6UVNwdnIxTkltR1AwcFNDRnVKclhPMEd6cWZxSWpfMUhSZTE0eG00RGZGeVFNSGhwdHdsMTRBLUluVg?oc=5",
+      "summary": "Opinion: Who wrote UA’s AI plan? A chatbot did.&nbsp;&nbsp;Anchorage Daily News",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T01:34:12+00:00",
+      "category": "10. AI 观点与争议"
+    },
+    {
+      "title": "Weta FX and TAICCA Partner to Turn Taiwan Into an AI Screen Production Hub for Asia (EXCLUSIVE) - Variety",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjhyY091YVFrbTFEbWFKc0NDVWN6Wld0N282RmU5MXZaSVBReFBxdlRQRFZKZUN4SWxYN2xVMmxWM2ZHVFlSWW9US212VmdrUVhnallMcG1FZGFpXzdCNWlFN2k5UVBIcUpLMktkU3ljSndwRzJsMHlhb1hUQ2JZdUpVY2dXVkVhdnI5NEVRQ0xBNThHaVRBNTBBWEVSS2F3dHVhakRXUUlKSTdCeG9xc2VtSkM?oc=5",
+      "summary": "Weta FX and TAICCA Partner to Turn Taiwan Into an AI Screen Production Hub for Asia (EXCLUSIVE)&nbsp;&nbsp;Variety",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T01:32:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Local AI app that runs an 80B model on an 8GB Mac",
+      "link": "https://yanahchat.com",
+      "summary": "Article URL: https://yanahchat.com\nComments URL: https://news.ycombinator.com/item?id=50360513\nPoints: 1\n# Comments: 2",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-04T01:30:30+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "From cyclists to wild dogs: Baidu’s new AI preps robotaxis for rare road hazards - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnRlUmo3TGlsWDduLWpsb2JkUXN2TnYwa1doVlduaWdxdjEzalQ2MTJ5eVp3dnphcnhOTE1sb3RYdHJheHhzMmdDekRQYkdrc0xmOWlVQXdYWUc0VUJqNmxoLVI3aVFxOU9PNlJlc2hTQnhnYjRrM09XczNXTGpJRV9sRENSM1ZDU0VxdkJsejhCNUFYbkkxWFgxMmt0M1VOOUtGRXN5cDlWT0dGM0kzcWdHSDFmSVVWZ0dqWDR30gG-AUFVX3lxTFB0cW55STgwYkhmUy1Gb1dwR05UV19Yd05rb0FjbTlOQmtteG1BV0s5Ni1oelRfM2N6S1hDXzVnUHlvYmlsZkIyY2pnUEd4aTRtSTNFNC05M3F0aXRMQmdSTndMYkQwVUhHS3RWaUNBT0JhMmJPRWxOdnJmU0VPVDZlSUZnZUd5bk5nZjdTdUJ4RDBRWGlmNzhKMHhLYVk3djVqNGlrTTI2Zi1ka0NibHZtZkxCMmZDRFZhM2x1TGc?oc=5",
+      "summary": "From cyclists to wild dogs: Baidu’s new AI preps robotaxis for rare road hazards&nbsp;&nbsp;South China Morning Post",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T01:30:05+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Adobe Just Removed AI From Lightroom. Well, Sort Of - Inc.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWTJQQnA1XzhZQ2ZzUWRaQ2VyeDd4X1ZCcGpvVXZUMzBIV2ZoeUhZRjZkUXJaV3ZwU0FVaW9kTU9ZZXh3NEtzMDdIWG9DT19qRFpMRmpTN2JaakVNTHBUQjd2U0FrczRIS3BRTjEzaVAySjdFR0FvazRRbHlpRGNvdm1sSUdWTGlBMVhLXzRYam41MjA?oc=5",
+      "summary": "Adobe Just Removed AI From Lightroom. Well, Sort Of&nbsp;&nbsp;Inc.com",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T01:28:23+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Google offers tepid response to accusations it would hold Search hostage if schools restrict AI tools - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWTZ2NUFkVG5uNWVTbXd2ejdrVWNXbDdRLTBSWE5lZjh4RzhjanZJUGhyQXkyeWRvZE1QVXRKYkRqZ3Q4bm8tOGxhdVlpY1N0YUYtTXlBU3ZSeEVHZVAyLVlsTmt4Ukp4Z1NMcUhVOURTNzc2Um9BNTgzdXItam1CNVpWbkRNbXhDM185STNsT3BtVGQ5U1JUaE1lbDYwUlZFTUZqYWRKcmpoZzRibHBRcWY4MS1oTTV5UUNVenFnUTYzQUFwVU91U2xsX2VCelgtbHIzUg?oc=5",
+      "summary": "Google offers tepid response to accusations it would hold Search hostage if schools restrict AI tools&nbsp;&nbsp;SiliconANGLE",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T01:28:00+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "Writing as an act of rebellion (Despite the AI psychosis)",
+      "link": "https://charlesfonseca.substack.com/p/writing-as-an-act-of-rebellion",
+      "summary": "Article URL: https://charlesfonseca.substack.com/p/writing-as-an-act-of-rebellion\nComments URL: https://news.ycombinator.com/item?id=50360457\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-04T01:21:28+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "AI cloud startup Applied Compute raises $350M after reaching key revenue milestone - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVnk5MUhrd0xVUGFCWUhpSWg3TzJpSlZpMXBwSTZ1d0U3aXFpZGVXSy13dGR5MUdKaVBnZ3I0emRPM1llRjJXdEZxTWFvb09tdEVDSlpXUzdhcHNnOG4yQ0pYSFRUbUZmaDVrbGdmR2ZUOUtlS3M0cFlLMGJLSXFtUHg1eE1IWlQ5TUVEaTRBTlJrM1lSV19wVENiaGRmUl9yTkpTS2FobF9nMUJ0SnVFcHktREY1Rk1PeGc?oc=5",
+      "summary": "AI cloud startup Applied Compute raises $350M after reaching key revenue milestone&nbsp;&nbsp;SiliconANGLE",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T01:19:00+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "曝字节跳动将封禁 L4 代码仓库及飞书文档的外部 AI 访问，限制员工自费使用 Claude、Codex",
+      "link": "https://aihot.news/items/hswc8myaxsc3ierhj98kxsvrh",
+      "summary": "据大厂日爆 11 月 3 日爆料，字节跳动本月起将对全公司 L4 级别代码仓库和飞书文档实施外部 AI 访问封禁，员工个人采买的 Claude、Codex 等 AI 账号不能再用。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/hswc8myaxsc3ierhj98kxsvrh",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-04T01:12:30+00:00",
       "category": "8. AI 编程与开发"
     },
     {
-      "title": "AI Models Are Getting Harder to Monitor, Says U.K. Government’s Joseph Bloom - The Information",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkF4MGVqV2g5bDFzMzJNU3p1bWxlVGpuV3B3bVVkdllZQVByZGdrQ3RWV25sYVlPdGFpcTA3RmpxTHhQV0xraWNCSUZfdGNRX3Z0SDdOelJLckpXWHV5VUtWMTRHT2FYaXZ1N2hicGdZMUxhejJ2OWRMZnRDNnJxSE1oU1NYTlN6MlpJUkR0eFNpQnd3XzdhSDhGenhpYUw3bHlxM21RclJiZw?oc=5",
-      "summary": "AI Models Are Getting Harder to Monitor, Says U.K. Government’s Joseph Bloom&nbsp;&nbsp;The Information",
+      "title": "Super Micro’s stock pops as earnings show booming demand for AI servers - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnYzTUxGbHRESW1EUWZxeGxHY3NwWkhBWnRMR0REYkM1cTJnX3dKYzB3WDB4TGs3Q1NlRVdtYXFfeXgtdGxDMEZib3NfUDNuTEtmZVF1ZlpJOFVIT2xLZ0U4WWxPUzRkSDE3amNEWW5GaE5iU3dGOUhCR0EzeURCWkQ5Z0thOVVSdFhLRUxBWlBDQlJycUtWZFFweHMwcS1PNGhMaXRWU05JeXh1aWRXeWF4RQ?oc=5",
+      "summary": "Super Micro’s stock pops as earnings show booming demand for AI servers&nbsp;&nbsp;MarketWatch",
       "source": "Google News AI",
-      "published_at": "2026-11-03T02:03:00+00:00",
+      "published_at": "2026-11-04T01:12:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "SpaceX Will Be the Biggest AI Cloud",
+      "link": "https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will",
+      "summary": "Article URL: https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will\nComments URL: https://news.ycombinator.com/item?id=50360345\nPoints: 2\n# Comments: 2",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-04T01:02:58+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Shopify CEO 谈 AI 繁荣与智能体商业",
+      "link": "https://aihot.news/items/kc3hljtmxg57ot3jik46mf61v",
+      "summary": "Shopify CEO Tobi Lütke 在访谈中称 AI 行业已为地球新增数万亿美元客观价值，这些价值原本藏在浮点运算里。他将 AI 比作核能：人类长期掌握浮点运算与矩阵乘法，却未意识到加速执行可释放巨额增长。访谈还涉及智能体商业走向、亚马逊封禁 Meta Muse 而 Shopify 接纳、AI 购物行为及智能体交易中的付费与广告问题。\n🔗 阅读原文\nvia AIHOT · https:/...",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-04T01:00:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Google says schools opting out of AI will lose search access - WORLD News Group",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVA5TVpwTGVLZzhGTUVsY0t1X2VuRFpic2RJSHRaRTFjQkVhTTVxM1M1TkNtZ1ZlLWlTcWRtdGRGR2pmRWpkMlFYUHhRZjJJdGFfRVRGTjU2b0NMNVI3UUdaX01BZlBReHlIRjREbHcycFh3emVQak9JcmhzRDRyb1FrNElsVXJzNU9wUTBPSmpKN2hfSG0w?oc=5",
+      "summary": "Google says schools opting out of AI will lose search access&nbsp;&nbsp;WORLD News Group",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T00:59:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "indigo 解读 Claude Code 团队 Addy 的观点：Agent 干活时人该思考什么",
+      "link": "https://aihot.news/items/gm8xs9i0pqw8jtlty4c8aqhvj",
+      "summary": "indigo 引用 Claude Code 团队 Addy 的文章，讨论当 Agent 帮你干活时如何保持批判性思维。文章指出模型越强批判性思维越难，人会在卸载、延迟、投降三步认知滑坡中逐渐交出所有权，建议把判断力放在任务两端，事前定义假设与完成标准，事中让验证进入执行循环，事后先看证据再校验隐藏假设，交付前问自己能否解释并愿意署名负责。\n🔗 阅读原文\nvia AIHOT · https://ai...",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-04T00:58:47+00:00",
+      "category": "8. AI 编程与开发"
+    },
+    {
+      "title": "Google’s New Rules Hand Schools Hard Choices About AI and Search - Education Week",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOemZRcXpiTmZhdGJpb1UtOGRES0V1ZGNkcVR5bzBPcWJaa0xUaThFVFVrZXJ1by1hd0p5SGhZd0xGZHBPVTlnWURvQUozcloxQnk5MjMwUXpxUEExT0pvdkJ5OEh2anV1Z2V4UzlISE9wVWxNV1RkOXV0TC1TQTh0SE5hMW1UaEhtSVlIMUZTczEyVHJTekNRYl9aTTIyQlUyaF9OZFJQZUQ?oc=5",
+      "summary": "Google’s New Rules Hand Schools Hard Choices About AI and Search&nbsp;&nbsp;Education Week",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T00:55:03+00:00",
+      "category": "11. AI 垂直领域行业"
+    },
+    {
+      "title": "AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs",
+      "link": "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/",
+      "summary": "Article URL: https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/\nComments URL: https://news.ycombinator.com/item?id=50360281\nPoints: 2\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-04T00:54:35+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Apple Readies Launch of AI-Powered Health App - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHFwV2IyRl9rdHlfMW90aW5LM0JkTVFqTHhMQWlvRnpyRW9Ebm1HOG5nQk9RYnRuc0hqc3FlZkNUaWg0ZVJQb0Jyemp1OVdFb3N0cW1tTkVzUGduZnNlSkxRaU1sVXFYVnVHV3pFd1UzTmdhdUJtTjhVaHdsTVVqOGNISzBpNGNPQWc?oc=5",
+      "summary": "Apple Readies Launch of AI-Powered Health App&nbsp;&nbsp;PYMNTS.com",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T00:50:24+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "Google researchers are fighting the company to tell the world what they know about AI - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWNrdVBqZDE1MU5SRE1jMEI4Y3VLRnlkYmYteUhFRFRhbGp2UXZpa18tNmlsU3BqWWszRkc0UWl0WE5XbUlZSDBCTDl2R3psX1BCNTkyZUxjaFZuaVlVUU9iTWJoaWdIWGExRXZfSzdYdjIxTll1R010Nnhlb2ZtYktZU21HU1ZzRkhBcm5lb2c2ZnluOWdoMy13S2NqMDNpUVd6MFQ1M255RDdIT2VCTzN6d0ZTVWM?oc=5",
+      "summary": "Google researchers are fighting the company to tell the world what they know about AI&nbsp;&nbsp;The Washington Post",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T00:42:29+00:00",
+      "category": "7. AI 论文与研究"
+    },
+    {
+      "title": "Nexus Mods 强制新 Mod 上传时披露 AI 使用情况",
+      "link": "https://aihot.news/items/zd72n3sns1wlr5sj5q1bhkk9i",
+      "summary": "PC 游戏 Mod 仓库 Nexus Mods 宣布，新上传的 Mod 必须声明是否使用了 AI，标注为 AI 辅助的还需公开说明 AI 的使用方式和范围，AI 标签也会更醒目。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/zd72n3sns1wlr5sj5q1bhkk9i",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-04T00:42:10+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the s...",
+      "source": "The Verge AI",
+      "published_at": "2026-11-04T00:42:10+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "AI-Generated Sexual Imagery Abuse is Far More Common than Many Assume: Study - Sci.News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmU1dnhuVDdsQXNqNXYtbnhoYmxhc2pENl9ndXA1dVZhc1hVS0EtNG9ESzlXTnRCMnhUY0JWZk90d3EzMkJEaU1vcWVacnhwcG1LcTBWcU9WQkFTVG5GQ0NWMFdGbFlpd2lidGVkandHYWV2MTRmWVExVl9qb0ppMzdJdHRxX3EyY04tN19KclV1enZkZzA2dE5Jcw?oc=5",
+      "summary": "AI-Generated Sexual Imagery Abuse is Far More Common than Many Assume: Study&nbsp;&nbsp;Sci.News",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T00:37:30+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "The night-sky image so incredible the NZ man behind it has been accused of using AI - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHhXQXkyVmVpdXI2MWtVbmIwcHVpMEJPdndXb2xYS05TYWZndlVhMW1LamtrdnppRnpvdFFRZVpGTElKMzRDQU1Zd2ZHVEdNRzlxblRHeDFBRXJLY1lCOTUybm52dy1GODN5WFkyWmNSV3k3UUlWblVBRFAyQmwyMDEwemtaUW5STzU2Tl9zTjFEb3RXcW1Hdk40QlUzbnIzaFNQLVdTa055T1BvMUJYMC1YUnhrTGs?oc=5",
+      "summary": "The night-sky image so incredible the NZ man behind it has been accused of using AI&nbsp;&nbsp;The Guardian",
+      "source": "Google News AI",
+      "published_at": "2026-11-04T00:33:21+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "卡兹克开源折腾一年的Agent自动化系统Agent-Autoloop",
+      "link": "https://aihot.news/items/c6a5xy2xsv998da0gnaeln3n8",
+      "summary": "作者开源了自己打磨一年的Agent自动化系统Agent-Autoloop，仓库地址 https://github.com/KKKKhazix/agent-autoloop。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/c6a5xy2xsv998da0gnaeln3n8",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-04T00:31:37+00:00",
       "category": "1. AI 新消息"
     }
   ]
