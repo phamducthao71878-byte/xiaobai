@@ -1,404 +1,404 @@
 {
-  "generated_at": "2026-11-13T03:56:26.473819+00:00",
+  "generated_at": "2026-11-14T03:55:02.743311+00:00",
   "items": [
     {
-      "title": "At a major Silicon Valley AI conference, VCs and CEOs grapple with a future without Jensen Huang - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2tEWGQ4VkM1WERjRjJBQl83OEt1ZkZhN1dEN3I0eTBIRXowSUo4emhYYUdtYjZubG1GNENoNGd3UFptVVU1a08xeFUzcWxycVNIQ1lUbjIxMGFlM3FGeU9lN3FGYTc2TS1hbXU2RHBvOGVRdHZ5dGJubjdSMEpWNFY1TW9NU0lVNWRWSnZnMUl4YXpQMVZOWQ?oc=5",
-      "summary": "At a major Silicon Valley AI conference, VCs and CEOs grapple with a future without Jensen Huang&nbsp;&nbsp;Business Insider",
+      "title": "Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)",
+      "link": "https://browserr.dev",
+      "summary": "Article URL: https://browserr.dev\nComments URL: https://news.ycombinator.com/item?id=50493464\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-14T03:22:22+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "MathHelm: A Place to discuss AI-generated papers",
+      "link": "https://terrytao.wordpress.com/2026/11/13/introducing-mathhelm-a-place-to-discuss-ai-generated-papers/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/13/introducing-mathhelm-a-place-to-discuss-ai-generated-papers/\nComments URL: https://news.ycombinator.com/item?id=50493444\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-14T03:20:33+00:00",
+      "category": "7. AI 论文与研究"
+    },
+    {
+      "title": "Is the nationwide ground stop related to the FAA's new air traffic AI? - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oVXE3ZmF0WkYzN2R6MUdURzFzSTNqY3VmNEc0bDNlTm1sUGJ5TGhFd3JFVENkNFVGNWh1bWVBR0JMSGVJUHJMWGZGWmdlbFdxYkd2T0lHZG40YW1ySDYyUFNielR4cjduWmxodXhvT1IwMzA?oc=5",
+      "summary": "Is the nationwide ground stop related to the FAA's new air traffic AI?&nbsp;&nbsp;Mashable",
       "source": "Google News AI",
-      "published_at": "2026-11-13T03:47:00+00:00",
+      "published_at": "2026-11-14T03:11:15+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Dyania and NVIDIA partner to scale AI-driven clinical reasoning across health systems - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORU9IalZUTUtseS1lTUduM0x3b1I3UmgwV3NGUzJ5dlhnNEk0TXRfcGd3ejd1bjFESFA5bHdUVkpVSi1nSWtKTkNkSW5Wczk4R0toeEFLZGJSdEV4SV94d3JjOU9pS2xTSmZ6d1pnMmRXWUxFTmNmNUxSTDVlb2t3SEZLTkZJUjgzWnZCVVpQbkhqQ3Z5VXJ6TUZEaXlGbmNycHVQOEJTQXE1X0tnNGkySUMySFBiekxPSDhWWEJ2aWNnTHJvQ3l1bDhrbEo1UQ?oc=5",
+      "summary": "Dyania and NVIDIA partner to scale AI-driven clinical reasoning across health systems&nbsp;&nbsp;News-Medical",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T03:02:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\nComments URL: https://news.ycombinator.com/item?id=50493251\nPoints: 35\n# Com...",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-14T02:52:59+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
+      "link": "https://opencyclone.vercel.app/",
+      "summary": "Article URL: https://opencyclone.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50493213\nPoints: 2\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-14T02:46:12+00:00",
       "category": "2. 热门 AI 工具"
     },
     {
-      "title": "Future of AI faces new questions after Nvidia CEO resigns - WKYT",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSW9pS2thbW5vU3dSN25CbDFicGRMTFFub1VJNXJGX1pYYXRBYUJKeGpMUllDVE8xTTVVMmlWczFqblczbjZRZGU2dUdidXIzck5BSjRxN2k4VXh6S2c5NTRMRVFnNEl1cW5ueUpBWlh4VnctQTJmZE56bEVVaWhjdmRUaWRFdm1ybUFIZnFCeWc?oc=5",
-      "summary": "Future of AI faces new questions after Nvidia CEO resigns&nbsp;&nbsp;WKYT",
+      "title": "The future of AI in the classroom - NBC 6 South Florida",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRnNsVGFpUjhWR2d1b0xkclgtZERZQ1JOdDM1d3JfNm0wTXZsdXVBdTJoNXhoYWVvU1p3UWhjdUZvbVItWFh2SEZJRlFILUY0b21nVUxhWWZmZHUxNE1tVFhxQ0pQc0sxUTVmei0xbnhTaGtYN1BCXzVSMUpSLUxqa2VEWGU0MF9zWlRoRdIBlAFBVV95cUxOQlY3SzAxMkxtcFVDd2xLZ29ZZmpGcXVrVzdYVE5rUkVkU2lNYjMySkwtZjJNbzN4U0kzX3l4c3RMNHlfTWl4UnpNVmJKb1JENGZvbHVjLWlaZ1hIejNFa2pfdWt0bmV0ZW0xYTZlQzRHYjg4TkFKZ05vMEtUYjFNSkp0cHg3VDFWbllpMXFFRnhjSjNP?oc=5",
+      "summary": "The future of AI in the classroom&nbsp;&nbsp;NBC 6 South Florida",
       "source": "Google News AI",
-      "published_at": "2026-11-13T03:45:00+00:00",
+      "published_at": "2026-11-14T02:41:39+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "VIEWPOINT: ‘ITAR-Free’ Is Coming for American AI - National Defense Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeUFjcTNLaFJMU3lIVC1KS0EybnhoMFk0V0x0S293MkRXU2VLNXdLbDQwcjhZdzZnUk0zQloyTW56T1dQQndUa05nSWk3MzkzdWQ1QjVkd0RaS3RwNF9qN1lZM0pXamh6a1dXRElVeWFWMTl0TmZRYW03ajRsMzFtRHJMUElWMWFheGxYTkYyYllWM0VuS2NvRThzQTRMRDV6OXpkMkVOYTg?oc=5",
-      "summary": "VIEWPOINT: ‘ITAR-Free’ Is Coming for American AI&nbsp;&nbsp;National Defense Magazine",
+      "title": "US officials raise alarm over restricted Nvidia AI chips reaching China - WSMH",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUUI0TG1lSC1tZ3VqaFBXRk9WQldSUVd6YmVHc19XN1kzWFQ1RWNGanlFYzdYUVNLMlMzTi1EdkhmbTF5Szh1aGJKa1g0QmZXRDJ5U0VTUHVZUFp5NmJ1VGRUc1U1Y2dhdjVib1JuNjNwRVlraUcwOVJwampVOUNHNTFjVEFva2RkSkJWdHJ1VTBjZ1locTFqNTFETHhoSmlLM0c3SmtmMFd5Zkc2dGdFdWNMMXYzRFA0R29ObmloclBwdGs?oc=5",
+      "summary": "US officials raise alarm over restricted Nvidia AI chips reaching China&nbsp;&nbsp;WSMH",
       "source": "Google News AI",
-      "published_at": "2026-11-13T03:28:38+00:00",
+      "published_at": "2026-11-14T02:41:09+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "Is Memory Reuse For AI Data Centers Altering The Investment Case For Penguin Solutions (PENG)? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelA3Q2ZjWGVYWHNxUWVPLU1sUF81M2ZLbXBPRjNpRGptVk5IeEk0TkZGczM5YV9CekpxV20zU29jdTFVMHNfVWZ4SzZpOU0xS1lXTWRLYlduMkd1SXg0LWhfTHNQbmpydm1IZ0Z2aEZaWmFXeFNZSDJsTGd1R3djVS1ONlZJVTZlT056dGNKWUwtOGp5NUNn?oc=5",
-      "summary": "Is Memory Reuse For AI Data Centers Altering The Investment Case For Penguin Solutions (PENG)?&nbsp;&nbsp;Yahoo Finance",
+      "title": "EU plan for cloud and AI falls short on digital autonomy - Tech Xplore",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52RFIxRjVDR2J2NTFxWFBEMWxoY1lGemxrMmxuU3VLSlhucWxWZU1hYXB5ajdVaVA4MGJUajM3aFNsdU1zQWo2YXFnQ0JMUkY2RXd5Z0dKZVgyR3JwcUJBQTZRMEhXXzlocUREb3Rac2RBdw?oc=5",
+      "summary": "EU plan for cloud and AI falls short on digital autonomy&nbsp;&nbsp;Tech Xplore",
       "source": "Google News AI",
-      "published_at": "2026-11-13T03:15:00+00:00",
-      "category": "11. AI 垂直领域行业"
+      "published_at": "2026-11-14T02:40:05+00:00",
+      "category": "1. AI 新消息"
     },
     {
-      "title": "Jefferies sees 107% upside in this AI-focused semiconductor stock - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1RzRFExM0hxdmhXTWpNc2VuX3FpdUlBYlBCUUt4Tk1SbGpPSG1Cc3JoendKVlFzSXBzMVI0dnlpbFNDR3MxMHFQTVNWVl9qc0RNTnROYnpMdTIyUEFka0VZTnhsSFMwd0JrdE1KRWJWTExGNTBySmRRZmN3elNNcFBDdWM4enY4cGozekJyVl9vYlZVLU44?oc=5",
-      "summary": "Jefferies sees 107% upside in this AI-focused semiconductor stock&nbsp;&nbsp;Yahoo Finance",
+      "title": "ChatGPT Wallet Lets OpenAI's Dots AI Agents Shop On Your Behalf Without Accessing Actual Card Details - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZWhSdDY4UU1NV212WnA1Vm9taWxQMmU5bE52OTdKZ0hPQ3lOeE1PRm9nQl9EeUFURm9ZNHFwUUdQbWV3Y0xlQzgxS2xjUHNsSzB4MUVrcTZ4N2ZlRGdNdFdLamhYQUlvaEt3ZXV0amthQi11SmVsaUNfUC1XRkczVGV0S3RZb2s?oc=5",
+      "summary": "ChatGPT Wallet Lets OpenAI's Dots AI Agents Shop On Your Behalf Without Accessing Actual Card Details&nbsp;&nbsp;Benzinga",
       "source": "Google News AI",
-      "published_at": "2026-11-13T03:12:17+00:00",
-      "category": "11. AI 垂直领域行业"
+      "published_at": "2026-11-14T02:34:24+00:00",
+      "category": "1. AI 新消息"
     },
     {
-      "title": "ULI summit examines role of AI, sustainability in shaping Northwest Arkansas communities - Northwest Arkansas Democrat-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdnMxai1lQ2lRbWtTLVhpdS1xcXlCTS1McGc3cEItYm9xRXlzLVZnMGxNUmNaTjJHSlVaR1IwZnVvUEFhU2ZsSlR1RjBlY0dRNHdmS1IwSTh2a2lJd3dYM2FJT0VQa0s2dS13Q3pOenBNZ2hxdDZGQmRYX3VibU5xU0Q4LXpKRG5jejhPMFF3MnZxZTdKNFFr?oc=5",
-      "summary": "ULI summit examines role of AI, sustainability in shaping Northwest Arkansas communities&nbsp;&nbsp;Northwest Arkansas Democrat-Gazette",
+      "title": "Nvidia scandal looms over US-China AI talks - France 24",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2tLbjNPWlltQUF6MWIxWWJweEdRZ1dKZFNaWFN6bnBUNGpwcWltUzdLajdHUkNSQlpNcHlub0VhNnV2WGNncE9UX0dhTmVWX25sSDVNc0NiRG5adjlObVlZWnhZVS1OMDZ0OGhhUlpIZGJ2VzI5cHc2TGctYjltRUxPS0VRY3R4MDFIeDFTVHZZR01L?oc=5",
+      "summary": "Nvidia scandal looms over US-China AI talks&nbsp;&nbsp;France 24",
       "source": "Google News AI",
-      "published_at": "2026-11-13T03:10:00+00:00",
+      "published_at": "2026-11-14T02:29:23+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "FAA SMART AI system vendor and Microsoft both say ground stop isn't their fault - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRDBYNUZuZnY1ZDRPSGZYcVV3akxRTERxN2xILTV2RGlZdko3YW5QcktxZjNaTm9ycHhYM3daeE9HbnlqamhCWXlqN2RoX1JqQmpTLThHQzZlbGNOUWxTc28waTl5aUJob1JnN3ViMHZEUXFpa3cxX2NTUFp3VVUySUdGOWpqSkJfMTNNYmRzaDVhbThxRU5zMGJR?oc=5",
+      "summary": "FAA SMART AI system vendor and Microsoft both say ground stop isn't their fault&nbsp;&nbsp;Business Insider",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T02:23:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "AI startup says nationwide ground stop was not caused by its software - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE5XUFZ3TU1mSXBoREp6SzNHTDc1a0hocDNFVmhibjlxOEVCTFJWbm5fSW9JM1N5Y3d3NGJwdWFFOXlYNGUtYWlZY2pUMG4zcUxENmdTR1hSYlFldEFGNklPZm8zWnd2T3VTcWZjYk9kcDY1c1pPLVYzZFZHR2dDdDFMM21YSTAwTmhGVWV2Y01OREJvTHRhaUE1ajRLeGRMT2UtUXZFd2JlSkhMSTViWHBB?oc=5",
+      "summary": "AI startup says nationwide ground stop was not caused by its software&nbsp;&nbsp;NBC News",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T02:17:05+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "This Week, the FAA Rolled Out AI Air Traffic Management. Then It Grounded Flights Nationwide - Inc.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS1JGMmk4ckVUM0Qza2Q5U18xRndmeEx3ZlFhWERQdVFrZVVDNFdnS2ZneWxRTVdEZDdpc2l4UVkxTm5naWM0a3I2eTZQdVN0QUtNLVoycUJIamRNQ0E4dU5mTmlwVXg3UnA5U3BpSlNSSWNNSzZteV82dU9Hb2RCZzZ6cmROekpkdGpSR2NoTGpZT0JkLW5OdHhuQmNHdFVZOEdjbUc3VzQwTU5fdEhHRFVTZWJXcEVMQTBOM080NExUZGR4c0pObHln?oc=5",
+      "summary": "This Week, the FAA Rolled Out AI Air Traffic Management. Then It Grounded Flights Nationwide&nbsp;&nbsp;Inc.com",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T02:13:59+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Insight Launches Agent Store to Accelerate Enterprise AI Adoption - HPCwire",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNam5vaUsyUlhROThTRWRqRkdSdEJxd1o2Y0lxUHpkY2Z0UUhCNTh2TWRfUG5Eek5XYlJuS3VfaWlvb1lTU3k2TmdrbXlDZm1YRWFPMHdYTFRTQ2NWdVE3aDVFNmFZX1lkek1Kd292OF9OWkRXT0RsY2RDcVBoZFk0VGk3VUNVRS1nbElSR3NGR0UtV0xZcHhpV3UxX0JhVkNZX0ZXbktpYkFOcHpN?oc=5",
+      "summary": "Insight Launches Agent Store to Accelerate Enterprise AI Adoption&nbsp;&nbsp;HPCwire",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T02:11:28+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "MIT Researchers Create Roadmap to Help Organizations Mitigate AI Risks - HPCwire",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOG1MMzd3bVcwVi1Sd0hPQkpzOF9NcmQ2U2RZU3NsNnYtQUVjeG14OFJyNjZBaWJiZzlRQnNjUndxNWJ1U1FibS15cHNLakVUUTFfcnFlRDZsazdybDVBdVN1VW45VUVfWmNOOExtc3N2NjkyYzRmaWNPeHhGR0VVWjNxbDN1U2h6YjVGdTJhNjhOUVdPUWNvaGZVbjRFR3JVQUM2VDRRTUJLVEFkcXNla2Fsbw?oc=5",
+      "summary": "MIT Researchers Create Roadmap to Help Organizations Mitigate AI Risks&nbsp;&nbsp;HPCwire",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T02:11:28+00:00",
+      "category": "7. AI 论文与研究"
+    },
+    {
+      "title": "Visure Launches Visure X for AI-Assisted Requirements Management - HPCwire",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHZrTXo0c0dZdUtnTUVnX0pPcUVoVWd4XzI2dUxoZlpZcnNHajhxa2dVbld4blhPbV9SWEJBRXZLMWNQZmZYMUhDUDRZQ0JiU1Ywc3hhdWMyQjJxSEY2R0dKVmJlcjJ1N2dLdDFFTmVsaG9zd3dtVmh1Nkxuc3FVeE45OE51SFRlSTA1N1IzaWJ1ZjhNejRJdElydUxBLW90WG0yd2JoVW5UcWM?oc=5",
+      "summary": "Visure Launches Visure X for AI-Assisted Requirements Management&nbsp;&nbsp;HPCwire",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T02:11:28+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Benchmark Almanac 上线，收录 3,322 个评测基准",
+      "link": "https://aihot.news/items/ew1lyci87nv4o8969a6j2ip6x",
+      "summary": "Brian Zhou 推出 Benchmark Almanac，Karina Nguyen 转发推荐。该站点追踪 3,322 个基准，覆盖 1,746 个排行榜、522 篇发布帖、346 份系统卡和 1,233 个开源 GitHub 仓库，网址为 https://www.benchmarkalmanac.com。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/item...",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-14T02:05:10+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Of Course Americans Blamed the Ground Stop on AI",
+      "link": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/",
+      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/\nComments URL: https://news.ycombinator.com/item?id=50492852\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-14T02:02:02+00:00",
+      "category": "4. 大神热门教程"
+    },
+    {
+      "title": "Natura 戒指让手指变身 AI 智能体入口",
+      "link": "https://aihot.news/items/yi46bz4rcejxo271t08y75j0l",
+      "summary": "AI 智能体就在你手指上，从 Claude 到 ChatGPT，真的。\nNatura 的 Interface 是一枚戒指，拇指一按即可发起语音请求，NatureOS 会把它发送给你已经在用的智能体：Claude、ChatGPT、Grok Bot、Meta 的 Muse 或 Instinct。\n你可以选择由哪个 AI 处理哪项任务。Claude 负责写代码，Instinct 负责订餐厅。\n回答会传回...",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-14T02:00:24+00:00",
       "category": "8. AI 编程与开发"
     },
     {
-      "title": "Loose Ends: A check for unused code AI wrote or forgot to remove",
-      "link": "https://github.com/sid732/loose-ends",
-      "summary": "Article URL: https://github.com/sid732/loose-ends\nComments URL: https://news.ycombinator.com/item?id=50477544\nPoints: 1\n# Comments: 0",
-      "source": "Hacker News AI",
-      "published_at": "2026-11-13T02:56:13+00:00",
+      "title": "千问APP可连接动态血糖仪，结合记录分析血糖波动",
+      "link": "https://aihot.news/items/h9p6w0d65vlmm062rhglz5wbi",
+      "summary": "千问APP现已支持连接动态血糖仪，用户可在「健康档案」→「绑定智能设备」完成授权，结合血糖数据与日常记录分析波动原因。世界糖尿病日当天，千问展示了运动后血糖短暂升高、白粥白馒头等高GI食物升糖、睡眠不足与压力影响血糖调节等场景的解读示例。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/h9p6w0d65vlmm062rhglz5wbi",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-14T02:00:00+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "Perplexity Mac 版上线 AI 智能体“队友”Teammates，面向 Max 订阅用户",
+      "link": "https://aihot.news/items/a4n0ekzshepimw3rmg1bz4am9",
+      "summary": "Perplexity 11 月 14 日邀请付费 Max 订阅用户在 Mac 版应用上体验 AI 智能体功能“队友”（Teammates），该功能此前仅支持 iOS 和网页端。Teammates 围绕一项职责持续推进工作，可管理增长营销活动、分类处理软件错误报告、跟踪业务指标或开展市场研究，任务扩大时还能引入多个智能体协作。官方未披露具体使用额度和 Mac 系统版本要求。\n🔗 阅读原文\nvia A...",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-14T01:58:31+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "UT students use AI to develop financial technology in inaugural FinTech at Rocky Top competition - WBIR",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNal9FOTAyUGRsYjI5enJDU0lmcGN5X2F4dEo4SXpWOVFfWl82MmhLNWRwVFRqdjdqeVVRejgzSzFNcHpzT21obnJVbWVVeWltaUV0bDBObXJsZkpLUjdnWk9BSGxVTDFwNUN6WjRoRU9NOG04anZ3Qm5EQlZDYTN4TWx1cTdlT3RickRRNWlnTkNMNHpteVFzbWhXS0hpalpTRHhVNzFCN3RPeU1lc0hlY2hMemdBMGhIR21HdTBRTGhrQm1XbU1iMkdUdW1HMUhVTzFpOHNwekRaei1TS3o0OWhEai04QU43RWRrY1FHTm5uamFWdzdtTF9JVEpNTlozUWpSV3JaZE4?oc=5",
+      "summary": "UT students use AI to develop financial technology in inaugural FinTech at Rocky Top competition&nbsp;&nbsp;WBIR",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T01:57:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Claude Code 桌面版支持自定义主题",
+      "link": "https://aihot.news/items/vgw356mxhm2hagrwl4aggf267",
+      "summary": "迫不及待想看看你们用它做出什么。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/vgw356mxhm2hagrwl4aggf267",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-14T01:56:45+00:00",
       "category": "8. AI 编程与开发"
     },
     {
-      "title": "Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产",
-      "link": "https://aihot.news/items/pb73dbnmtkslysk3dsuow2ve7",
-      "summary": "Axelera AI 公布第三代 AIPU 芯片 Titania 架构，瞄准数据中心推理市场，预计 2027 年第 3 季度量产，已获超 3 亿美元订单。Titania 设计功耗 400W，由 2 个第三代 D-IMC 架构计算芯粒组成，针对稀疏 MoE 模型优化，FP8 算力可达 2.5PFLOPS，SiP 集成 128GB LPDDR6 内存。\n🔗 阅读原文\nvia AIHOT · https...",
+      "title": "Of Course Americans Blamed the Ground Stop on AI - The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHBIZjRJdjJocVFOcG5uN0YzeUExaUk1NjV5c0F4NUxHWGtXa0hacjAyczVkazlhS3B5ZHNLQUxNNE1ESWthT3YyWWN4UXJqVnVQLUh1LUtCb0hrV29pT1hBR0QyMDY4NnVVM3lFSUc4NzRpMzU1bTZ1WUppRG54SjVZcnZvOUFp?oc=5",
+      "summary": "Of Course Americans Blamed the Ground Stop on AI&nbsp;&nbsp;The Atlantic",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T01:47:00+00:00",
+      "category": "4. 大神热门教程"
+    },
+    {
+      "title": "黄仁勋与英伟达相关提问引中方回应",
+      "link": "https://aihot.news/items/tfwexf8z4jcz3u8rfjce2iaxi",
+      "summary": "中国女发言人回应彭博社关于英伟达和黄仁勋的提问。\n\n即黄（Alice Huang）是否在为北京从事间谍活动。\n\n---\n（完整视频来自“ShanghaiEye魔都眼”YouTube频道，链接见评论）\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/tfwexf8z4jcz3u8rfjce2iaxi",
       "source": "AI HOT 全部",
-      "published_at": "2026-11-13T02:56:08+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Why are your AI projects failing? - Human Resources Director",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbDFPNmluN01RbTdvZkFRQXFxYUhHa1RzdkpPdEdFTkh3Q01kYlo1VU9aTF9ueEh0MjFXbDVQd0p2anNVV0hRd3RxZW5LdWF5Z01JYXQxeDRWc1QwSFBMYS1JRW5FRy0yaVlPSHBmUnJjTmNaTXEycDcyeXlpSUp4LUFYdUxWenpZcGtHTV9iSGdTellGZkJFa3dMaUVfVTNEYVE?oc=5",
-      "summary": "Why are your AI projects failing?&nbsp;&nbsp;Human Resources Director",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T02:54:44+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Show HN: Zipzi – Open-source Live2D Editor alternative with AI-assisted editing",
-      "link": "https://github.com/getzipzi/zipzi-2d",
-      "summary": "Article URL: https://github.com/getzipzi/zipzi-2d\nComments URL: https://news.ycombinator.com/item?id=50477525\nPoints: 1\n# Comments: 0",
-      "source": "Hacker News AI",
-      "published_at": "2026-11-13T02:54:37+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Notion AI chat transcripts exposed in Fireworks AI breach",
-      "link": "https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor",
-      "summary": "Article URL: https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor\nComments URL: https://news.ycombinator.com/item?id=50477479\nPoints: 2\n# Comments: 1",
-      "source": "Hacker News AI",
-      "published_at": "2026-11-13T02:49:47+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "AI video at Tucson's All Souls ceremony generates controversy - Tucson Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPemN0TEhRZW1QMGszUndsN29OSjRiWUJRV3o4NWp1dzFNRDU5T21iaTBmQ2xWZzNQakdqY2hMWnRtMi02Y0x2N0xkRUwtejlJMkxEUmQ0ZG9oUWVHT3NWd2lGclhUZ2FRRE5fY3R4QVNBTDc2VlNsRkE4Z1JMUEtieS1qTXBIQk01QTJkOGdsRmtydkIyalNKWWFXRGl4dGFhVVZIRXJ6SEdJU3Q3ZGVfRmJXRnhnMjRvUlZQc2pn?oc=5",
-      "summary": "AI video at Tucson's All Souls ceremony generates controversy&nbsp;&nbsp;Tucson Sentinel",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T02:47:00+00:00",
+      "published_at": "2026-11-14T01:46:35+00:00",
       "category": "6. 热门 AI 视频"
     },
     {
-      "title": "Arena 榜单显示 MiniMax H3-Image 为多图编辑第一开源模型",
-      "link": "https://aihot.news/items/g9djd7umyt6yq0nb5xha64tni",
-      "summary": "Arena 发布 Multi-Image Edit Arena 榜单，MiniMax H3-Image 得分 1365，排名第 11，是多图编辑类第一的开源模型，也是前 20 中唯一的开源模型，与 Nano Banana 2 和 Nano Banana Pro 打平。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/g9djd7umyt6yq0nb5xha6...",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-13T02:45:35+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Auditors want CFOs to show their AI work - CFO Brew",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NaUN4ZnhUZS1yY3RkQVJNUFVIY2s1d1BSV0o1Z01yeldudDNGWFplMS1ONWY1VVhVQUJmU2lFVE8zZHkwbVgtVzZrc3Z6OUlvemlzdUtSSmxSZktEOHBkNmlEQURDc2RrZmVWYk5DdTUyRW9VYkY0R0t1T0E?oc=5",
-      "summary": "Auditors want CFOs to show their AI work&nbsp;&nbsp;CFO Brew",
+      "title": "Jones County Industrial Forum explores AI in manufacturing - WJTV",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMFJOYzFoODdRX3F0SHpQazlMNnRqMi0wdFVGZklEU0ttZTRCdlZ1MEMzTFNlU0ZtWWlYQmcydjhJMXFEdVNZQkRqTEJrODVPVzlFNU5xVlNhRkZwSXN4dUR1UkYwU2Z6ekJCc3V6TW5lNEZaNndESHZlTV9BWkI5eXVQRVNTUWxhRzJ4UXIxeE9EcU5HVWFFRy1VMNIBoAFBVV95cUxOY180MG1ZME9pNTdEMjhEdkhJa2dicFZMMEExTFNVeHd6b2QyR0pVWGlRZlVNU2tXVWkzYl91N1J3VC1xT3UxNFlEUDR5bkZ5QkZrZWN6XzhPR3pOMFotMWl4UlBFeXptaUVQRmNkOXloaTNtVTZwQVVwM09rRE0zRHFrUFI2bHI2dkg3OHBEWnZTNFYxRGRzWVcyN1dCQ29Z?oc=5",
+      "summary": "Jones County Industrial Forum explores AI in manufacturing&nbsp;&nbsp;WJTV",
       "source": "Google News AI",
-      "published_at": "2026-11-13T02:42:35+00:00",
+      "published_at": "2026-11-14T01:41:00+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "Show HN: Grow any hobby (skills for humans not AI)",
-      "link": "https://grow-bonsai.app/",
-      "summary": "\"Skills for humans\" is what originally sparked me to create this app. Everyone was so focused on AI skills that it was kinda sad. I wanted to create an app focused on people and to help people grow. L...",
+      "title": "Do U.S. air traffic control and email blackouts after China AI espionage have a common answer? - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPckd1VlJSaFo4LXZlenY0VkZoRGJmbFBWZUE0WHB2ZzlPSy1Wa255MXc3SjR2NDFLQ21uSHpEd2pBcWhlcEdUdkR1NVMzdWFKMTdWR1NGYVpEWFMyM3hLaFQ3VElrc0w5MzVCWGg1Rnl2ZUx0WDllUk9hb1o0ZnB4Um16aVZENjJQUU9hZDZ1Z2lPalpjc3JBNG5JSzQ0WEFoaTRZNGgwRlVxa0pfYWc?oc=5",
+      "summary": "Do U.S. air traffic control and email blackouts after China AI espionage have a common answer?&nbsp;&nbsp;Fortune",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T01:29:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "AI has become a utility bill for Gen Z",
+      "link": "https://www.reuters.com/markets/on-the-money/how-ai-has-become-utility-bill-gen-z-2026-11-13/",
+      "summary": "Article URL: https://www.reuters.com/markets/on-the-money/how-ai-has-become-utility-bill-gen-z-2026-11-13/\nComments URL: https://news.ycombinator.com/item?id=50492544\nPoints: 7\n# Comments: 0",
       "source": "Hacker News AI",
-      "published_at": "2026-11-13T02:40:39+00:00",
-      "category": "2. 热门 AI 工具"
-    },
-    {
-      "title": "The AI Agents Can’t Find Anyone to Help Yet - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IS0JWd2oxZVZfUVItZUs1cUJqbFFwR0g4Yi1MNzNEdy1vNG1UcXk3TExwdnhoSHl1YTBpaWJoRVZwbURsRlNMVU54dEVIMVA5ZEZCZm5LbXlUWVg0OGMwTjVocDdjbTV0blhYb0txOUVETlFCUEhFQjRDQ1Z4dw?oc=5",
-      "summary": "The AI Agents Can’t Find Anyone to Help Yet&nbsp;&nbsp;Gizmodo",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T02:35:02+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRjRYQnkzbWVZcGJJWlNMZjAxOUpGQld3RERvSG1teWRGbjZGYjN1a0RlRXFTbDQ5aWRqM1U1WWNwYWZjYWo0NXVESU93SjBiTVlJUXUwaWNWME9rVnhFZzlrQmZ0NTNsRUhKWkljNksweHhwZDVEWm1Mc1p4c2xkQ3M0dnM3TEhwYUk0UGwtMk9OeEFvUDgtQk1mcTNRazFzWXMzamFydWxFdnhJeUU0SzRubkctV255ai0yWlRPNjJaeS1DLUotSkpqOE4?oc=5",
-      "summary": "NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools&nbsp;&nbsp;The Guardian",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T02:30:00+00:00",
-      "category": "2. 热门 AI 工具"
-    },
-    {
-      "title": "From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjZtQmwzbEI3VHJMaDEzRC1ubE4yTU9Nb3lCbU4wM21Id0pSaFY4RXF4WlY3UzZQcm4zOS1weTVPa2s5ZGFQaVVZUFhlOUdjNGhVcHJwU0RwSE9EZFZ3SndGbjYzcE4yY3BHekhXVGlaMUNSbkVqd3VTUVo2amdXbFJLQ0NzcUVHRFZYQmtaWE1WTTRvdHhPTjQybVAtVTdI?oc=5",
-      "summary": "From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang&nbsp;&nbsp;The Guardian",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T02:30:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery\nComments URL: https://news.ycombinator.com/item?id=50477335\nPoints: 3\n# Comments: 1",
-      "source": "Hacker News AI",
-      "published_at": "2026-11-13T02:28:29+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Why the AI industry is so dependent on Nvidia's tech - CNN",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JdE1NeTJyUzlQeVRGd1MxYjRBQWNBVi1yR0dOTjM5cDRqQ3paLTAyV3pWNWVXUzdnWXBDdXYzeV9zMDhNNlhMQUhhTzFDdDg0ZXVBZEMwZ2s3eG04cUhBNVZtNnZBanFiOVAtZW0wdG0xdE43cWJQWlQ5b0hGS2s?oc=5",
-      "summary": "Why the AI industry is so dependent on Nvidia's tech&nbsp;&nbsp;CNN",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T02:25:40+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "EU leaders to hold first ever talks on AI in Dublin - AFP.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV2d1d0ZWWTc1b0RDZDE2YlNrX09FVjJCdS16RG92NDFfRkVGWTMwX3pvb2hjeWhrc3JudUNtSUNuMkw0dXprMGNUdERfWUZENmF5WVM3TUJ2QkV1T080bi1pcTMwUnpzcVBSZk5ocVRnREE?oc=5",
-      "summary": "EU leaders to hold first ever talks on AI in Dublin&nbsp;&nbsp;AFP.com",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T02:20:01+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Grok Bot 可加入视频会议当队友",
-      "link": "https://aihot.news/items/g9q3lupi9czgso26okjx29l8j",
-      "summary": "@bot 加入会议！！\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/g9q3lupi9czgso26okjx29l8j",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-13T02:12:33+00:00",
-      "category": "6. 热门 AI 视频"
-    },
-    {
-      "title": "ASUS Co-CEO: Need to assess if Nvidia's new leadership can sustain AI industry growth momentum - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTWhnMlhFVUdaOXhiUDl4czJPdFpncG0xcW9EQk9NeDQ1aC1XcVlkR3ZZOC1VdjdmV3YwaFpqeHZxbF94M3pmSGZBX0dLbWkyRmJVWmg2UmM5RS1FdmFfTy1BRDJGQng5cHZ3c2ZDdmR0eFZoVXNPTmxYMl9uc0pPTDFQenhMNEVQd3lQaWlFZ3Jsa05GY05GcnFmNUVYUkxFNjBKTHdnWTljNnN5?oc=5",
-      "summary": "ASUS Co-CEO: Need to assess if Nvidia's new leadership can sustain AI industry growth momentum&nbsp;&nbsp;CNBC",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T02:11:10+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Grok Bot 1.0 支持像邀请同事一样把 Bot 邀请进会议",
-      "link": "https://aihot.news/items/fxvnzu4yux20eu57vphb07q4c",
-      "summary": "xAI 的 Lingxi Li 演示 Grok Bot 1.0 的会议用法：只要让 Bot 加入会议，就能像呼叫同事一样在会中呼叫它。Grok Bot 1.0 定位为 AI 队友，可共享 Bot、在 Slack 和 Teams 中协作、受邀参加会议并在使用中逐步变得更高效。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/fxvnzu4yux20eu57vp...",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-13T02:10:29+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Rohan Paul 日报：黄仁勋结束 33 年任期辞任 Nvidia CEO，Colette Kress 任临时 CEO",
-      "link": "https://aihot.news/items/sntaq2q8jo5gkp6hpgn0wy7g6",
-      "summary": "Rohan Paul 发布日报称，黄仁勋辞任 Nvidia CEO，结束 33 年任期，CFO Colette Kress 出任临时 CEO。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/sntaq2q8jo5gkp6hpgn0wy7g6",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-13T02:05:59+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "I Love AI",
-      "link": "https://www.possibilityspace.org/blog/posts/i-love-ai/",
-      "summary": "Article URL: https://www.possibilityspace.org/blog/posts/i-love-ai/\nComments URL: https://news.ycombinator.com/item?id=50477137\nPoints: 2\n# Comments: 0",
-      "source": "Hacker News AI",
-      "published_at": "2026-11-13T02:01:59+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Turning Teacher Expertise into AI-Generated Educational Simulations",
-      "link": "https://gail.wharton.upenn.edu/primer/",
-      "summary": "Article URL: https://gail.wharton.upenn.edu/primer/\nComments URL: https://news.ycombinator.com/item?id=50477120\nPoints: 3\n# Comments: 0",
-      "source": "Hacker News AI",
-      "published_at": "2026-11-13T01:59:09+00:00",
-      "category": "11. AI 垂直领域行业"
-    },
-    {
-      "title": "Muse 推出电话代打功能",
-      "link": "https://aihot.news/items/syqz4rlpbbh5mf85nqqxszogv",
-      "summary": "电话代打来了 ☎️！@muse 可以拨打电话并替你等待接通，让你继续忙自己的事。现已向美国付费订阅用户开放。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/syqz4rlpbbh5mf85nqqxszogv",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-13T01:57:24+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "黄仁勋辞任 Nvidia CEO，Casey Newton 撰文评析硅谷创始人崇拜的终结",
-      "link": "https://aihot.news/items/yb6o3s9lyxkb8xf7ykhrj3cr1",
-      "summary": "Nvidia 于周四宣布 CEO 黄仁勋辞职，CFO Colette Kress 暂代 CEO，此前纽约时报曝光其第二段婚外情，路透社随后披露第三段。作者 Casey Newton 评析其职业生涯，指出硅谷创始人崇拜带来的两大问题，包括富豪寡头化和 key-man 风险，并称黄仁勋没有继任计划。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/yb6o3s9...",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-13T01:43:23+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "A breakthrough in magnetism could make AI chips use dramatically less energy - Science Daily",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rZnBtV3dDX3Blc0ZTNEZwTGZhbU1YWHFOYnBPMVA3MUY3NkhKS0FabUxzSTdCRDJ2WHRXR3U2VHJxeVBveko3WDBKZ01qZi1HckRQNUNYZktIR2Rja25hSUNjdmcyX1RuVmxmYlhLSQ?oc=5",
-      "summary": "A breakthrough in magnetism could make AI chips use dramatically less energy&nbsp;&nbsp;Science Daily",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T01:42:15+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Schelling Atlas: AI agents know where to find each other on the web",
-      "link": "https://schelling-atlas.com/",
-      "summary": "Article URL: https://schelling-atlas.com/\nComments URL: https://news.ycombinator.com/item?id=50477023\nPoints: 1\n# Comments: 0",
-      "source": "Hacker News AI",
-      "published_at": "2026-11-13T01:41:48+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Advocacy Groups Sue AI Giants to Freeze New Models, Warning of 'Catastrophic' Risks - Broadband Breakfast",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUlE1SmRuZmY5bHFhdjB5cy1ZRWJCWFlhMlM2N3Zkd3hsVkNLVVNwcUlDd2hDMmNlRm8ta1paOHNNVE1ZMlozR1ktdjc1RTdRZU1OTElxRDFnOTZZVEVLZUg4eU9nalViUTFQbER6ZHk1RHBmSWtNSHVvWUVYd0JkQmNMNUgtYzR3bUIxMzNWeEZ0VVZteHRFYXRaMWlSanB2TTl1dm5yVV9YM2kwbWh1OUFB?oc=5",
-      "summary": "Advocacy Groups Sue AI Giants to Freeze New Models, Warning of 'Catastrophic' Risks&nbsp;&nbsp;Broadband Breakfast",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T01:41:15+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "50 Cent Trolls Former NVIDIA CEO Jensen Huang With 'P.I.M.P.' AI Video - Billboard",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLVRYUU1vY1ByMk1rR050WldSYzdDTC12U3E4QXZrZlgyWnBha0JKUWI2N3NQN2tnSlh1aU81QkljaFd0NGtpTExlRkpyVy0tUXlEMTY5RHF3dmFQbVhVX19hVERWTm9wbjVNcnhNRHB6bDNxN2M3RlVNWXVGaUZzRjg2VnRKMURPNktPNXU1MmoxalZhVWo1WjVQeGlhVVZyRV9BLXFDTWFkeVUxZmNCUXlqVjM?oc=5",
-      "summary": "50 Cent Trolls Former NVIDIA CEO Jensen Huang With 'P.I.M.P.' AI Video&nbsp;&nbsp;Billboard",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T01:38:46+00:00",
-      "category": "6. 热门 AI 视频"
-    },
-    {
-      "title": "AI Didn’t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One. - Qualys",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQVd3UFhOcS04aTZiRWFLWFlNa2dIVlk0dVo3ZG1OUG1mdjFUY1UzMy1tUDdaRnQ4NGxwZS1Kbnl1TVFsQUZhdVJoa3JVdWlORlhGOWJhOVNFM3JBT1Z0UXpWWUtCbzkyaDNTMUZpVDdNaVQya1U5WTludFFjdWNGOFhnVjJRZVAzdm9HYUdiRHJackk3c2J0STdCMzVhVUhZWk9WNnZuekRnU3VfY1hhbmhUSl9jQm5xaVFscy1Vb2lTbGpQZ19Mbg?oc=5",
-      "summary": "AI Didn’t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.&nbsp;&nbsp;Qualys",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T01:37:32+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Chinese AI satellite maker Adaspace slips in Hong Kong debut - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdURZdWFJNWRNUUpQMW5LMkF5M2pMbnBiUENVX2RzUl9QYlZkN2tnNWQyRk5MWjNNTk5PXzBsMVVIVjF3Y2ROVDdhaWlORDQ2aGVFV2NiWkt0U2NmUW1WRWVrZE1CNDhCcHNveWlMeU1XazZDZnNoNDh1ZXVlSFhDbnN1LTdnZFlTc1FycWNwejBRbUc3ano3NjBZaHFqMjNhZFJhajExcjlTR1VmcHllcmdTV2RfTjl5cGE0TVFB?oc=5",
-      "summary": "Chinese AI satellite maker Adaspace slips in Hong Kong debut&nbsp;&nbsp;Reuters",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T01:30:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Cisco beats expectations, lifts guidance and forecasts AI infrastructure revenue to double in fiscal 2027 - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMGdHRHc1a2pSeVdvNUxxN3dKTm5CV3lQZUF6d2lNc2hPM2JxckVqMEc3N2taSDkwTUJxNGQyVkxnRVRaRzVPVjdPOFcyc2tsR0kyeDduakV1amQ2cjc3Wnp6ekFfZGNTVW16MGpCY0ZIc28yT2NPNnQxZ0FNZXc4T2tCRW9rNS1RSmNjbkNxb2plc1M2NXNLdVQ3dHRlNVdDdkZPRlA5U1BNaHYyaEVsRkF1VFBfaVRtVnFRbHM0OVVBN3pGcERzU0JKUHNsdFVEU3FRNWl3ZEliaXlrZnc?oc=5",
-      "summary": "Cisco beats expectations, lifts guidance and forecasts AI infrastructure revenue to double in fiscal 2027&nbsp;&nbsp;SiliconANGLE",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T01:30:00+00:00",
+      "published_at": "2026-11-14T01:23:14+00:00",
       "category": "5. AI 赚钱案例"
     },
     {
-      "title": "This Startup Raised $1 Billion to Build AI Faster and With Fewer Humans - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkxPOGVxOXJ1ZHo1Wjh4YjRHamNPWFZUUXhWMG1FSU5EUmZRcHZ2QXRyWk5Va1hiRFEyOHdlZGZkNTkwYjJkVUh6Y3l4TVhuTnFiSDRfa2M4amV6ODc5MnFSVi0xd3ZsTzVEZ2lEdlNfVE1OX2ZKSkJDZDlaUHNFV3JsVHhMX3ZEOGlrdEpRMEtTMGxyck1kbVlPSWhnSmZuelVZRnRNcUR2M0dULWJpd3phaGRoOXc5WXVz?oc=5",
-      "summary": "This Startup Raised $1 Billion to Build AI Faster and With Fewer Humans&nbsp;&nbsp;WSJ",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T01:29:00+00:00",
+      "title": "fal Agent 上线 Fable 5.2",
+      "link": "https://aihot.news/items/s295el4w6czfoy8y26unxe6zd",
+      "summary": "Fable 5.2 现已在 fal Agent 上线。\n\n描述一个游戏。fal Agent 会生成素材、编写代码，你可以直接在聊天旁边玩。\n\n从一句提示词到一个可玩的游戏，全程都在 fal 上完成。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/s295el4w6czfoy8y26unxe6zd",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-14T01:22:32+00:00",
+      "category": "3. 热门提示词"
+    },
+    {
+      "title": "fal 推出 agent 功能并展示游戏示例",
+      "link": "https://aihot.news/items/jotldg7dd7jb8wx9p9obfhx52",
+      "summary": "现在就试试 fal agent\nhttps://fal.ai/agent\n\n再试试一些游戏示例 👇\nSkyfarer：https://fal.ai/chat/share/dbr0ofsregj2e6p6ehp0\nAutumn Wind：https://fal.ai/chat/share/dbr0p54regj4lm16g0u0\n🔗 阅读原文\nvia AIHOT · https://aihot.ne...",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-14T01:22:32+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "面壁 MiniCPM5 2B 在用户实测中工具调用与长上下文领先",
-      "link": "https://aihot.news/items/lpi6rq9ym98uzzy88s5046oho",
-      "summary": "面壁智能 OpenBMB 转发用户 @PaulGug 对 Raon-1 nano 等 5 个小模型的本地智能体实测，并致谢社区测试。实测中 MiniCPM5 2B 在工具调用（99%）和长上下文（92%）上领先，但完整智能体任务总分（150/300）低于 Raon-1 nano 的 163；Raon-1 nano 完成 96/96 次测试、约 187 tok/s，作者更推荐它做多步智能体工作，Mi...",
+      "title": "Could the FAA's AI Rollout be Connected to the National Ground Stop? - AeroXplorer",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWC1RQVlRZktROXk4ck9ZN05xVURqdDF4Y2ZROVRXZUFZc1ZnR0lXT0F2Q2pScThtNUdVSm5mWDEyOXZtN1BkcDZEcE1OS0M4Nm5xOEc2VXZDOV96aUo2TnNjX1QwVXV5S0ZzaV9GdExjcWVEeXZ4SnZGVkVJR2gwRE1hemhZc1d0bUFrXzNHaEFUZjA4eUg2cktTNHM2QQ?oc=5",
+      "summary": "Could the FAA's AI Rollout be Connected to the National Ground Stop?&nbsp;&nbsp;AeroXplorer",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T01:18:47+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Cursor 发布近期安全事件更新及整改说明",
+      "link": "https://aihot.news/items/t07r7deta8mk6u9t982b7hs7o",
+      "summary": "Cursor 发布关于近期安全事件的官方更新，附详细说明链接 https://cursor.com/blog/security-incident-update，内容涵盖事件经过与整改步骤。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/t07r7deta8mk6u9t982b7hs7o",
       "source": "AI HOT 全部",
-      "published_at": "2026-11-13T01:27:28+00:00",
+      "published_at": "2026-11-14T01:13:26+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "礼来 CEO 回应 Dario Amodei 的 AI 十年内攻克癌症预测，称不太可能",
+      "link": "https://aihot.news/items/hnyrtwckxjkd6gyxkj35tuxv5",
+      "summary": "礼来董事长兼 CEO 戴夫·里克斯于 11 月 12 日在 X 平台回应 Anthropic CEO 达里奥·阿莫代伊此前关于癌症、阿尔茨海默病等疾病有望在不到十年内被 AI 攻克的预测，称愿景令人向往但不太可能实现。他表示人类对生物学的认识仍有大片空白，随机人体试验获取可靠证据仍是研发关键瓶颈，预计 AI 在医药行业的进展将是稳步、渐进的。\n🔗 阅读原文\nvia AIHOT · https://...",
+      "source": "AI HOT 全部",
+      "published_at": "2026-11-14T01:10:57+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "Company behind FAA’s AI tool says tech didn’t cause ground stop - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWtUekJXMUhJSDdlSTRUbHVFalNOQUk5aWFyNTFGeDdVUWYwTlZLNWhCdE0zSzk1WGFRQkJ2MFZhblczMFNrMFIwdl9ZSTdpWGhobmZOTlQzajhKRVh6XzFhUXhYOVBhNC1SSkJ4dENBOV84SVUyMnJKWFRoYmhnMmthREkwUDh2U2J2eV9WMkJYeHR6SzNVV2hXYUlwMXJRVkp5VHgtTmE2YUpNR25FTlFqdw?oc=5",
+      "summary": "Company behind FAA’s AI tool says tech didn’t cause ground stop&nbsp;&nbsp;NBC News",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T01:10:39+00:00",
       "category": "2. 热门 AI 工具"
     },
     {
-      "title": "South Korea accelerates $599M domestic AI chip project - upi",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTU41WlVrNkFJNVZxVi1iT2hJSEV3SlY0OF8tMXhncGVHOGFRdW9FSjYtbjFBRmpicWl6TnZjQ3gzQTVyODRTVHpqbTBZTlZHVDgyY0VjUk5oVTRQQ21rMUpueTREX3E3VXA2aVllREFBWTk3NFBCQ2hlZEFIVlYtNkw2aWVvelRGdHhJd0VoSnNhM3RvdUtuWW1FUzZ6LUF4aEZwT9IBqgFBVV95cUxPeDJ6dGhkOGhXUER2aDNRcVp2OXhQZHRmX3R5VFBGVkNoYnB4bWFMYUV3VUd2LW1WY3o0MDBoeFpyVDhEanpQMWlxQThpLVNHMFAyaDNlaDZSNGliTGotdkwzcXk3OFBNWUJQNXByWWFOZE9XZGNLeldKMTZrcmUzN3BXTktWTFVBb0l0cEZvRzZFdE4weExGNVRzZ3g1Y204N3F6eVpUMG9qQQ?oc=5",
-      "summary": "South Korea accelerates $599M domestic AI chip project&nbsp;&nbsp;upi",
+      "title": "FAA rolled out a new AI system days before nationwide ground stop. What is SMART? - Cleveland.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTDNTSEtHWUJkLWp5ZDJaZUZPMFRFYnp2LWdVM1gyUUNtb256bFIwTS1RcU1ab2ZVVVJjTm5xb0s4aGVjdDdnUDZJOU1laUFETzZNTExfb2lGdUhvNzFRcllScXh0OTJnWjNwM1lEc3BCMjlES1REUWFXc0Ric3MtaHB0WGh6eUdpT3I3NGl0N2xSVHlUdmFRN0s3bUpsVDVHZWVRWHgtRnJKRjZIWGtHc2Jub1RLSXNOcTRjNWV3S2fSAdQBQVVfeXFMTjhad1BNNTJUTWJTZHlCdElzOFNWc1daMEd3M3VxTFBkYlR3STNfMWJqQzVqRThwa0Y3ekdibVhhWnJKTFFnaDN3NU5ScXZHblFwWHRwR2ZmcjVQcTlGb1lzN1ZRdm85X2xEbGNfcFFGbnJkLVZ2X2JxUHBPQ3EydW9PNlI5dm95VlgzNVE5akdIZ01VNzR2SGR1Z0tkZ2RJMEd1Vk45aHFiYkFBZ0VUX0hFV1lHWFBqYkVPWVdfZWRTcVNLaEhySDNkVXlKSG9TOHc5ZHA?oc=5",
+      "summary": "FAA rolled out a new AI system days before nationwide ground stop. What is SMART?&nbsp;&nbsp;Cleveland.com",
       "source": "Google News AI",
-      "published_at": "2026-11-13T01:23:57+00:00",
+      "published_at": "2026-11-14T01:04:00+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "With Jensen Huang Gone, the A.I. Industry Loses Its Most Powerful Backer in Washington - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZWw0MUNzRXdSYktGVGo3bk1POGk2aW0yUlVTdjlpcEh6UzlGbmtwRmhwRVhRRVRtNjB3QzRpYllHb1FlaWVfdjU5RUpqZk5CeTI0Q0EtSFQtNkswZXNfbFU5bmxqTG1VSlB3SXVBOHFhNFdtQjNpd2ctSmlzbFZKN2ZZaw?oc=5",
-      "summary": "With Jensen Huang Gone, the A.I. Industry Loses Its Most Powerful Backer in Washington&nbsp;&nbsp;The New York Times",
+      "title": "Every Way to Get 192GB for Local AI (Without a $9,500 Mac) [video]",
+      "link": "https://www.youtube.com/watch?v=_e2dk4Pothw",
+      "summary": "Article URL: https://www.youtube.com/watch?v=_e2dk4Pothw\nComments URL: https://news.ycombinator.com/item?id=50492369\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-14T00:59:29+00:00",
+      "category": "6. 热门 AI 视频"
+    },
+    {
+      "title": "Who is Air Space Intelligence, the company behind the FAA's SMART AI tool? - Nacionale",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeExhaU5EWW9yNWtZQi13NUhILU1TdkNhOXc2T1ZBcDIydW9mWTF5b2FScjdfbEFEM0sydUMzdXJreUlORGFlSWZqX3gxOHdrS1RLTzRNWjFMQzJHR0VySTd1UUNXQk84bW9sa2I3ZzhaZkxsTVVMR3F4bng3NlJWS2RGYjhPQzVkdDZVbXNDYngyWmlwVkcyajZvNW9uenJaSHJjaUYxUQ?oc=5",
+      "summary": "Who is Air Space Intelligence, the company behind the FAA's SMART AI tool?&nbsp;&nbsp;Nacionale",
       "source": "Google News AI",
-      "published_at": "2026-11-13T01:22:35+00:00",
+      "published_at": "2026-11-14T00:52:26+00:00",
+      "category": "2. 热门 AI 工具"
+    },
+    {
+      "title": "NiCE's next-generation Cognigy bets the hard part of AI agents is running them, not building them - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlNBVlZFaElpMF8yenlzZzlLRE53THl4a19EZE5PX3UtUlVYeDUxQWk3OFZ6NzhLOG1HR3BTT2NMdXh5Y3FQM3lMaUUxam5ySjlIVnppaWRBWVl6MW9XY253Z1J2a0dWbks2VV9EaXltTTBGX3B0c3BXUmtyemNUcWhlYjRUNUpMRGNPa0FPQ3Q5TTN2a01XU3ZKY0RSLTZoWHRRQ2J0TURqMHc2TjYxQTg0eVlqbDFveUtkRFFMODV6RVFGSE9DZVdWV2M?oc=5",
+      "summary": "NiCE's next-generation Cognigy bets the hard part of AI agents is running them, not building them&nbsp;&nbsp;SiliconANGLE",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T00:49:00+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "AI productivity gains need to be shared — but how? - Politico",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZmtnUjdhUW03QW5kM0d2bi1IZzJMMTBQM3VIZ2w4UHd3ZkRXLVhUR18tX2VadHJYWnVPRF9sd3NJVlJGVGV4NjZiNVJGVXFMZ3pmdU5ucHJVbmpVMHg3N2NJUnU5eDF2T0h2ajU2NmNKT0ZpanBvZHdfQVQ3M2MyQU5NRmZSSHgzZFFiS2FVVDlKaW1SM3FMdkNYNk1ZZ0VCbk93UHRwczNrUmcxNk9zelhSVjM5d1c4MzdiM0Mzd29abWxhdi1iWjBXNm5kX0U?oc=5",
-      "summary": "AI productivity gains need to be shared — but how?&nbsp;&nbsp;Politico",
+      "title": "How Philip K. Dick Predicted the Future of Artificial Intelligence in literature - The Guardsman Online",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPelIxT3FrZ1prNjExUTFTT2F5TGJKdkxBcHlUQTR4ZVc1czJ5cTkwTXFoTXdSODRJZWx0WWN3blFaQzJhUG00MTduRTRLWVlocVdKVmtGVFRFemFobi1EVWVLWjhUcGdjcmFTMGpicDIxaVhwMjJwaGtuYXM0MGxSQmZyaWZ5TkFLSXY1a3lIYldQdUs1bnpxVl9LR2dncUh3RGZFNll2dnZSSEFiM1E?oc=5",
+      "summary": "How Philip K. Dick Predicted the Future of Artificial Intelligence in literature&nbsp;&nbsp;The Guardsman Online",
       "source": "Google News AI",
-      "published_at": "2026-11-13T01:18:00+00:00",
+      "published_at": "2026-11-14T00:48:58+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "Nvidia’s leadership crisis puts enterprise AI’s dependence on one company under scrutiny - Network World",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaWpFbnVQV19oVmFwR0NEVnFPNXlDTDFWWjAzOTlxTmpMclZpSE9Ia0p3VTExdmNHUHYtdF9LTkJOZWozT1dfTUpENl9zOFVNZTFLWlhOQzZFZk1ocTdFWFRla2VGY1o5Vm5uYjlMV1FsWTlMcDUtVndJb2VTSERBa0J3UTloN2tHM3NOYzFCLUJydFBKTEZaYlVTUHBtYk9nR0gwQTViYzZYaFVIdlg1ekdaRVV2S3p0ck1EQWxOS1FKRFRXaEFXOFRlQWtTYldUWEE?oc=5",
-      "summary": "Nvidia’s leadership crisis puts enterprise AI’s dependence on one company under scrutiny&nbsp;&nbsp;Network World",
+      "title": "Does the Trump Administration’s Campaign to Rebrand AI as ‘Super Intelligence’ Matter? - Tech Policy Press",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTB2WXVOTHRMRElJZDJyQ2hZa053UkRyRndaRzNEajhxQnJyakgtWGRRUEI1TXhTMzRucUJTS3d6dngwOXpLbFo0RkhJNUpJMTRCZDl2NXcyUWU0aWhXaHBScWhjcGZ1UFAzM0s1TkpPMjd5NGhSajlzYzdLWWZaZ1NnUnFHcTM1Yk1Fc2hlTXduTVpJaUpSb1NSTTRsQXJVY0luUWthNVdLNm1fZk5rMnln?oc=5",
+      "summary": "Does the Trump Administration’s Campaign to Rebrand AI as ‘Super Intelligence’ Matter?&nbsp;&nbsp;Tech Policy Press",
       "source": "Google News AI",
-      "published_at": "2026-11-13T01:17:55+00:00",
+      "published_at": "2026-11-14T00:44:55+00:00",
+      "category": "9. AI 政策与法规"
+    },
+    {
+      "title": "ChipAgents – The agentic foundation for semiconductor design (AI for IC design)",
+      "link": "https://chipagents.ai/",
+      "summary": "Article URL: https://chipagents.ai/\nComments URL: https://news.ycombinator.com/item?id=50492245\nPoints: 2\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-14T00:42:10+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "Anthropic’s Claude Tops AI Rankings as OpenAI Limits Cyber Model - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYlczWW5CYUlhR3h6QzBPcDk2aEZyMjhHZWMtYjJSTWtESjlQRmJBRUJvR0hrc2NfZGxDRDFrWjhaN0llbkhWVkdCdlU5WFhoVmhHUF9sX0U4WW1abWxrd2Rya25XRVdiaGFqZ0VodmhWWWZDMWZpYzBVdXAzbktKejlpQS05S1pYRjJfc3FaaGtxYk9XTzIwV3hlemFOX3hvclhsamFGNFdpM2FBLXczclZseDVpQnppOUNVd0tR?oc=5",
-      "summary": "Anthropic’s Claude Tops AI Rankings as OpenAI Limits Cyber Model&nbsp;&nbsp;PYMNTS.com",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T01:14:49+00:00",
+      "title": "Show HN: Portal2Bench – Can AI agents solve Portal 2?",
+      "link": "https://kingstonyip.com/portal2bench",
+      "summary": "Article URL: https://kingstonyip.com/portal2bench\nComments URL: https://news.ycombinator.com/item?id=50492238\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-14T00:40:55+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "Meta Muse 推出代打电话功能，现已向美国付费订阅用户开放",
-      "link": "https://aihot.news/items/cao50r2q3qrcw2hc98klkvr6n",
-      "summary": "Meta Muse 员工 Christine Awad 推荐并转发宣布 Muse 可代用户拨打电话的功能，可处理保险、有线电视、DMV、餐厅订位等不想打的电话，现已向美国付费订阅用户开放。作者称该功能为自己最喜欢的功能之一，节省了大量时间。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/cao50r2q3qrcw2hc98klkvr6n",
+      "title": "OpenAI board member makes a terrifying prediction: You will probably die from an AI accident - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2U2RzhQSGw0WGd3anc2WlBObXd2U2dSTXRTMEJzSmtmR09lZk5SQWdBZFR6RjQxYzVJUldUWllPTksxQWhQMWJlSFAzX2tXLXhqeWNTM2E0eEIyUnJYZEs4M0M4X0JReFo5M2J2T1FESk1JNF9feU9KREFhWkVlb2dRZW95Z015TndBdGNlNnI3U2xSeXVKd3Zhd2FfQ2EzbHJqZmhIdTJHbWFlaTFkOHBVREFjZkk?oc=5",
+      "summary": "OpenAI board member makes a terrifying prediction: You will probably die from an AI accident&nbsp;&nbsp;Fast Company",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T00:37:06+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "White House Urges Easing Liability to Encourage AI Disclosure - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnR2MHh2N1dqYVljRm44MklWcFJ1QXppTERpYnpCSUdDc2hIdTRUSTJuUTNVZTJSTmMxemUxdjlWQVp1OU4weHpwc2lveS1sbi1DazdUZUpSVGFMMUFBdGMwVnNYNV84aXdGVmdneFJlQlNaNmtnWWN0aGpVdkdaMXVMVlJsWXdfWU5kRHVsMGhBRGhoTEo5dUJEU2xuMy1GaFgtb01BZktjR2szUlZONjBR?oc=5",
+      "summary": "White House Urges Easing Liability to Encourage AI Disclosure&nbsp;&nbsp;Bloomberg.com",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T00:34:00+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "AI Is Going To Kill So Many New Honda Elements: COTD - The Autopian",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVzlTWVlUcHE4aXh4ZUR4VzJCRzVUZ0l5Ykhib0FkaEZ6RllnbW1jbEp5bURxekU1Y2o4cHZNdDh0OWpPeGNaLS14ZXVkTjE3N0t0LXQ1X2VZSFpfSlRmTERQUlRJMGt3S3Uxd3JwaEZIaUVkb19wNXpGazRyNUVPbE1DTG12NkU?oc=5",
+      "summary": "AI Is Going To Kill So Many New Honda Elements: COTD&nbsp;&nbsp;The Autopian",
+      "source": "Google News AI",
+      "published_at": "2026-11-14T00:31:21+00:00",
+      "category": "1. AI 新消息"
+    },
+    {
+      "title": "FT：SBF 投入 Anthropic 的 5 亿美元按 IPO 预期价格约值 370 亿美元",
+      "link": "https://aihot.news/items/g00g4zgmnmxgh069cxc07h5ko",
+      "summary": "据 FT，Sam Bankman-Fried 当年投入 Anthropic 的 5 亿美元，按下周预期 IPO 价格约值 370 亿美元。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/g00g4zgmnmxgh069cxc07h5ko",
       "source": "AI HOT 全部",
-      "published_at": "2026-11-13T01:14:31+00:00",
+      "published_at": "2026-11-14T00:31:20+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "Pipecat 1.16 新增 PerceptionReader，配合 Google Decision 1 识别语音语气与讽刺",
-      "link": "https://aihot.news/items/ablgaq8p9xqmr5dz7w3c3rabq",
-      "summary": "Philipp Schmid 转发 Pipecat 团队动态：Pipecat 1.16 新增 PerceptionReader，用于捕捉用户说话的韵律、语气和讽刺等表达方式，作者认为此前语音智能体大多缺失这一维度。团队已在昨日发布的 Google Decision 1 上测试，向其流式输入音频可获得较准确的语气判断，demo 地址为 https://pipecat-google-decision-...",
+      "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "link": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "summary": "Article URL: https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free\nComments URL: https://news.ycombinator.com/item?id=50492141\nPoints: 59\n# Comments...",
+      "source": "Hacker News AI",
+      "published_at": "2026-11-14T00:28:11+00:00",
+      "category": "8. AI 编程与开发"
+    },
+    {
+      "title": "梯度对齐奖励能否让监督变成同策略？Baseten 用 Qwen3-8B 实测",
+      "link": "https://aihot.news/items/hili959t7cqjbpq9as4b6cvw3",
+      "summary": "Baseten Base Labs 探讨梯度对齐奖励能否在保留专家示范作为学习信号的同时，对学生自身采样做梯度更新。该方法把学生 rollout 与专家示范的 log-likelihood 梯度做余弦相似度打分，并给出仅需两次标准反向传播的高效实现。实验在四数字 Countdown 上用 Qwen3-8B 进行，专家 rollout 由 Opus 5.5 生成。\n🔗 阅读原文\nvia AIHOT ...",
       "source": "AI HOT 全部",
-      "published_at": "2026-11-13T01:10:07+00:00",
+      "published_at": "2026-11-14T00:24:24+00:00",
       "category": "1. AI 新消息"
     },
     {
-      "title": "黄仁勋辞任英伟达CEO：作者梳理14天时间线与33年生涯",
-      "link": "https://aihot.news/items/y51nb19h2bj96to0swwkv57oy",
-      "summary": "11月12日英伟达公告黄仁勋辞去总裁、CEO和董事职务，股价当日跌13%，市值跌回4万亿美元以下，CFO科莱特·克雷斯临时接任。\n🔗 阅读原文\nvia AIHOT · https://aihot.news/items/y51nb19h2bj96to0swwkv57oy",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-13T01:03:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "AI Agent Emily Books, Bills and Refills for MUSC Health - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3lGRzNDQ2pGV1RvMjNSczRNaGVCRWlISUFneXE1amZwQWFFeFhFV0xlM2JvdU1LMmFhQUp1eTNDOXB1a2F3cWtxQWJ2NEZSY3dZZ2JwNHVRVUNnUmpEVTJBdnJHbFlEbkJMLUxjb1Q2U0hsaENvNmFmeTBiWVNLQzJZRzRpR2xJRUpEOHJlTXd3YXYzVG4wYVR3?oc=5",
-      "summary": "AI Agent Emily Books, Bills and Refills for MUSC Health&nbsp;&nbsp;PYMNTS.com",
+      "title": "AI Won't Replace Engineers, Expert Says - Design News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTno1UE9XY21INmRPZ19jWkdiU1NzZmxWQjRTWE9jbzB3V3REbXJGVUFseGx5SDFBWUhXZGxCZ19NVDVSLVFYenktUi1lel8zWFRydmRFNk1RMFhORnR2WE1ITUVfM2g5QXd2OTBialhjZms0bFB3TUppN0hTVXVGOGRnMXpWc3BQbHJPMzI3SGhZR3BkYnhWRTBXN2N5a0RudV9Eby14OUJjTlFvVUJxZlVBdGVUUXVadEtOOVduWHluZ2ZrdW1yMw?oc=5",
+      "summary": "AI Won't Replace Engineers, Expert Says&nbsp;&nbsp;Design News",
       "source": "Google News AI",
-      "published_at": "2026-11-13T01:00:05+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Exclusive | AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNldJX01OcW9RMkRvR2QxbDljdmNZMGEyVUlnRjkwTWtqbmRsdVZHYnktd0ExUjlOYXFtNXdqcldodFpmemEyQWNfRDZXXzhIUi1DUVI2NFNBczZxdzc2ZWM0eW16bFJSa19PV1ZvSnQ2N1Y0RnJPM2F5R2VTWG1DOVBHNUFjUkhRbWZnYXFEenRMVjJlVlgyOF9JOA?oc=5",
-      "summary": "Exclusive | AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.&nbsp;&nbsp;WSJ",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T01:00:00+00:00",
-      "category": "1. AI 新消息"
-    },
-    {
-      "title": "Cohesity Expands Cyber Resilience and AI Data Capabilities for Microsoft Environments - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd2x2OGd4X1c5S0kwLVJtNTJlVk4zaEk1T3Z6OGRObnJrRDFrc1lDZkgwS0JJa0V3dDJhS3pvcEVwNl9XZHcxak9JaTRraDNpVk1ZY1IxSEhhVV8yLUo5b1M1T2hBdGx3V2F0VWx3QzRjZVdKX25vYW5rLTJjQzE4SEdqZnRIOTFuUEc0Y0tZZHgtX2tJNlpFR2ljNzZmUHVpU1E?oc=5",
-      "summary": "Cohesity Expands Cyber Resilience and AI Data Capabilities for Microsoft Environments&nbsp;&nbsp;Yahoo Finance",
-      "source": "Google News AI",
-      "published_at": "2026-11-13T01:00:00+00:00",
-      "category": "11. AI 垂直领域行业"
-    },
-    {
-      "title": "Sundar Pichai 体验 Google 智能眼镜实时语音翻译，预购已开放",
-      "link": "https://aihot.news/items/otrnptmjoban0f5lw8w3wi442",
-      "summary": "Sundar Pichai 称 Google 智能眼镜上的实时语音翻译效果令人惊叹。引用内容显示该眼镜预购已开放，由 Google、Samsung、Gentle Monster 和 Warby Parker 合作推出，内置 Gemini 提供免手动帮助，12 月 10 日发货，并已在部分 Warby Parker、Gentle Monster 和 Google 门店可体验。\n🔗 阅读原文\nvia ...",
-      "source": "AI HOT 全部",
-      "published_at": "2026-11-13T00:58:10+00:00",
+      "published_at": "2026-11-14T00:21:19+00:00",
       "category": "1. AI 新消息"
     }
   ]
